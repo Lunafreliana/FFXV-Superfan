@@ -1,51 +1,97 @@
 # Canon Glossary
-
 - **Term:** Starscourge
-  - **Definition (canon):** A blight/plague that turns humans and beasts into daemons and drives the long-night crisis.
-  - **Where it appears:** Core game cosmology, Ardyn origin material, prophecy structure.
-  - **Source note:** Canon lore summaries and chapter exposition logs.
-
+  - **Definition (canon):** A planetary blight/plague that turns humans and beasts into daemons and drives the long-night crisis.
+  - **Where it appears:** Core world lore, Ardyn history context, and endgame prophecy framework.
+  - **Source note:** Canon text extracts.
 - **Term:** Daemons
-  - **Definition (canon):** Corrupted beings associated with the Starscourge.
-  - **Where it appears:** Core combat/lore loop and imperial experimentation context.
-  - **Source note:** Main game + Niflheim-related references.
-
+  - **Definition (canon):** Corrupted nocturnal entities associated with the Starscourge and daemonification.
+  - **Where it appears:** Core combat loop, world-state deterioration, and imperial research logs.
+  - **Source note:** Canon text extracts.
 - **Term:** Crystal
-  - **Definition (canon):** Central divine artifact tied to Lucian kingship and world-purification providence.
-  - **Where it appears:** Insomnia conflict, True King ascension logic, Ring system.
-  - **Source note:** Main-game prophecy and chapter exposition.
-
+  - **Definition (canon):** Central divine artifact tied to Lucian kingship, Ring mediation, and final world-purification providence.
+  - **Where it appears:** Insomnia/Lucis state identity, True King framework, and finale logic.
+  - **Source note:** Canon text extracts.
 - **Term:** Ring of the Lucii
-  - **Definition (canon):** Royal ring linking Lucian kingship to Crystal power and forbidden magic; essential to final providence.
-  - **Where it appears:** Lucian succession and endgame sacrificial framework.
-  - **Source note:** Lore references and chapter 13 exposition.
-
+  - **Definition (canon):** Royal ring linking Lucian kingship to Crystal power and life-costly sovereign magic.
+  - **Where it appears:** Lucian succession, Kingsglaive context, and late-game sacrificial framework.
+  - **Source note:** Canon text extracts.
 - **Term:** True King
-  - **Definition (canon):** Prophesied king chosen to end the Accursed and restore light, at the cost of his own life.
-  - **Where it appears:** Noctis arc and Bahamut revelation sequence.
-  - **Source note:** Chapter 13 revelation text.
-
+  - **Definition (canon):** Prophesied king anointed to purge the scourge and restore light at ultimate personal cost.
+  - **Where it appears:** Noctis arc, Bahamut revelation framing, and final Insomnia return.
+  - **Source note:** Canon text extracts.
 - **Term:** The Accursed
-  - **Definition (canon):** Prophetic epithet for Ardyn in chapter-revelation language.
-  - **Where it appears:** Bahamut exposition and Ardyn backstory framing.
-  - **Source note:** Chapter 13 dialogue records.
-
+  - **Definition (canon):** Prophetic epithet applied to Ardyn in revelation language.
+  - **Where it appears:** Chapter 13 exposition and antagonist backstory framing.
+  - **Source note:** Canon text extracts.
 - **Term:** Messengers
-  - **Definition (canon):** Divine intermediaries between humanity and the Astrals; traditionally numbered at twenty-four.
-  - **Where it appears:** Umbra/Pryna context and Cosmogony references.
-  - **Source note:** Cosmogony and character summaries.
-
+  - **Definition (canon):** Divine intermediaries between mortals and the Astrals, traditionally counted as twenty-four.
+  - **Where it appears:** Cosmogony framework and Oracle-mediated communication.
+  - **Source note:** Canon text extracts.
 - **Term:** Covenant / Revelation
-  - **Definition (canon):** Rite/trial structure by which the Oracle awakens Astrals and the chosen king is tested/blessed.
+  - **Definition (canon):** Rite/trial structure through which Astrals are engaged, blessings are granted, and kingly duty is tested.
   - **Where it appears:** Astral encounter arc and prophecy progression.
-  - **Source note:** Cosmogony and chapter-progression notes.
-
+  - **Source note:** Canon text extracts.
 - **Term:** Royal Arms
-  - **Definition (canon):** Weapons tied to prior Lucian monarchs, collected by Noctis as succession burden and power track.
-  - **Where it appears:** Tomb exploration and main progression.
-  - **Source note:** Main-game system + lore summaries.
-
+  - **Definition (canon):** Weapons of past Lucian kings recovered from tombs as both inheritance and burden.
+  - **Where it appears:** Tomb progression, Armiger growth, and succession preparation.
+  - **Source note:** Canon text extracts.
 - **Term:** Regalia
-  - **Definition (canon):** Royal Lucian car used by Noctis and party for overland travel.
-  - **Where it appears:** Core traversal loop; symbolic father-son link to Regis.
-  - **Source note:** Gameplay descriptions and Noctis character notes.
+  - **Definition (canon):** Royal Lucian car used by Noctis and party; both traversal system and dynastic symbol.
+  - **Where it appears:** Core travel loop, road narrative pacing, and late-route transitions.
+  - **Source note:** Canon text extracts.
+- **Term:** Oracle
+  - **Definition (canon):** Sacred office that bridges humans and gods, performs healing, and conducts covenant duty.
+  - **Where it appears:** Lunafreya lineage, Tenebrae institutional history, and Astral progression.
+  - **Source note:** Canon text extracts.
+- **Term:** The Six / Hexatheon
+  - **Definition (canon):** The six Astrals (Titan, Ramuh, Shiva, Leviathan, Bahamut, Ifrit) watching over the world since antiquity.
+  - **Where it appears:** Cosmogony, covenant arc, and multiple chapter/research references.
+  - **Source note:** Canon text extracts.
+- **Term:** The Wall
+  - **Definition (canon):** Crystal-linked magical defensive barrier sustained through kingly burden to protect Lucis/Insomnia.
+  - **Where it appears:** Opening world-state exposition and Lucis war history.
+  - **Source note:** Canon text extracts.
+- **Term:** Kingsglaive
+  - **Definition (canon):** Elite Lucian defense unit founded by Regis and empowered by royal magic on loan.
+  - **Where it appears:** Treaty crisis/fall of Insomnia and Lucian military organization lore.
+  - **Source note:** Canon text extracts.
+- **Term:** Crownsguard
+  - **Definition (canon):** Lucian defense organization responsible for city/Citadel security after army reorganization.
+  - **Where it appears:** Lucis military history, Cor/Gladio duty context, and gameplay references.
+  - **Source note:** Canon text extracts.
+- **Term:** Magitek Troopers
+  - **Definition (canon):** Mass-produced imperial war units developed to expand Niflheim military superiority.
+  - **Where it appears:** War chronology, base assaults, and Verstael research/militarization logs.
+  - **Source note:** Canon text extracts.
+- **Term:** Armiger
+  - **Definition (canon):** Power of kings manifested through the Royal Arms and ancestral Lucian sovereign force.
+  - **Where it appears:** Royal tomb progression and Lucian kingship lore explanations.
+  - **Source note:** Canon text extracts.
+- **Term:** Royal Tombs
+  - **Definition (canon):** Burial sites of Lucian kings holding Royal Arms and succession-linked kingly power.
+  - **Where it appears:** Main-game progression and lore explanation of Power of Kings acquisition.
+  - **Source note:** Canon text extracts.
+- **Term:** Lucis
+  - **Definition (canon):** Crystal-guarding kingdom and last major anti-imperial power at the story’s opening.
+  - **Where it appears:** Opening lore narration, war history, and treaty/fall events.
+  - **Source note:** Canon text extracts.
+- **Term:** Niflheim
+  - **Definition (canon):** Expansionist military empire leveraging magitek and long-horizon conquest policy.
+  - **Where it appears:** War chronology, Tenebrae occupation, and Insomnia assault.
+  - **Source note:** Canon text extracts.
+- **Term:** Tenebrae
+  - **Definition (canon):** Oracle homeland brought under imperial domination after the Fenestala attack era.
+  - **Where it appears:** Noctis/Lunafreya childhood backstory and Oracle institutional context.
+  - **Source note:** Canon text extracts.
+- **Term:** Accordo (Altissia)
+  - **Definition (canon):** Distinct polity centered on Altissia, central to covenant escalation and diplomatic transit.
+  - **Where it appears:** Wedding-route journey, Leviathan arc, and geopolitical dialogue.
+  - **Source note:** Canon text extracts.
+- **Term:** Solheim
+  - **Definition (canon):** Ancient advanced civilization whose legacy is tied to Niflheim ideology and militarization.
+  - **Where it appears:** Ultimania deep-history and imperial strategic framing.
+  - **Source note:** Canon text extracts.
+- **Term:** Cosmogony
+  - **Definition (canon):** Myth-historical corpus describing the Six, Oracle origins, covenants, and revelations.
+  - **Where it appears:** In-world lore instruction and multiple character backstory references.
+  - **Source note:** Canon text extracts.

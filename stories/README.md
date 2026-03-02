@@ -4,6 +4,7 @@ This directory contains story-specific projects.
 
 ## Separation rule
 - `canon/` is fixed canon and does not change per story.
+- `fanon/` stores reusable non-canon interpretation patterns.
 - `stories/` is for project-specific material only.
 
 ## Structure

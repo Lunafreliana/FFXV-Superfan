@@ -1,28 +1,37 @@
 # Cindy Aurum
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Cindy Aurum is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- warm, practical, locally grounded, constantly action-oriented.
+## What do I look like? 
+A recognizable Hammerhead mechanic with confident workshop presence and high-visibility local style.
 
-## Personality inference (CH1–CH5 bounded)
-- social facilitator + systems operator; high agreeableness, high competence.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+She manages Regalia repair flow, equips the party with practical guidance, and repeatedly redirects them toward sustainable progress when they are broke and stalled.
 
-## Story mechanics and arc function
-- stabilizes party mobility/economy loop (map, repair pacing, hunts, delivery pipeline, upgrade affordances).
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Raised in a mechanic family under Cid, with constant exposure to travelers, machines, and frontier risk.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Warm, resourceful, and socially agile; blends friendliness with firm practical boundaries.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+She starts as repair gatekeeper and grows into a recurring mobility and support anchor for the road journey.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis and party: facilitator and trusted local ally. With Cid: respectful but independent working dynamic.
+
+## What do I think of...[character]?
+She reads the group as capable but underprepared and keeps nudging them toward realistic next steps.
+
+## What are my fighting or other skills?
+Mechanical diagnostics, vehicle restoration/upgrades, local problem triage, and community mediation.
+
+## What are my hobbies?
+Vehicle work and modification are both profession and likely personal passion.
+
+## How do I speak?
+Informal, regional, encouraging, and direct about risks.
+
+## How do I act?
+Keeps people moving by translating setbacks into actionable tasks.

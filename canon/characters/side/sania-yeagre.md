@@ -1,28 +1,37 @@
 # Sania Yeagre
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Sania Yeagre is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- analytical curiosity, specimen-focused urgency.
+## What do I look like? 
+A researcher-identified field figure associated with specimen-oriented inquiry.
 
-## Personality inference (CH1–CH5 bounded)
-- field researcher archetype (knowledge-over-comfort).
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+She channels monster encounters into data-seeking tasks, introducing scientific curiosity into side content.
 
-## Story mechanics and arc function
-- channels monster ecology into side-quest scientific framing.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Research priorities, field observation culture, and evidence-driven decision habits.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Curious, methodical, and investigation-first.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Functions as a knowledge-expansion node that reframes danger as analyzable ecology.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With party: expert requester relying on their combat mobility to obtain field data.
+
+## What do I think of...[character]?
+She prioritizes information quality and unusual findings.
+
+## What are my fighting or other skills?
+Field research framing, ecological interpretation, and objective specification.
+
+## What are my hobbies?
+Research itself appears to be vocation-level passion.
+
+## How do I speak?
+Analytical and objective-focused.
+
+## How do I act?
+Turns combat-adjacent events into structured inquiry tasks.

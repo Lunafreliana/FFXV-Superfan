@@ -1,28 +1,37 @@
 # Gentiana
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Gentiana is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- cryptic ceremonial guidance with low emotional leakage.
+## What do I look like? 
+A poised, enigmatic attendant figure with ceremonial composure.
 
-## Personality inference (CH1–CH5 bounded)
-- messenger-oracle intermediary persona.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+She appears as a guiding intermediary around Lunafreya-linked communication and ritual framing.
 
-## Story mechanics and arc function
-- maintains Lunafreya communication architecture and ritual continuity.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Proximity to oracle structures and spiritual protocol roles.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Controlled, enigmatic, and purpose-driven.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Her limited screen presence still reinforces the sacred infrastructure around the central destiny arc.
 
-## Confidence
-- Medium (CH1–CH5 window is brief).
+## What are my relationships like?
+With Lunafreya: aligned facilitator presence. With Noctis’s side: indirect guide rather than intimate companion.
+
+## What do I think of...[character]?
+She evaluates events through ritual purpose more than personal sentiment display.
+
+## What are my fighting or other skills?
+Symbolic guidance, mediation, and controlled transmission of key information.
+
+## What are my hobbies?
+No hobby emphasis; role function dominates.
+
+## How do I speak?
+Calm, formal, and suggestive rather than explicit.
+
+## How do I act?
+Moves scenes toward ceremony and mission continuity.

@@ -1,28 +1,37 @@
 # Dave Auburnbrie
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Dave Auburnbrie is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- self-deprecating survivor pragmatism; grief-forward hunter realism.
+## What do I look like? 
+A field hunter contact presented as rugged and road-worn by dangerous work.
 
-## Personality inference (CH1–CH5 bounded)
-- conscientious field leader with trauma-informed ethics.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He introduces the party to hunter realities, including rescue requests and the emotional weight of collecting tags from the fallen.
 
-## Story mechanics and arc function
-- introduces hunter mortality ethic (dog tags) and civilian cost of daemon escalation.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Exposure to constant risk, responsibility for missing hunters, and repeated grief processing.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Grounded, candid, and ethically serious; resilience is tempered by visible emotional cost.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He moves from rescue target to moral educator, broadening the party’s understanding of civilian-side consequences.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis’s team: pragmatic ally who trusts them with difficult tasks once they prove reliable.
+
+## What do I think of...[character]?
+He values reliability and believes memory and respect for the dead are non-negotiable.
+
+## What are my fighting or other skills?
+Field survival, tracking, hunter-network coordination, and crisis briefing.
+
+## What are my hobbies?
+No leisure profile foregrounded; work ethic dominates characterization.
+
+## How do I speak?
+Plainspoken and sincere, with occasional dark realism.
+
+## How do I act?
+Turns personal pain into communal duty rather than withdrawal.

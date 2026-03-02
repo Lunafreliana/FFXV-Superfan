@@ -1,28 +1,37 @@
 # Cid Sophiar
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Cid Sophiar is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- abrasive, blunt, quality-obsessed mechanical elder voice.
+## What do I look like? 
+An older grease-stained master mechanic with intimidating workshop authority.
 
-## Personality inference (CH1–CH5 bounded)
-- tough-love craftsman; respect is performance-gated.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He receives the royal party’s broken car and subjects Noctis to harsh competence checks while restoring the Regalia.
 
-## Story mechanics and arc function
-- humiliates and recalibrates Noctis's entitlement posture while preserving the Regalia as Lucian legacy object.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Lifetime of mechanical craft, high standards, and deep Lucian historical context.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Abrasive, prideful, and merit-driven; respect must be earned through action.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He appears as a barrier figure, then functionally enables the road arc by returning core mobility.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis: skeptical elder challenging youthful entitlement. With Cindy: mentor-family dynamic within workshop hierarchy.
+
+## What do I think of...[character]?
+He sees title as meaningless without discipline and follow-through.
+
+## What are my fighting or other skills?
+Master-level engineering, vehicle restoration, and technical judgment under constraints.
+
+## What are my hobbies?
+Mechanical work is central identity, likely beyond mere employment.
+
+## How do I speak?
+Gruff, cutting, and evaluative.
+
+## How do I act?
+Applies pressure first, assistance second, to force maturity.

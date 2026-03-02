@@ -1,6 +1,6 @@
-# Side Character Files (CH1–CH5 ingest pass)
+# Side Character Files
 
-One file per side character inferred from `ffxv_part1_clean.txt` CH1–CH5 material.
+One file per side character.
 
 - `king-regis-lucis-caelum.md`
 - `cor-leonis.md`

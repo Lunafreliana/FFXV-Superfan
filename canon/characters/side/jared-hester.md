@@ -1,28 +1,37 @@
 # Jared Hester
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Jared Hester is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- caretaker formality and protective deference.
+## What do I look like? 
+An older chamberlain-type caretaker associated with orderly service and protective intent.
 
-## Personality inference (CH1–CH5 bounded)
-- civic-duty elder.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He belongs to the support network around Talcott and symbolizes the vulnerable civic backbone targeted during collapse-era unrest.
 
-## Story mechanics and arc function
-- his absence/death context sharpens stakes of refugee vulnerability and imperial reach.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Long service culture, protective responsibility for younger dependents, and wartime instability.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Steady, dutiful, and protective.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+His arc functions as a loss marker that personalizes the cost of imperial reach.
 
-## Confidence
-- Medium-High.
+## What are my relationships like?
+With Talcott: guardian role. With broader Lucian survivors: trusted elder figure.
+
+## What do I think of...[character]?
+He prioritizes safeguarding others over preserving his own status or comfort.
+
+## What are my fighting or other skills?
+Caretaking, household/civic logistics, and continuity support under crisis.
+
+## What are my hobbies?
+No leisure details are strongly foregrounded.
+
+## How do I speak?
+Measured and service-oriented.
+
+## How do I act?
+Centers responsibility and follow-through.

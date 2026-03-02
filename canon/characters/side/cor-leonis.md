@@ -1,28 +1,37 @@
 # Cor Leonis
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Cor Leonis is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- clipped military instruction; low-flourish, high-accountability coaching.
+## What do I look like? 
+A hardened veteran marshal with disciplined posture and battlefield presence.
 
-## Personality inference (CH1–CH5 bounded)
-- veteran strategist/mentor archetype; external sternness masking protective investment.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He reconnects with Noctis after Insomnia’s fall and drives the prince toward practical kingship through tomb access, Royal Arm recovery, and tactical mentorship.
 
-## Story mechanics and arc function
-- converts post-fall panic into actionable kingly training (Royal Arms, tomb progression, tactical discipline).
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Long military service, loyalty to the Lucian crown, and survival through catastrophic imperial assault.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Stoic, pragmatic, and high-accountability; he respects performance, not excuses.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He enters as surviving authority in a broken system and exits the immediate arc after handing Noctis strategic direction and proof of growth.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis: stern mentor-protector. With the party: evaluates readiness and reinforces discipline.
+
+## What do I think of...[character]?
+He believes Noctis must stop being protected and start acting like the one who protects others.
+
+## What are my fighting or other skills?
+Command leadership, combat expertise, tactical coaching, and operational planning.
+
+## What are my hobbies?
+No explicit hobby focus; identity is overwhelmingly duty and field command.
+
+## How do I speak?
+Blunt, efficient, tactical language with minimal ornament.
+
+## How do I act?
+Tests people in action, not theory, and advances only when capability is demonstrated.

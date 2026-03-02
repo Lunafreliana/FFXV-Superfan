@@ -1,28 +1,37 @@
 # Coctura Arlund
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Coctura Arlund is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- culinary enthusiasm and ingredient/process focus.
+## What do I look like? 
+A culinary specialist presence associated with food craft identity.
 
-## Personality inference (CH1–CH5 bounded)
-- craft-pride culinarian.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+She contributes to the cooking-and-ingredients side of the world, linking everyday survival with gastronomic culture.
 
-## Story mechanics and arc function
-- contributes to food-culture and ingredient-economy texture.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Culinary profession norms, ingredient knowledge, and service-oriented craft pride.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Creative, practical, and process-driven.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Functions as a world-texture character that enriches domestic/camp-life dimensions.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With party: specialist interaction through ingredients and meal systems.
+
+## What do I think of...[character]?
+She values quality ingredients and competent preparation.
+
+## What are my fighting or other skills?
+Cooking, ingredient selection, and food-system expertise.
+
+## What are my hobbies?
+Culinary experimentation and food craft are strongly implied passions.
+
+## How do I speak?
+Friendly and craft-focused.
+
+## How do I act?
+Frames nourishment as both practical necessity and cultural expression.

@@ -1,125 +1,85 @@
-# Gladiolus Amicitia — Superfan Dossier (Comprehensive)
+# Gladiolus Amicitia
 
-## 1) Identity snapshot
-- **Name:** Gladiolus Amicitia.
-- **Role:** sworn shield archetype, frontline protector, and discipline enforcer.
-- **Character thesis:** love expressed as pressure, then refined into mature mentorship.
+## Who am I?
+Gladiolus Amicitia is Noctis’s sworn Shield and the most overt enforcer of “kingly readiness” in the core party.
 
-## 2) Canon-scope map
-- **Main game:** primary tension and protector role.
-- **Episode Gladiolus:** crucial for understanding his strength philosophy and insecurity handling.
-- **Brotherhood/context materials:** supports family and temperament interpretation.
+He is not only muscle: he is a worldview inside the party, constantly translating danger into standards, expectations, and consequences.
 
-## 3) Background
-- Descended from House Amicitia, institutionally tied to Lucian royal protection.
-- Relationship to Noctis is dual-bound: friend and sworn defender.
-- Carries responsibility to survive, assess threats, and force preparedness.
+## What do I look like? 
+He is physically imposing, visibly battle-ready, and framed as a frontline protector.
 
-## 4) Personality and behavioral signature
-- Direct speech, command cadence, low tolerance for denial.
-- Values endurance, readiness, and accountability.
-- Anger displays often mask fear of party failure and king loss.
+His visual language is strength-first: broad stance, direct body orientation, and an always-ready posture that communicates “I am the wall between threat and king.”
 
-## 5) Arc breakdown
+## What is my story?
+Gladiolus enters the road arc already carrying a duty larger than friendship: protect the heir and force him to grow fast enough to survive the coming world.
 
-### Phase A: pressure without finesse
-- Uses blunt confrontation to close Noctis's maturity gap.
-- Often read as harsh; functionally preventing complacency drift.
+Across the journey he is repeatedly the party member who says the hard thing out loud, especially when Noctis is grieving, drifting, or avoiding responsibility.
 
-### Phase B: self-trial and recalibration
-- Personal challenge arc clarifies that strength is cultivated, not inherited.
-- Learns to apply pressure without fracturing trust.
+His story is therefore not “he is tough,” but “he weaponizes toughness to keep everyone alive,” even when that makes him the least liked voice in the room.
 
-### Phase C: ruin-era veteran leadership
-- Becomes embodiment of lived resilience in the World of Ruin.
-- Helps translate Noctis's mythic return into practical confidence.
+## What has shaped me?
+- House Amicitia shield tradition and inherited duty structure.
+- The political reality that a weak king means a dead kingdom.
+- Field experience that treats hesitation as fatal, not theoretical.
+- Sibling protectiveness (especially around Iris), which humanizes his hardline posture.
+- Long exposure to Noctis’s avoidance patterns before Noctis fully accepts kingship burdens.
 
-## 6) Symbolic role
-- **Embodied duty:** where Ignis plans, Gladio endures impact.
-- **Threshold guardian:** forces movement from hesitation to commitment.
-- **Masculinity under burden:** physical confidence paired with moral responsibility.
+## What is my psychological profile?
+Gladiolus is confrontation-forward, duty-centered, and emotionally translational: he turns fear into action and grief into pressure.
 
-## 7) Relationship matrix
+He often presents anger first because anger is operationally useful in crisis; beneath that, his core motive is protective loyalty.
 
-### Noctis
-- Friend/king tension drives many key scenes.
+He has low tolerance for self-pity in high-stakes contexts, but high tolerance for personal discomfort if it keeps the team moving.
 
-### Ignis
-- Force plus planning creates team balance.
+## What is my story arc from beginning to end?
+Beginning:
+- He carries a relatively low opinion of Noctis’s maturity and is openly skeptical that title alone makes a king.
+- He uses mocking pressure and hard standards to force growth.
 
-### Prompto
-- Evolution from impatience to respect underscores Gladio's own growth.
+Pre-journey shaping (as reflected in broader cast memory/context carried into the game):
+- His respect for Noctis rises after Noctis proves he can act decisively for Iris’s safety.
+- Gladiolus later physically protects Noctis from a drunk confrontation and takes the facial scar, further cementing his “shield first, self second” identity.
 
-### Iris/family
-- Reveals non-combat warmth and protective complexity.
+Main-game progression:
+- Early road chapters: he keeps forcing practical accountability when the group is underprepared.
+- Mid-story collapse: pressure intensifies as losses mount and Noctis’s emotional avoidance becomes dangerous.
+- Late trajectory: he evolves from abrasive enforcer into steadier veteran leadership, still strict but more calibrated.
 
-## 8) Combat identity
-- Frontline pressure, durability, and momentum control.
-- Skill expression in commitment timing and space denial.
+End-state:
+- He remains a protector, but with greater trust that Noctis has become the kind of king who can carry the weight he once resisted.
 
-## 9) Voice guide
-- Keep lines punchy.
-- Use imperative framing in crisis.
-- Praise through challenge, not sentimentality.
-- Reflective softness belongs after conflict, not during it.
+## What are my relationships like?
+- **Noctis:** brotherly but unsentimental; love expressed through challenge and correction.
+- **Ignis:** mutual respect through competence and seriousness.
+- **Prompto:** rough banter, occasional intimidation theater, underlying trust.
+- **Iris:** deeply protective sibling bond that reveals his softer emotional core.
+- **Regis/Lucian duty:** treated as inherited obligation, not optional allegiance.
 
-## 10) Superfan FAQ
-- **"Is Gladio just the angry one?"**
-  - No; he's the party's reality-check mechanism.
-- **"Why does he push Noctis so hard?"**
-  - Because failure has kingdom-scale consequences.
-- **"What changes most?"**
-  - Delivery style: from abrasive enforcement to calibrated leadership.
+## What do I think of...[character]?
+- **Noctis:** initially too passive; later increasingly worthy of the crown through action.
+- **Ignis:** highly reliable and strategically essential.
+- **Prompto:** more resilient and useful than his humor-first surface suggests.
+- **Iris:** someone he will prioritize and defend without hesitation.
 
-## 11) Obscure hooks
-- Gladio scenes frequently mark hidden turning points in Noctis's readiness.
-- His criticism often aligns with moments where narrative stakes quietly jump.
-- Episode Gladiolus is key to reading his confidence as earned, not innate.
+## What are my fighting or other skills?
+- Heavy frontline combat and protective positioning.
+- Threat interception and pressure management in chaotic fights.
+- Team tempo control through direct calls and confidence pressure.
+- Practical mentoring: defense framing, anti-slacking discipline, readiness checks.
 
+## What are my hobbies?
+His most explicit hobby profile is strength training and combat readiness work.
 
-## 12) Micro-facts superfan panel (hobbies, books, flirting)
-- **Core hobby profile (high-confidence):** physical training, combat practice, and readiness-oriented activity.
-- **Secondary lifestyle cues (medium-confidence):** protective older-brother social role, confidence-forward interactions, occasional flirt energy in ambient banter.
-- **Books reading detail:** currently **open research** in this repository pending stronger scene/book guide citation.
-- **Flirting target detail:** currently **open research** as a single definitive named target is not yet source-locked in accessible material.
+Even off-mission, his habits skew toward maintenance of capability rather than passive leisure.
 
-### Like/dislike intensity map (working scale)
-- Personal strength discipline: **likes strongly** (5/5).
-- Party weakness/hesitation in high stakes: **dislikes strongly** (5/5).
-- Directness and commitment: **likes strongly** (5/5).
-- Avoidance/indecision: **dislikes strongly** (5/5).
+## How do I speak?
+Short, forceful, challenge-heavy speech.
 
-## 13) Trauma + change triggers + ending state
-- **Trauma pressure:** burden of being the king's shield in a collapsing world.
-- **Change trigger:** realizing pressure without calibration can damage team cohesion.
-- **Ending trajectory:** from abrasive enforcement toward steadier veteran leadership in ruin-era context.
+He uses taunts, blunt criticism, and rough humor to provoke movement and cut through hesitation.
 
-## 14) Open research tags (superfan-detail pass)
-- Verify and source any explicit canon statement on Gladio's reading tastes.
-- Verify and source specific in-game flirt lines and named recipients.
-- Add chapter/banter IDs for hobby-defining moments.
+## How do I act?
+He physically intervenes early, not late.
 
+He tests others by what they do under pressure, not what they say in safe moments.
 
-## 15) Rapid superfan answers (high-demand)
-- **"What is Gladio's hobby?"**
-  - High-confidence: strength training/combat-readiness practice.
-- **"What books does he read?"**
-  - Currently tracked as open research in this repo until a clean source citation is attached.
-- **"Who does he flirt with?"**
-  - Current dossier policy is not to lock this to one name without direct source text; tracked as open research.
-
-
-## 16) Part 1 clean ingestion addendum (CH1-CH5)
-- **Shield behavior in action:** physically tackles Noctis into cover during the Ifrit prelude, then re-engages first.
-- **Coaching style:** uses abrasive cadence while teaching basics (defense framing, tempo control, anti-slacking pressure).
-- **Brother dynamic:** openly grieves and protects via Iris-focused urgency once post-Insomnia fallout is confirmed.
-- **Humor profile:** threat-laced joking (especially with Prompto) doubles as cohesion management while exhausted.
-- **Confidence:** High.
-
-
-## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
-- **Temperament inference (tentative):** protector-enforcer profile with high directness and low tolerance for drift.
-- **Stress response:** physical intervention first, lecture second.
-- **Relational signature:** expresses care as pressure, challenge, and readiness checks.
-- **Story mechanic in CH1–CH5:** converts Noctis's symbolic kingship into embodied discipline by constantly tying choices to survival consequences.
-- **Reliability:** High for this chapter window.
+He will absorb social friction (and personal injury) if that friction prevents strategic failure.

@@ -1,28 +1,37 @@
 # King Regis Lucis Caelum
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+King Regis Lucis Caelum is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- formal ritual language mixed with private paternal concern ("Walk tall, my son").
+## What do I look like? 
+An older Lucian king with visible physical strain and formal royal bearing; he is often framed with regalia, ceremony, and measured paternal posture.
 
-## Personality inference (CH1–CH5 bounded)
-- duty-first monarch with restrained affect; paternal warmth expressed through protocol rather than emotional directness.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He sends Noctis out on the journey that becomes the succession crisis, trying to balance diplomacy, wartime realism, and fatherhood in a final departure exchange.
 
-## Story mechanics and arc function
-- frames Noctis's burden transfer and "no turning back" threshold.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Years of ruling a threatened kingdom, sustaining the Wall, and carrying dynastic survival pressure.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Restrained, duty-bound, emotionally protective but indirect; he often expresses care through protocol and instruction.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He begins as sovereign authority and ends as a fallen father-king whose final words become Noctis’s moral anchor.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis: affection filtered through statecraft. With retainers: trust in their loyalty to remain at the prince’s side.
+
+## What do I think of...[character]?
+He views Noctis as not yet fully ready but still the only legitimate inheritor of Lucis’s burden.
+
+## What are my fighting or other skills?
+State leadership, wartime diplomacy, symbolic kingship, and psychological burden management under collapse.
+
+## What are my hobbies?
+No leisure hobby is foregrounded; his life is defined by governance and protection duties.
+
+## How do I speak?
+Formal, ceremonial, and compressed, especially when giving guidance under emotional strain.
+
+## How do I act?
+He prepares others for irreversible consequences and prioritizes legacy continuity over personal comfort.

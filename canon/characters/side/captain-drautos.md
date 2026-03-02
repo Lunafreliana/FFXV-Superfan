@@ -1,28 +1,37 @@
-# Captain Drautos (brief appearance)
+# Captain Drautos
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Captain Drautos is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- ceremonial military formality.
+## What do I look like? 
+A disciplined military officer presented with ceremonial court-side authority.
 
-## Personality inference (CH1–CH5 bounded)
-- protocol enforcer.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+His brief appearance helps stage the transition from palace protocol to active departure and command handoff.
 
-## Story mechanics and arc function
-- marks court-to-field handoff atmosphere.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Chain-of-command culture and formal military service.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Controlled, deferential to hierarchy, and procedural.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Short-role character whose function is atmospheric and structural rather than developmental.
 
-## Confidence
-- Medium (single-line appearance in this source segment).
+## What are my relationships like?
+With royal household: formal service role. With Noctis: respectful title-based address.
+
+## What do I think of...[character]?
+He prioritizes duty execution over personal expression.
+
+## What are my fighting or other skills?
+Protocol execution, command presence, and disciplined military conduct.
+
+## What are my hobbies?
+No hobby profile is established.
+
+## How do I speak?
+Formal and concise.
+
+## How do I act?
+Performs role requirements precisely within hierarchy.

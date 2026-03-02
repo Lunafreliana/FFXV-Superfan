@@ -1,28 +1,37 @@
 # Dino Ghiranze
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Dino Ghiranze is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- flamboyant hustler rhetoric, opportunistic charm, repeated deal-making.
+## What do I look like? 
+A flashy social operator with self-presentational confidence and salesman flair.
 
-## Personality inference (CH1–CH5 bounded)
-- performative entrepreneur with adaptive loyalty.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He repeatedly recruits the party into resource hunts while blending journalism, commerce, and personal ambition.
 
-## Story mechanics and arc function
-- introduces media/commerce angle and jewel-hunt side economy while reflecting class views of royalty.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Media hustle culture, status aspiration, and market opportunism.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Charming, performative, and opportunistic, with adaptive self-reinvention instincts.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Starts as a somewhat comic fixer and becomes a recurring side-economy catalyst with escalating asks.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis side: transactional alliance that can still develop familiarity.
+
+## What do I think of...[character]?
+He views the party as uniquely capable leverage for difficult jobs.
+
+## What are my fighting or other skills?
+Persuasion, networking, opportunity spotting, and quest mobilization through social pressure.
+
+## What are my hobbies?
+Gem/jewelry interest and deal-making behavior are central recurring motifs.
+
+## How do I speak?
+Fast, theatrical, and pitch-oriented.
+
+## How do I act?
+Creates momentum by framing risky tasks as high-reward opportunities.

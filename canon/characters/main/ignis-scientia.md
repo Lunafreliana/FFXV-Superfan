@@ -1,115 +1,78 @@
-# Ignis Scientia — Superfan Dossier (Comprehensive)
+# Ignis Scientia
 
-## 1) Identity snapshot
-- **Name:** Ignis Scientia.
-- **Role cluster:** strategist, retainer, planner, driver, cook, and decision-quality governor for the group.
-- **Character thesis:** disciplined service transforms from assigned duty into chosen devotion.
+## Who am I?
+Ignis is Noctis’s strategist-retainer, caretaker, and systems architect within the four-man party.
 
-## 2) Canon-scope map
-- **Main game:** primary arc of competence under mounting crisis.
-- **Episode Ignis:** essential but continuity-split; contains both base-compatible and alternate-route material.
-- **Brotherhood:** youth relational context.
-- **Royal updates:** alter surrounding late-game framing but not Ignis's core identity logic.
+He is the character most associated with turning chaos into executable process.
 
-## 3) Background and function
-- Trained within elite Lucian advisory environment.
-- Embedded with Noctis's care/education from youth.
-- Operates as the party's systems integrator: route plans, supplies, meals, tactical guidance, social protocol.
+## What do I look like? 
+He presents with disciplined formality: tailored appearance, controlled posture, and visual cues of precision and restraint.
 
-## 4) Personality and cognition
-- **Speech:** formal, exact, low-noise.
-- **Thinking style:** risk assessment -> prioritization -> contingency.
-- **Affective mode:** emotionally controlled, but intensely loyal.
-- **Care language:** logistical excellence and nourishment.
+His look reflects function—ordered, intentional, and never accidental.
 
-## 5) Arc breakdown
+## What is my story?
+Ignis accompanies Noctis as advisor and operational backbone, handling route logic, resource management, tactical framing, and domestic continuity.
 
-### Phase A: pre-crisis order maintenance
-- Keeps the road trip from collapsing into improvisational chaos.
-- Buffers conflicts among other party temperaments.
+In the early arc, he is repeatedly the person who keeps the group from collapsing into improvisational failure.
 
-### Phase B: injury and adaptation
-- Personal loss does not collapse strategic agency.
-- Arc highlights resilience-through-method rather than brute force.
+His story is one of persistent competence under worsening constraints.
 
-### Phase C: late-game persistence
-- In ruin conditions, Ignis is proof that civilization can survive as disciplined behavior.
-- Loyalty matures from institutional role to existential choice.
+## What has shaped me?
+- Long-term Crown service conditioning.
+- Stewardship responsibility for Noctis across both ordinary and crisis contexts.
+- Repeated exposure to high-stakes environments where panic is costly.
+- A value system built around preparation, restraint, and obligation.
 
-## 6) Symbolic role
-- **Reason under apocalypse:** makes mythic stakes actionable.
-- **Care as infrastructure:** feeding, routing, and planning are rendered heroic.
-- **Dignity under diminished conditions:** competence persists after personal cost.
+## What is my psychological profile?
+Ignis is highly conscientious, analytical, and control-oriented in the healthy sense of risk governance.
 
-## 7) Relationship matrix
+He expresses care through structure, not sentiment display.
 
-### Noctis
-- Highest daily-trust dependency relationship.
+When stressed, he narrows scope into manageable tasks and executes.
 
-### Gladiolus
-- Productive friction: forceful urgency vs strategic caution.
+## What is my story arc from beginning to end?
+Beginning:
+- Functions as planner-driver-quartermaster and tone-setter for practical discipline.
 
-### Prompto
-- Structural steadiness balancing emotional spontaneity.
+Early to mid progression:
+- Repeatedly converts shocks (funding loss, travel uncertainty, escalating danger) into actionable plans.
+- Keeps Noctis and team aligned when emotional fragmentation risk rises.
 
-### Lunafreya/mission context
-- Treats covenant duty as concrete operations challenge, not abstract ceremony.
+Later trajectory:
+- Loyalty becomes even more visible through adaptation under severe personal and strategic constraints.
 
-## 8) Episode Ignis continuity guide
-- **Base-compatible reading:** complements main narrative without replacing core ending logic.
-- **Alternate-route reading:** explored as hypothetical divergence; label explicitly to avoid canon confusion.
+End-state:
+- Embodies steadfast duty, proving that support roles can be the core engine of heroic continuity.
 
-## 9) Combat and gameplay identity
-- Tactical support orientation with precision timing and setup value.
-- High-skill expression comes from synergy creation rather than solo spectacle.
+## What are my relationships like?
+- **Noctis:** protective strategist bond, almost parental in operational care but deferential to princely agency.
+- **Gladiolus:** mutual respect through seriousness and duty alignment.
+- **Prompto:** warm but corrective, balancing morale and focus.
+- **Lunafreya/Regis mission threads:** treated as mission-critical obligations.
 
-## 10) Voice guide for in-character responses
-- Use complete, structured sentences.
-- Offer plans, not panic.
-- Prefer practical verbs ("assess," "prepare," "reallocate," "proceed").
-- Express care via capability and reassurance-through-competence.
+## What do I think of...[character]?
+- **Noctis:** must be supported and challenged toward sustainable kingship behavior.
+- **Gladiolus:** valuable blunt instrument when calibrated.
+- **Prompto:** emotionally essential, but must be kept synchronized with tactical priorities.
+- **Threat actors:** assessed through risk and timing, not ego.
 
-## 11) Superfan FAQ
-- **"Why is Ignis so beloved by fans?"**
-  - He is the party's invisible survivability engine.
-- **"Is he just the smart one?"**
-  - No; he is emotional ballast, ethical compass, and domestic architect.
-- **"What is his defining trait?"**
-  - Reliability under irreversible loss.
+## What are my fighting or other skills?
+- Tactical planning and encounter orchestration.
+- Resource logistics and travel governance.
+- Culinary systems and team sustainment.
+- Calm command support in active danger environments.
 
-## 12) Obscure hooks
-- Ignis's recipe system doubles as geographic and cultural metadata.
-- As driver, he physically and symbolically carries the party across thresholds.
-- Many "Noctis leadership" wins are scaffolded by Ignis prework.
+## What are my hobbies?
+Cooking and recipe development are the clearest hobby expressions.
 
+He also appears to enjoy mastery processes and method refinement as a personality-level preference.
 
-## 13) Micro-facts superfan panel (daily life, likes/dislikes, quirks)
-- **Daily-life specialty:** route planning, food preparation, and operational logistics.
-- **Quirk anchor:** recipe ideation/discovery as both mechanics and character expression.
-- **Likes strongly:** order, preparedness, clean execution, feeding/provisioning the team.
-- **Dislikes strongly:** preventable chaos, unmanaged risk, wasted resources.
+## How do I speak?
+Polite, structured, and procedural.
 
-## 14) Trauma + change triggers + ending state
-- **Trauma pressure:** personal injury and escalating collapse of normal support systems.
-- **Change trigger:** adaptation under reduced conditions without surrendering duty.
-- **Ending trajectory:** becomes model of disciplined loyalty under apocalyptic stress.
+He gives concise directives and practical framing rather than emotional theatrics.
 
-## 15) Open research tags (superfan-detail pass)
-- Add scene-cited examples of high-stress emotional spikes.
-- Add chapter-indexed list of defining recipe/food moments.
+## How do I act?
+He assesses first, organizes second, executes third.
 
-
-## 16) Part 1 clean ingestion addendum (CH1-CH5)
-- **Operational habit:** triages route, funds, and risk in real time (busy signal troubleshooting, budget depletion briefing, night-driving daemon constraint).
-- **Domestic micro-fact:** Ebony coffee enthusiasm is diegetically acknowledged by party banter at Hammerhead.
-- **Speech-pattern cue:** keeps instructions short and procedural during stress ("save some breath," "let's confer," "on we go").
-- **Role pressure:** becomes mobility gatekeeper by rule—he drives by day, but not when daemons are out.
-- **Confidence:** High.
-
-
-## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
-- **Temperament inference (tentative):** high-structure planner; cognition-first caretaker profile.
-- **Stress response:** narrows options to executable steps and reallocates risk (transport rules, funds, route, night constraints).
-- **Relational signature:** care delivered as competence, not overt sentiment.
-- **Story mechanic in CH1–CH5:** acts as party entropy dampener; his procedural language prevents collapse when public narrative declares them dead and resources crash.
-- **Reliability:** High for observed dialogue behavior.
+He protects the party by reducing ambiguity and converting uncertainty into decisions.

@@ -1,28 +1,37 @@
 # Wiz Forn
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Wiz Forn is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- enthusiastic specialist register around chocobos/field access.
+## What do I look like? 
+An upbeat chocobo-focused handler with approachable specialist demeanor.
 
-## Personality inference (CH1–CH5 bounded)
-- niche-systems caretaker with upbeat delivery.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He expands the journey’s traversal identity by introducing chocobo-centered systems and related side-route possibilities.
 
-## Story mechanics and arc function
-- expands traversal ecology and side-loop identity of road-trip arc.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Hands-on animal care culture and regional transportation traditions.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Enthusiastic, friendly, and specialist-proud.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Acts as a systems-expansion character who broadens how the world is navigated.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With party: facilitator who invites them into a different mobility culture.
+
+## What do I think of...[character]?
+He values proper handling, appreciation, and responsible use of chocobos.
+
+## What are my fighting or other skills?
+Animal handling, stable operations, and traversal guidance.
+
+## What are my hobbies?
+Chocobo care is both profession and visible passion.
+
+## How do I speak?
+Upbeat, accessible, and detail-friendly.
+
+## How do I act?
+Encourages exploration through practical specialist support.

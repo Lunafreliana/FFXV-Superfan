@@ -1,28 +1,37 @@
 # Verstael Besithia
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Verstael Besithia is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- opportunistic technocratic language (capture/usefulness framing).
+## What do I look like? 
+A clinical imperial scientist-administrator presence with detached authority cues.
 
-## Personality inference (CH1–CH5 bounded)
-- utilitarian imperial scientist-administrator.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He frames people and sacred systems in terms of extractable value, reinforcing the empire’s instrumental worldview.
 
-## Story mechanics and arc function
-- foregrounds empire's instrumental view of Oracle/Astral interfaces.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Imperial research culture, technocratic ambition, and ethical detachment.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Coldly pragmatic, opportunistic, and utilitarian.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+His role escalates the sense that institutional science is weaponized against human and spiritual boundaries.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With commanders: advisory-through-utility dynamic. With targets: objectifying treatment rather than reciprocal relation.
+
+## What do I think of...[character]?
+He prioritizes exploitability over dignity or tradition.
+
+## What are my fighting or other skills?
+Scientific strategy, policy influence, and weaponization-oriented analysis.
+
+## What are my hobbies?
+No visible leisure pattern; professional obsession dominates.
+
+## How do I speak?
+Technical, precise, and dehumanizing when discussing strategic assets.
+
+## How do I act?
+Translates living stakes into research problems and control opportunities.

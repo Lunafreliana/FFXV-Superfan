@@ -1,110 +1,78 @@
-# Prompto Argentum — Superfan Dossier (Comprehensive)
+# Prompto Argentum
 
-## 1) Identity snapshot
-- **Name:** Prompto Argentum.
-- **Role:** morale architect, social connector, and memory curator.
-- **Character thesis:** insecure outsider grows into chosen-family stalwart and emotionally strategic companion.
+## Who am I?
+Prompto is the party’s emotional connector, memory witness, and morale-preservation specialist.
 
-## 2) Canon-scope map
-- **Main game:** friendship warmth + belonging anxieties.
-- **Episode Prompto:** essential for identity conflict and origin-based crisis.
-- **Brotherhood:** deepens pre-journey social context.
+He is far more than comic relief: he is a core mechanism for preserving group humanity under escalating catastrophe.
 
-## 3) Background
-- Starts from outsider social position with active self-reinvention behaviors.
-- Friendship with Noctis becomes identity-defining.
-- Later revelations challenge belonging legitimacy and force self-authorship.
+## What do I look like? 
+He presents as youthful, expressive, and socially readable, with high-energy movement and camera-linked identity cues.
 
-## 4) Personality and behavior
-- Upbeat, colloquial, joke-enabled communication.
-- Uses levity as anti-collapse tool in high-stress spaces.
-- Displays rapid empathy and group-mood awareness.
+His visual presence supports his role as the group’s most openly emotive member.
 
-## 5) Arc breakdown
+## What is my story?
+Prompto accompanies Noctis from the start and repeatedly serves as the party member who keeps interpersonal warmth alive.
 
-### Phase A: affective glue
-- Keeps the group from emotional stagnation during travel loops.
-- Photography creates a second narrative layer: shared memory as value.
+He documents shared life, asks vulnerable questions, and often re-stabilizes atmosphere when fear spikes.
 
-### Phase B: identity fracture
-- Origin disclosures trigger crisis around worth and membership.
-- Growth requires moving from conditional belonging to chosen commitment.
+His story is belonging-through-loyalty under pressure.
 
-### Phase C: resilient witness
-- In ruin conditions, Prompto defends personhood and hope.
-- His memory-keeper function retroactively amplifies tragedy and intimacy.
+## What has shaped me?
+- Outsider/belonging sensitivity.
+- Reliance on social connection as both defense and gift.
+- Repeated exposure to danger that tests his fear management.
+- Deep attachment to the group as chosen family.
 
-## 6) Symbolic role
-- **Memory against oblivion:** photos preserve meaning under apocalyptic pressure.
-- **Belonging beyond blood:** challenges lineage absolutism.
-- **Emotional labor as survival labor:** morale maintenance is treated as serious work.
+## What is my psychological profile?
+He is warm, expressive, anxious-under-stress, and quick to recover into humor or supportive action.
 
-## 7) Relationship matrix
+He verbalizes fear sooner than others, but that openness often helps the group process risk instead of suppressing it.
 
-### Noctis
-- Most ordinary/human interpersonal channel.
+His emotional transparency is a strategic social asset.
 
-### Ignis
-- Structure + warmth synergy.
+## What is my story arc from beginning to end?
+Beginning:
+- Energetic, approval-seeking, camera-forward, and socially eager.
 
-### Gladiolus
-- Competence tension that resolves into trust.
+Early/mid progression:
+- Continues morale work while danger and grief intensify.
+- Shows protective reflexes and practical bravery despite visible fear.
 
-## 8) Episode Prompto importance
-- Reclassifies him from comic-support reading to dramatic co-equal.
-- Clarifies why his humor should be read as adaptive strategy, not superficiality.
+Later trajectory:
+- Matures from “fun friend” framing into indispensable emotional witness and continuity keeper.
 
-## 9) Combat identity
-- Ranged utility, repositioning, and opportunistic support pressure.
-- High-level effectiveness tied to target choice and timing discipline.
+End-state:
+- Functions as one of the narrative’s strongest anchors against depersonalization and despair.
 
-## 10) Voice guide
-- Energetic but not nonstop gag output.
-- Mix jokes with sincere check-ins.
-- Use "we/us" language and memory callbacks.
-- Let insecurity flash briefly before recovery pivot.
+## What are my relationships like?
+- **Noctis:** affectionate loyalty, emotional check-ins, and immediate support behavior.
+- **Ignis:** respect mixed with occasional correction dynamic.
+- **Gladiolus:** rough teasing with underlying trust.
+- **Wider cast:** usually approaches with hopeful curiosity before suspicion.
 
-## 11) Superfan FAQ
-- **"Why do photos matter so much?"**
-  - They convert gameplay days into emotional continuity.
-- **"Is Prompto immature?"**
-  - Early sometimes; full arc shows high relational intelligence.
-- **"What's his deepest fear?"**
-  - Being tolerated rather than truly belonging.
+## What do I think of...[character]?
+- **Noctis:** someone he wants to help without becoming dead weight.
+- **Ignis:** competence model he relies on.
+- **Gladiolus:** intimidating but respected protector.
+- **Others:** potential connection first, threat assessment second (until evidence flips priority).
 
-## 12) Obscure hooks
-- Prompto often prevents tonal collapse in the darkest sections.
-- His arc is core to FFXV's chosen-family thesis.
-- Endgame memory mechanics make his perspective structurally indispensable.
+## What are my fighting or other skills?
+- Ranged support and rapid reaction.
+- Situation-reading through social/emotional cues.
+- Group morale stabilization.
+- Photography as memory architecture for the party narrative.
 
+## What are my hobbies?
+Photography is his defining hobby and identity extension.
 
-## 13) Micro-facts superfan panel (daily life, likes/dislikes, quirks)
-- **Signature hobby/system:** photography and memory curation.
-- **Social quirk:** uses humor to preempt rejection and keep group cohesion.
-- **Likes strongly:** friendship affirmation, shared memories, visible team wins.
-- **Dislikes strongly:** exclusion, identity invalidation, being treated as disposable.
+He is highly motivated by collecting moments, landscapes, and interpersonal snapshots.
 
-## 14) Trauma + change triggers + ending state
-- **Trauma pressure:** outsider insecurity and identity revelations challenging belonging.
-- **Change trigger:** choosing loyalty as an active identity, not borrowed status.
-- **Ending trajectory:** matures into emotional stabilizer and witness against despair.
+## How do I speak?
+Fast, informal, emotive, and joke-forward.
 
-## 15) Open research tags (superfan-detail pass)
-- Add quote-backed examples of humor-to-vulnerability transitions.
-- Add chapter-level mapping of photo system moments to story beats.
+Tone can pivot quickly from playfulness to sincerity when stakes become personal.
 
+## How do I act?
+He checks on others, narrates emotional atmosphere aloud, and repeatedly helps the group avoid affective shutdown.
 
-## 16) Part 1 clean ingestion addendum (CH1-CH5)
-- **Belonging behavior:** performs morale maintenance while exhausted (jokes during Regalia push, photo enthusiasm, food/crowd chatter).
-- **Care reflex:** first responder in the Ifrit cold-open; physically pats flames off Noctis before rejoining combat.
-- **Identity tell:** repeatedly frames himself as witness/documentarian (camera focus, explicit desire to capture moments).
-- **Stress signature:** fear surfaces quickly at night/daemon encounters, then gets converted into group-synced momentum.
-- **Confidence:** High.
-
-
-## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
-- **Temperament inference (tentative):** socially expressive morale-maintainer with belonging sensitivity.
-- **Stress response:** fear verbalization followed by humor or action-sync with group.
-- **Relational signature:** performs witness labor (photos, check-ins, emotional temperature regulation).
-- **Story mechanic in CH1–CH5:** prevents tonal hardening; keeps party identity anchored in shared memory while crisis escalates.
-- **Reliability:** High for conversational behavior in this source.
+Even when afraid, he re-enters action and keeps cohesion intact.

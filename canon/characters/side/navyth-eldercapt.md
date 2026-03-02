@@ -1,28 +1,37 @@
 # Navyth Eldercapt
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Navyth Eldercapt is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- technical hobby vernacular with mentoring undertone.
+## What do I look like? 
+An experienced angler mentor presence with practical outdoorsman coding.
 
-## Personality inference (CH1–CH5 bounded)
-- patient craft mentor (fishing discipline loop).
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He deepens the fishing layer around Noctis by offering guidance and challenge structures tied to technique and patience.
 
-## Story mechanics and arc function
-- deepens Noctis hobby identity and noncombat mastery track.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Long-term craft practice and practical waterway expertise.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Patient, measured, and mastery-oriented.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He acts as a hobby-culture anchor that enriches noncombat identity in the journey.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With Noctis: mentor dynamic centered on skill progression and shared interest.
+
+## What do I think of...[character]?
+He values discipline, patience, and learning by doing.
+
+## What are my fighting or other skills?
+Fishing expertise, environment reading, and incremental coaching.
+
+## What are my hobbies?
+Fishing is both craft and identity center.
+
+## How do I speak?
+Instructional and grounded.
+
+## How do I act?
+Encourages steady improvement over impulsive results.

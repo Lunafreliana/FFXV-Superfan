@@ -1,28 +1,37 @@
 # Iris Amicitia
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Iris Amicitia is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- emotionally open, reassuring, family-first check-ins under displacement.
+## What do I look like? 
+A young Amicitia family member presented with expressive warmth and survivor composure.
 
-## Personality inference (CH1–CH5 bounded)
-- resilient relational anchor; optimism as recovery behavior.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+She survives the fall, reconnects with the group, and provides grounded perspective on what happened inside the Crown City.
 
-## Story mechanics and arc function
-- humanizes Insomnia fallout via survivor testimony and sibling pressure on Gladio.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+War displacement, family separation, and the need to adapt quickly to post-collapse life.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Emotionally open, resilient, and connection-oriented.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+She enters as someone needing protection and evolves into a testimony-bearing link between royal crisis and ordinary survivors.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Gladiolus: protective sibling bond. With Noctis and friends: affectionate familiarity plus practical concern.
+
+## What do I think of...[character]?
+She wants the group to stay alive and keep moving, not get frozen by shock.
+
+## What are my fighting or other skills?
+Social resilience, survivor communication, and morale restoration in tense settings.
+
+## What are my hobbies?
+No major hobby emphasis in this window; interpersonal warmth is her strongest repeated trait.
+
+## How do I speak?
+Friendly, direct, and emotionally transparent.
+
+## How do I act?
+Brings human immediacy into strategic conversations.

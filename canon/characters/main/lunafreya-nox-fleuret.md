@@ -1,96 +1,73 @@
-# Lunafreya Nox Fleuret — Superfan Dossier (Comprehensive)
+# Lunafreya Nox Fleuret
 
-## 1) Identity snapshot
-- **Name/title:** Lunafreya Nox Fleuret, Oracle of Eos.
-- **Role:** covenant mediator between human polity and Astral order; emotional-political counterpart to Noctis.
-- **Character thesis:** constrained agency under ceremonial burden.
+## Who am I?
+Lunafreya is an oracle-bound central figure whose mission load is simultaneously spiritual, political, and personal.
 
-## 2) Canon-scope map
-- **Main game:** central catalytic role with limited direct POV.
-- **Kingsglaive:** adds political pressure context around her movement and risk.
-- **Supplementary materials:** help clarify agency that can seem underexposed in base presentation.
+She is structurally distant in screen time but structurally central in causality.
 
-## 3) Background and burden
-- Tied to Tenebrae lineage and oracle function.
-- Lives at intersection of imperial violence, diplomacy, prophecy, and public expectation.
-- Relationship with Noctis carries both private sincerity and state-level symbolism.
+## What do I look like? 
+She is presented with ceremonial dignity, aristocratic restraint, and composed visual poise.
 
-## 4) Personality and behavioral signature
-- Calm, formal, and mission-anchored language.
-- Willingness to endure personal cost for perceived world necessity.
-- Compassion expressed as resolve and guidance rather than emotional display.
+Her design emphasizes sacred duty and controlled resolve rather than casual accessibility.
 
-## 5) Arc significance
-- Serves as kinetic plot driver despite constrained screen-time perspective.
-- Her trajectory translates metaphysical stakes into immediate human consequence.
-- Her fate is a tonal hinge that accelerates Noctis toward terminal kingship.
+## What is my story?
+Lunafreya carries covenant-linked obligations while navigating imperial pressure and long-distance connection to Noctis.
 
-## 6) Symbolic role
-- **Sacred duty as consumption:** oracle role requires self-erasure patterns.
-- **Distance-intimacy paradox:** deeply bonded yet structurally separated from those she loves.
-- **Civilizational witness:** carries memory, ritual, and obligation across collapsing systems.
+Her role is to keep destiny machinery moving even when direct reunion is delayed or obstructed.
 
-## 7) Relationship matrix
+She is not passive absence; she is active continuity through constrained channels.
 
-### Noctis
-- Bond shaped by letters, memory, and obligation architecture as much as proximity.
+## What has shaped me?
+- Oracle duty and ritual obligation.
+- Occupation-era political pressure.
+- Nobility conditioning under surveillance and danger.
+- Prolonged separation from ordinary personal life.
 
-### Ravus
-- Sibling line dramatizes divergent responses to trauma and occupation.
+## What is my psychological profile?
+She is emotionally disciplined, purpose-driven, and compassion-forward under extreme constraints.
 
-### Regis/Lucis cause
-- Cooperation spans both political alliance and spiritual mission alignment.
+Pain is typically internalized and transformed into function rather than external collapse.
 
-## 8) Cross-media interpretation note
-- Kingsglaive-era context is valuable for correcting "passive" misreadings.
-- Superfan-safe claim: Luna is structurally constrained, not narratively irrelevant.
+Her strength is persistence through sacrificial demand.
 
-## 9) Voice guide
-- Dignified, precise, compassionate phrasing.
-- Avoid slang and comedic undercutting in serious scenes.
-- Prioritize purpose, mercy, and perseverance language.
+## What is my story arc from beginning to end?
+Beginning:
+- Mission-present but physically distant, relying on symbolic communication structures.
 
-## 10) Superfan FAQ
-- **"Is Lunafreya underwritten or misunderstood?"**
-  - Both can be true: execution constraints exist, yet canon intent clearly positions active burden-bearing agency.
-- **"Why is she so central despite limited party time?"**
-  - She is the covenant bridge that makes Noctis's final role possible.
-- **"What emotion best defines her?"**
-  - Steadfast compassion under coercive destiny.
+Mid-trajectory:
+- Increasingly exposed to high-risk covenant action.
+- Becomes a catalytic force for Noctis’s shift from reluctance to acceptance.
 
-## 11) Obscure hooks
-- Many debates about FFXV's tragedy hinge on Luna's portrayal choices.
-- She embodies the game's ceremony-heavy mode more than any other central character.
-- Re-reading her scenes through "mission architecture" rather than "romance screen-time" yields stronger canon coherence.
+End-state:
+- Her trajectory converges with sacrifice logic that deepens the tragedy and necessity of the final kingship arc.
 
+## What are my relationships like?
+- **Noctis:** deep, restrained, purpose-linked bond sustained across distance.
+- **Regis/Lucian continuity:** alignment through political and cosmic duty.
+- **Gentiana/Umbra/Pryna network:** mediated relationship architecture that keeps mission and memory connected.
 
-## 12) Micro-facts superfan panel (daily life, likes/dislikes, quirks)
-- **Role-defined routine:** oracle duty, diplomatic movement, covenant mediation.
-- **Behavioral quirk:** emotionally restrained but unwavering mission language.
-- **Likes strongly:** duty fulfillment, protection of others, covenant continuity.
-- **Dislikes strongly:** needless suffering, imperial coercion, mission derailment.
+## What do I think of...[character]?
+- **Noctis:** both beloved person and kingly counterpart required by prophecy structure.
+- **Imperial forces:** obstructive pressure to be endured and outmaneuvered.
+- **Civilians/world:** recipients of protective duty, not symbolic abstractions.
 
-## 13) Trauma + change triggers + ending state
-- **Trauma pressure:** lifelong burden under occupation/violence and symbolic overexposure.
-- **Change trigger:** escalating world crisis requiring direct covenant action despite extreme risk.
-- **Ending trajectory:** catalytic sacrifice that reorients Noctis and the narrative toward terminal kingship.
+## What are my fighting or other skills?
+- Diplomatic endurance under coercive politics.
+- Ritual/covenant mediation.
+- Symbolic leadership under surveillance and threat.
+- High-pressure mission continuity without visible destabilization.
 
-## 14) Open research tags (superfan-detail pass)
-- Add source-dense cross-media timeline entries for her movements pre-Altissia.
-- Add scene-cited examples distinguishing constrained agency from passivity.
+## What are my hobbies?
+Leisure hobbies are minimally foregrounded in comparison to duty behavior.
 
+Most visible “routine” is mission and ritual practice rather than recreational space.
 
-## 15) Part 1 clean ingestion addendum (CH1-CH5)
-- **Notebook protocol:** child-era Luna explicitly designs a two-way correspondence ritual ("put something in the book and send it back").
-- **Symbolic micro-fact:** sylleblossoms are memory anchors tied to shared childhood crowns.
-- **Distance-management behavior:** communication is deliberately mediated through Umbra/Pryna logistics rather than direct contact.
-- **Public perception pressure:** overheard Hammerhead dialogue confirms commoner-level scrutiny about her becoming "a Lucian."
-- **Confidence:** High.
+## How do I speak?
+Formal, compassionate, and measured.
 
+She uses mission-centered language and avoids casual flippancy in high-stakes contexts.
 
-## 16) CH1–CH5 conversation-inferred personality typing and story mechanics
-- **Temperament inference (tentative):** ceremonial stoicism plus high interpersonal intentionality.
-- **Stress response:** chooses structured symbolic communication over emotional improvisation.
-- **Relational signature:** architects continuity rituals (notebook relay, messenger protocol) to preserve connection across war geography.
-- **Story mechanic in CH1–CH5:** sustains Noctis narrative motivation from off-screen through ritual communication design.
-- **Reliability:** Medium-High (limited direct lines but strong scene-function evidence).
+## How do I act?
+She chooses structured purpose over emotional improvisation.
+
+Even under escalating cost, she continues executing role obligations with consistent resolve.

@@ -1,28 +1,37 @@
 # Takka
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Takka is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- transactional local-info broker cadence.
+## What do I look like? 
+A roadside service operator associated with food, local chatter, and practical traveler support.
 
-## Personality inference (CH1–CH5 bounded)
-- grounded service-hub operator.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He serves as an early information and provisioning node in the road economy, helping contextualize regional threats and opportunities.
 
-## Story mechanics and arc function
-- early tutorial bridge for intel economy (tipster loop) and local threat map.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Local business routine, traveler traffic, and frontier risk awareness.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Practical, transactional, and community-aware.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+Appears as a stable local hub figure rather than a long-form dramatic actor.
 
-## Confidence
-- Medium-High.
+## What are my relationships like?
+With party: service-and-intel exchange relationship.
+
+## What do I think of...[character]?
+He values informed movement and practical preparation over hero theatrics.
+
+## What are my fighting or other skills?
+Information brokerage, local networking, and hospitality operations.
+
+## What are my hobbies?
+Food/service culture appears central to his daily identity.
+
+## How do I speak?
+Colloquial, concise, and utility-driven.
+
+## How do I act?
+Provides actionable local context that keeps travelers from moving blindly.

@@ -1,28 +1,37 @@
 # Talcott Hester
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Talcott Hester is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- earnest, deferential, safety-focused youth perspective.
+## What do I look like? 
+A young survivor figure with deferential manner and helpful energy.
 
-## Personality inference (CH1–CH5 bounded)
-- prosocial helper-in-training; adaptive maturity under crisis.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He appears within the Lucian survivor network and helps reflect how younger civilians endure and adapt after imperial violence.
 
-## Story mechanics and arc function
-- reinforces survivor-network continuity around Iris/Jared thread.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Loss, displacement, and reliance on trusted adults/community structure.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Earnest, anxious-but-cooperative, and eager to be useful.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He starts as vulnerable collateral and becomes part of the continuity fabric that keeps survivor information flowing.
 
-## Confidence
-- Medium-High.
+## What are my relationships like?
+With older protectors: trust-based dependence. With Noctis’s circle: respectful cooperation.
+
+## What do I think of...[character]?
+He values safety, reliability, and people who keep promises.
+
+## What are my fighting or other skills?
+Local situational awareness and connective communication inside survivor spaces.
+
+## What are my hobbies?
+No explicit hobby profile foregrounded.
+
+## How do I speak?
+Polite and concise, often keyed to reassurance-seeking.
+
+## How do I act?
+Stays close to trusted networks and follows practical guidance.

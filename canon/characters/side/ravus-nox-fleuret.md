@@ -1,28 +1,37 @@
 # Ravus Nox Fleuret
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Ravus Nox Fleuret is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- rigid command framing; mission-priority speech under imperial pressure.
+## What do I look like? 
+A severe military-noble presence with imperial command posture.
 
-## Personality inference (CH1–CH5 bounded)
-- status-conscious militarized noble under conflicted loyalties.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+He appears in command-context scenes tied to imperial operations and the Lunafreya thread, embodying coercive power and unresolved conflict.
 
-## Story mechanics and arc function
-- represents coercive imperial hierarchy intersecting Lunafreya thread.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Noble lineage pressure, militarization, and entanglement with imperial authority.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Rigid, status-conscious, and conflict-driven.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+He enters as hardline opposition pressure with motivations that broaden in later continuity.
 
-## Confidence
-- Medium.
+## What are my relationships like?
+With Lunafreya: strained family-political axis. With empire: operational alignment under tension. With Noctis side: hostile distance.
+
+## What do I think of...[character]?
+He evaluates others through power, utility, and strategic leverage.
+
+## What are my fighting or other skills?
+Military command, intimidation presence, and political-force posture.
+
+## What are my hobbies?
+No hobby emphasis in this scope.
+
+## How do I speak?
+Formal, clipped, and confrontational.
+
+## How do I act?
+Pushes hierarchy, force, and control in contested spaces.

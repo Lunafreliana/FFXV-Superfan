@@ -1,28 +1,37 @@
-# Umbra & Pryna
+# Umbra and Pryna
 
-## Source boundary
-- Derived from CH1–CH5 conversations and scene notes in `ffxv_part1_clean.txt`.
-- Inferences are intentionally bounded to this source window.
+## Who am I?
+Umbra and Pryna is a supporting FFXV character with a distinct role in the broader journey ecosystem.
 
-## Conversation signals
-- nonverbal relay behavior treated by cast as trusted courier protocol.
+## What do I look like? 
+A paired messenger-dog presence with strong symbolic and emotional visibility.
 
-## Personality inference (CH1–CH5 bounded)
-- reliable ritual companions; emotional continuity devices.
-- Stress handling inference: role-aligned behavior dominates expression under uncertainty.
+## What is my story?
+They enable long-distance communication and memory continuity tied to the Noctis–Lunafreya relationship and broader oracle-linked systems.
 
-## Story mechanics and arc function
-- carry notebook correspondence, enabling Noctis/Luna bond progression despite geopolitical separation.
-- Converts abstract geopolitical stakes into practical story pressure for the road party.
+## What has shaped me?
+Messenger duty within the sacred-political communication network.
 
-## Relationship impact on main cast
-- Functions as a force multiplier for one or more of the following: duty pressure, grief processing, mission clarity, morale stability.
-- Interaction tone contributes to how Noctis's kingship maturation is paced.
+## What is my psychological profile?
+Portrayed as reliable, gentle, and mission-consistent companions.
 
-## Scene-useful superfan prompts
-- What distinct pressure does this character add to the CH1–CH5 road arc?
-- How does this character's voice register (formal, tactical, local, or manipulative) shape player interpretation?
-- Which exchange best captures their operating ethic?
+## What is my story arc from beginning to end?
+They begin as messenger links and remain emotionally important connective tissue as stakes rise.
 
-## Confidence
-- High.
+## What are my relationships like?
+With Noctis and Lunafreya: trusted relational bridge. With party: accepted and cared for as meaningful companions.
+
+## What do I think of...[character]?
+Their function signals loyalty and route memory rather than human-style verbal opinion.
+
+## What are my fighting or other skills?
+Tracking, message relay, and ritualized communication continuity.
+
+## What are my hobbies?
+No hobby framing; service role is primary.
+
+## How do I speak?
+Nonverbal communicators interpreted through behavior and context.
+
+## How do I act?
+Appear at key emotional and logistical junctions to keep bonds active across distance.

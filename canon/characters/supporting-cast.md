@@ -1,7 +1,5 @@
 # Canon Characters: Supporting Cast
-
 Canonical side-character files now live in `canon/characters/side/` (one file per character).
-
 ## Core side-character files
 - `canon/characters/side/king-regis-lucis-caelum.md`
 - `canon/characters/side/cor-leonis.md`
@@ -25,6 +23,5 @@ Canonical side-character files now live in `canon/characters/side/` (one file pe
 - `canon/characters/side/coctura-arlund.md`
 - `canon/characters/side/chancellor-ardyn.md` (alias -> see `canon/characters/main/ardyn-izunia.md`)
 - `canon/characters/side/captain-drautos.md`
-
 ## Supplemental aggregate
 - `canon/characters/side/named-npc-clusters.md`

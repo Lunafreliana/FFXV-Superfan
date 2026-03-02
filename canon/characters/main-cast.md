@@ -1,7 +1,5 @@
 # Canon Characters: Main Cast
-
 Canonical main-character files now live in `canon/characters/main/`.
-
 - `canon/characters/main/noctis-lucis-caelum.md`
 - `canon/characters/main/ignis-scientia.md`
 - `canon/characters/main/gladiolus-amicitia.md`

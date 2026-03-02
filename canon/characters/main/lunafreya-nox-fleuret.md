@@ -78,3 +78,19 @@
 ## 14) Open research tags (superfan-detail pass)
 - Add source-dense cross-media timeline entries for her movements pre-Altissia.
 - Add scene-cited examples distinguishing constrained agency from passivity.
+
+
+## 15) Part 1 clean ingestion addendum (CH1-CH5)
+- **Notebook protocol:** child-era Luna explicitly designs a two-way correspondence ritual ("put something in the book and send it back").
+- **Symbolic micro-fact:** sylleblossoms are memory anchors tied to shared childhood crowns.
+- **Distance-management behavior:** communication is deliberately mediated through Umbra/Pryna logistics rather than direct contact.
+- **Public perception pressure:** overheard Hammerhead dialogue confirms commoner-level scrutiny about her becoming "a Lucian."
+- **Confidence:** High.
+
+
+## 16) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** ceremonial stoicism plus high interpersonal intentionality.
+- **Stress response:** chooses structured symbolic communication over emotional improvisation.
+- **Relational signature:** architects continuity rituals (notebook relay, messenger protocol) to preserve connection across war geography.
+- **Story mechanic in CH1–CH5:** sustains Noctis narrative motivation from off-screen through ritual communication design.
+- **Reliability:** Medium-High (limited direct lines but strong scene-function evidence).

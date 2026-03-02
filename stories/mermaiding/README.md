@@ -3,7 +3,8 @@
 This folder is for **mermaiding story-specific** material.
 
 - Keep canon facts in `canon/`.
-- Keep adaptations, alternate choices, and project-only planning here.
+- Keep reusable fanon patterns in `fanon/`.
+- Keep project-only choices, adaptations, and planning here.
 
 ## Reference catalog
 - `reference/reference-catalog.md` — index of what exists and what still needs to be filled in.

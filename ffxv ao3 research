@@ -1,0 +1,146 @@
+# Final Fantasy XV fanfiction on AO3: deep-dive synthesis (with live-access constraints)
+
+## What I attempted this round
+I retried a true live AO3 crawl and also attempted to use third-party AO3-stat APIs.
+
+- **Direct AO3 from shell (`curl`)**: blocked by outbound proxy (`403 CONNECT tunnel failed`).
+- **Direct AO3 from browser automation (Playwright)**: AO3 returned a bot/challenge interstitial (`418 Request temporarily denied`).
+- **FandomStats AO3 Tag Stats API** (`/api/v1.0/stats?tag_id=...`): consistently returned `500 Internal Server Error` during this run.
+- **Wayback Machine fallback**: successful. I was able to query CDX captures and load archived AO3 tag pages for `Final Fantasy XV`.
+
+Because of that, this report combines:
+1. live-accessed **Wayback AO3 snapshots**, and
+2. stable fandom-meta pattern analysis for FFXV AO3 fic.
+
+---
+
+## Evidence-backed baseline (from Wayback AO3 captures)
+
+### 1) The fandom tag has long-running, dense archival activity
+Using Wayback CDX for:
+`archiveofourown.org/tags/Final%20Fantasy%20XV/works`
+I retrieved captures spanning from **2016 through 2025** (many entries per year), indicating sustained AO3 activity over time.
+
+### 2) Snapshot sampling confirms early dominant relationship gravity around Noctis and the core party
+From an archived AO3 tag page snapshot (`2016-08-14`), the first-page relationship tags included repeated appearances of:
+
+- **Prompto/Noctis** (and inverse formatting variants)
+- **Noctis/Ignis**
+- **Chocobros ensemble ampersand tags** (`Gladio & Prompto & Noctis & Ignis`)
+- Crossover-adjacent pairings (e.g., Lightning/Noctis) also appeared in early-era results
+
+This supports a durable pattern: the Chocobros axis and Noctis-centric dynamics were already central near launch-era fic growth.
+
+### 3) Caution on prevalence precision
+Because direct AO3 and the stats API were unavailable, I cannot provide trustworthy **current** percentages in this environment. The findings below are therefore ranked-trend conclusions rather than exact current market-share metrics.
+
+---
+
+## Most prevalent canon anchors in FFXV AO3 fic
+1. **Road-trip brotherhood core (Noctis, Ignis, Gladio, Prompto)**
+   - Camp scenes, banter, trust rituals, emotional caretaking.
+2. **Insomnia fall + royal duty trauma**
+   - National loss mirrored by intimate grief.
+3. **Altissia as a permanent emotional hinge**
+   - Especially for Ignis-focused recovery narratives.
+4. **Noctis’s fate/sacrifice pressure**
+   - Canon ending stress generates much of fix-it/alternate timeline output.
+5. **Post-timeskip estrangement and reunion**
+   - Relationship recalibration after the 10-year gap.
+
+## Most prevalent headcanon clusters
+
+### Character headcanons
+- **Noctis**: insomnia/fatigue cycles, socially awkward softness, food/fishing as self-regulation.
+- **Ignis**: competence masking burnout; adaptation and agency after vision loss.
+- **Prompto**: insecurity and belonging anxiety; photography as memory-preservation against loss.
+- **Gladio**: protector identity as love language; difficulty expressing fear directly.
+- **Ardyn**: tragedy-forward reinterpretations that foreground injustice and cyclical fate.
+
+### Group-dynamic headcanons
+- The four men as an explicit **chosen family** structure.
+- Care work (cooking, tending injuries, driving, watch shifts) as a primary intimacy grammar.
+- Post-canon survival framed as collective rehabilitation, not individual heroism.
+
+---
+
+## Relationship ecology (trend-ranked)
+
+### Highest-frequency lanes (long-running fandom pattern)
+1. **Noctis/Prompto** (friends-to-lovers, reassurance, mutual vulnerability)
+2. **Noctis/Ignis** (devotion, protection, hurt/comfort)
+3. **Noctis/Gladio** (duty-proximity, bodyguard/prince tension)
+4. **OT4/poly Chocobros** (negotiated intimacy + found-family continuity)
+5. **Ardyn/Noctis** (fate-entanglement, antagonist intimacy, dark mirror narratives)
+
+### Platonic lane with high durability
+- **Chocobros &-tag stories** remain foundational even in shipping-heavy spaces.
+
+---
+
+## Story-trope prevalence (most common engines)
+1. **Canon-divergence fix-it**
+   - “Noctis lives,” alternate Crystal outcomes, derailed sacrificial end states.
+2. **Post-canon recovery**
+   - Long-tail grief care, disability adaptation, reintegration.
+3. **Missing scenes / episode bridge fic**
+   - Filling emotional or logistical gaps left by the game + supplemental media.
+4. **Time-travel / second-chance loops**
+   - Prevention narratives targeting Insomnia, Altissia, or the final sacrifice.
+5. **Road-trip domesticity**
+   - Campfire routines, motel interludes, food and photos as intimacy scaffolding.
+6. **Identity revelation arcs**
+   - Prompto-origin fallout, concealed fear/injury reveal, confession climaxes.
+7. **AU transpositions**
+   - Modern/college/shop AUs and court-politics rewrites.
+
+---
+
+## Tonal, thematic, and warning-pattern tendencies
+
+### Tone
+- **Angst with hopeful ending** is the modal tonal blend.
+- **Whump + comfort** remains highly recurrent.
+- Domestic **fluff interludes** often coexist with heavier trauma plots.
+
+### Themes
+- Brotherhood as chosen kinship.
+- Duty vs personhood.
+- Memory and ephemerality (photos, journals, keepsakes).
+- Forgiveness after survival guilt.
+
+### Frequent warning contexts
+- Canon-contextual MCD and grief.
+- Psychological distress and depressive episodes.
+- Combat violence references (daemon/battle aftermath).
+
+---
+
+## Practical AO3 tag clusters readers commonly rely on (FFXV context)
+- Canon Divergence
+- Post-Canon
+- Fix-It
+- Hurt/Comfort
+- Angst / Angst with a Happy Ending
+- Found Family
+- Friends to Lovers
+- Time Travel
+- Slow Burn
+- Alternate Universe variants
+
+---
+
+## What would make this a true quantitative “deep dive” next
+When AO3 is accessible (or an API mirror is healthy), run:
+
+1. Multi-sort sampling over at least 100 pages each:
+   - `kudos_count`, `bookmarks_count`, `revised_at`.
+2. Extract per-work:
+   - relationships, additional tags, warnings, ratings, categories, characters.
+3. De-duplicate by work ID across sort pulls.
+4. Report:
+   - top-N prevalence and confidence intervals by publication era.
+5. Segment comparisons:
+   - pre/post Episode Ignis release windows, pre/post Royal Edition, and post-2020.
+
+That pipeline would convert this trend-ranked synthesis into hard percentages.

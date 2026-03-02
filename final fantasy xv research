@@ -1,0 +1,129 @@
+# Final Fantasy XV Superfan Research Notebook (Verified + Practical)
+
+Compiled: 2026-03-02  
+Goal: Build a high-accuracy FFXV reference for in-character replies and obscure trivia prompts.
+
+## Research method used in this revision
+
+- I re-ran research with live browsing via the browser tool.
+- **Direct `curl` access is still proxy-blocked** in this environment, but browser-based retrieval works for some domains (notably Wikipedia and official Square Enix pages).
+- Several fan-wiki pages (Fandom, Neoseeker, GamerGuides) are blocked by Cloudflare bot checks from this environment, so those were not usable as primary citations.
+
+---
+
+## 1) Canon structure (what source contains what)
+
+1. **Main game**: `Final Fantasy XV` (base narrative).
+2. **Film**: `Kingsglaive: Final Fantasy XV` (Insomnia-side events).
+3. **Anime ONA**: `Brotherhood: Final Fantasy XV` (party backstories).
+4. **DLC**: Episode Gladiolus / Prompto / Ignis / Ardyn.
+5. **Enhanced build**: Royal Edition / Royal Pack.
+
+Practical rule for answering lore questions: ask which continuity slice the user means (base, Royal, DLC route, or cross-media).
+
+---
+
+## 2) Verified high-confidence facts (from accessible sources)
+
+- FFXV launched on PS4/Xbox One (2016), later on Windows (2018), and was directed by Hajime Tabata after reworking from Versus XIII origins.  
+- The game combines real-time combat, open-world travel, and a four-man road-trip structure centered on Noctis, Ignis, Gladiolus, and Prompto.  
+- `Brotherhood` is a 5-episode ONA (A-1 Pictures) released in 2016.  
+- `Kingsglaive` is a CG feature film directed by Takeshi Nozue and tied directly to the fall-of-Insomnia context.  
+- In the `Characters of Final Fantasy XV` source, **Talcott Hester is explicitly identified as Jared Hester's grandson** and part of the Lestallum-survivor thread after Insomnia's fall.
+
+---
+
+## 3) Character behavior model (for roleplay-accurate replies)
+
+### Noctis Lucis Caelum
+- Speaking style: short, dry, often understated.
+- Emotional pattern: deflect first, then shows care through actions.
+- Decision posture: reluctant in tone, decisive when stakes become existential.
+- Known hobby anchor: fishing (good for character-consistent dialogue hooks).
+
+**Prompt fit example**
+- User: *“How would Noctis react to being handed tomatoes?”*  
+- In-character answer: *“...Seriously? Can I not just have something else?”* (deadpan avoidance, low-theater complaint).
+
+### Ignis Scientia
+- Voice: formal, strategic, composed.
+- Signature behavior: reframes situations into practical plans; recipe/cooking framing is very in-character.
+
+### Gladiolus Amicitia
+- Voice: blunt, protective, tough-love.
+- Signature behavior: challenges hesitation, prioritizes readiness.
+
+### Prompto Argentum
+- Voice: upbeat, socially connective, insecurity under humor.
+- Signature behavior: mood-lifting and memory-preserving (photos, camaraderie prompts).
+
+### Ardyn Izunia
+- Voice: theatrical, taunting, psychologically manipulative.
+- Signature behavior: reveals information at maximum emotional disruption.
+
+---
+
+## 4) Obscure prompt bank (with confidence tags)
+
+### Q: “Who’s Talcott?”
+**Answer (High confidence):** Talcott Hester is Jared Hester's grandson; he appears early as a young survivor-linked character and later reappears older after the time skip, functioning as an important contact/support figure in the ruined world phase.
+
+### Q: “How does Noct react to tomatoes?”
+**Answer (Medium confidence):** Best played as dry, picky resistance rather than dramatic outrage. Keep response minimal and sarcastic.
+
+### Q: “What’s the berry in the pastry a character kept trying to recreate?”
+**Answer (Low/Context-dependent confidence):** The likely recall target is **Ulwaat Berries** (an FFXV food ingredient associated with sweet recipe discussions in community references), but this specific pastry linkage needs scene-level confirmation from a source currently blocked in this environment.
+
+---
+
+## 5) Rapid-fire in-character line templates
+
+- **Noctis**: “Yeah... no.” / “Can we do this later?” / “Let’s move.”
+- **Ignis**: “I’ve devised a plan.” / “I’ve come up with a new recipe.”
+- **Gladio**: “Focus up.” / “Stop stalling and commit.”
+- **Prompto**: “C’mon, one photo!” / “Hey, we got this, right?”
+- **Ardyn**: “How very entertaining.” / “Shall we continue this little tragedy?”
+
+---
+
+## 6) What to memorize next for “superfan” readiness
+
+- Talcott/Jared thread and World of Ruin character returns.
+- Kingsglaive cast crossover context (Regis, Lunafreya, Nyx) vs base game POV.
+- Episode Ignis alternate-route implications.
+- Ardyn pre-fall history + Episode Ardyn reframing.
+- Side support names: Monica Elshett, Dustin Ackley, Verstael Besithia, Gentiana/Shiva identity tie.
+
+---
+
+## 7) Source log (reachable in this run)
+
+1. https://en.wikipedia.org/wiki/Final_Fantasy_XV
+2. https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_XV
+3. https://en.wikipedia.org/wiki/Brotherhood:_Final_Fantasy_XV
+4. https://en.wikipedia.org/wiki/Kingsglaive:_Final_Fantasy_XV
+5. https://www.jp.square-enix.com/ff15/
+6. https://finalfantasyxv.square-enix-games.com/en-us
+
+Blocked during this run (Cloudflare/proxy limitations):
+- finalfantasy.fandom.com pages
+- gamerguides.com FFXV pages
+- neoseeker.com FFXV pages
+
+
+
+---
+
+## 8) Fandom retry log (requested follow-up)
+
+I retried direct access to `finalfantasy.fandom.com` pages in this run (including the main FFXV page plus Noctis, Talcott, and Ulwaat Berries entries) using browser automation with longer waits.
+
+Result: every tested URL still returned **HTTP 403** with Cloudflare "Performing security verification" interstitial, so page content was not retrievable from this environment.
+
+Retried URLs:
+- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV
+- https://finalfantasy.fandom.com/wiki/Noctis_Lucis_Caelum
+- https://finalfantasy.fandom.com/wiki/Talcott_Hester
+- https://finalfantasy.fandom.com/wiki/Ulwaat_berries
+
+Actionable next step if you want strict Fandom-backed answers: run the same collection script from a normal desktop browser session (or a trusted environment that passes Cloudflare bot checks), then I can ingest and normalize that data into this notebook.

@@ -92,3 +92,19 @@
 ## 15) Open research tags (superfan-detail pass)
 - Add quote-backed examples of humor-to-vulnerability transitions.
 - Add chapter-level mapping of photo system moments to story beats.
+
+
+## 16) Part 1 clean ingestion addendum (CH1-CH5)
+- **Belonging behavior:** performs morale maintenance while exhausted (jokes during Regalia push, photo enthusiasm, food/crowd chatter).
+- **Care reflex:** first responder in the Ifrit cold-open; physically pats flames off Noctis before rejoining combat.
+- **Identity tell:** repeatedly frames himself as witness/documentarian (camera focus, explicit desire to capture moments).
+- **Stress signature:** fear surfaces quickly at night/daemon encounters, then gets converted into group-synced momentum.
+- **Confidence:** High.
+
+
+## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** socially expressive morale-maintainer with belonging sensitivity.
+- **Stress response:** fear verbalization followed by humor or action-sync with group.
+- **Relational signature:** performs witness labor (photos, check-ins, emotional temperature regulation).
+- **Story mechanic in CH1–CH5:** prevents tonal hardening; keeps party identity anchored in shared memory while crisis escalates.
+- **Reliability:** High for conversational behavior in this source.

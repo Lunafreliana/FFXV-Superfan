@@ -118,3 +118,19 @@
   - **Umbra** (with Pryna as paired messenger context) acts as key messenger/intermediary for Noctis/Lunafreya narrative linkage.
 - **"Why food friction?"**
   - Characterization consistently plays Noctis as picky with recurring vegetable/tomato resistance beats; keep this labeled as trait-level unless scene-cited in answer.
+
+
+## 16) Part 1 clean ingestion addendum (CH1-CH5)
+- **Routine under stress:** repeatedly defaults to terse humor while physically pushing the Regalia and when money/plans collapse at Hammerhead.
+- **Leadership tell:** even in early-game denial, he immediately accepts practical burden loops (hunter work, delivery work, tomb entry) once stakes are explicit.
+- **Relationship micro-fact:** with Regis, he uses sarcasm as affection armor; the throne-step exchange shows tenderness displaced into banter.
+- **Luna/Umbra linkage:** notebook exchanges via Umbra are an active emotional ritual, not passive lore flavor.
+- **Confidence:** High (directly quoted in `ffxv_part1_clean.txt`, CH1-CH2 scenes).
+
+
+## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** introvert-leaning, duty-avoidant surface with high latent conscientiousness under explicit stakes.
+- **Defense style:** deadpan humor + minimal verbal disclosure (especially with father figures and when overwhelmed).
+- **Attachment signal:** resists direct vulnerability but rapidly complies with protective/provider tasks once responsibility is clear.
+- **Story mechanic in CH1–CH5:** transforms from reluctant road-trip prince into active burden-bearer through repeated micro-obligations (repair debt, hunts, tomb duties, survivor response).
+- **Reliability:** High for behavior pattern in this source window; broader personality taxonomy labels remain interpretive.

@@ -97,3 +97,19 @@
 ## 15) Open research tags (superfan-detail pass)
 - Add scene-cited examples of high-stress emotional spikes.
 - Add chapter-indexed list of defining recipe/food moments.
+
+
+## 16) Part 1 clean ingestion addendum (CH1-CH5)
+- **Operational habit:** triages route, funds, and risk in real time (busy signal troubleshooting, budget depletion briefing, night-driving daemon constraint).
+- **Domestic micro-fact:** Ebony coffee enthusiasm is diegetically acknowledged by party banter at Hammerhead.
+- **Speech-pattern cue:** keeps instructions short and procedural during stress ("save some breath," "let's confer," "on we go").
+- **Role pressure:** becomes mobility gatekeeper by rule—he drives by day, but not when daemons are out.
+- **Confidence:** High.
+
+
+## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** high-structure planner; cognition-first caretaker profile.
+- **Stress response:** narrows options to executable steps and reallocates risk (transport rules, funds, route, night constraints).
+- **Relational signature:** care delivered as competence, not overt sentiment.
+- **Story mechanic in CH1–CH5:** acts as party entropy dampener; his procedural language prevents collapse when public narrative declares them dead and resources crash.
+- **Reliability:** High for observed dialogue behavior.

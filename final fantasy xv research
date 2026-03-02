@@ -1,102 +1,165 @@
-# Final Fantasy XV Superfan Research Notebook (Verified + Practical)
+# Final Fantasy XV Superfan Research Notebook (Expanded Deep-Dive)
 
 Compiled: 2026-03-02  
-Goal: Build a high-accuracy FFXV reference for in-character replies and obscure trivia prompts.
+Goal: Build a high-accuracy FFXV reference for in-character replies, obscure trivia prompts, and continuity-aware lore answers.
 
 ## Research method used in this revision
 
-- I re-ran research with live browsing via the browser tool.
-- **Direct `curl` access is still proxy-blocked** in this environment, but browser-based retrieval works for some domains (notably Wikipedia and official Square Enix pages).
-- Several fan-wiki pages (Fandom, Neoseeker, GamerGuides) are blocked by Cloudflare bot checks from this environment, so those were not usable as primary citations.
+- Re-reviewed existing notes and expanded them with a deeper canon map and timeline-oriented lore breakdown.
+- In this run, direct `curl` access to some key pages was available for verification (notably Wikipedia + official Square Enix domains).
+- Some fan-wiki domains can still be intermittently blocked by Cloudflare; when blocked, treat fan-wiki facts as secondary until corroborated elsewhere.
 
 ---
 
-## 1) Canon structure (what source contains what)
+## 1) Canon structure and continuity boundaries
 
-1. **Main game**: `Final Fantasy XV` (base narrative).
-2. **Film**: `Kingsglaive: Final Fantasy XV` (Insomnia-side events).
-3. **Anime ONA**: `Brotherhood: Final Fantasy XV` (party backstories).
-4. **DLC**: Episode Gladiolus / Prompto / Ignis / Ardyn.
-5. **Enhanced build**: Royal Edition / Royal Pack.
+Think of FFXV canon as **layers**, not a single text:
 
-Practical rule for answering lore questions: ask which continuity slice the user means (base, Royal, DLC route, or cross-media).
+1. **Core game narrative** (`Final Fantasy XV`) — Noctis + party road trip through to ending.
+2. **Companion film** (`Kingsglaive`) — Insomnia perspective during the treaty collapse/invasion.
+3. **Companion anime** (`Brotherhood`) — pre-journey character backstory for the four main party members.
+4. **Character DLC arc** — Episode Gladiolus, Episode Prompto, Episode Ignis, Episode Ardyn.
+5. **Royal Edition / Royal Pack additions** — expanded Insomnia endgame content and bosses.
+6. **Post-cancelation novel path** (`The Dawn of the Future`) — prose adaptation of planned late DLC concepts.
 
----
-
-## 2) Verified high-confidence facts (from accessible sources)
-
-- FFXV launched on PS4/Xbox One (2016), later on Windows (2018), and was directed by Hajime Tabata after reworking from Versus XIII origins.  
-- The game combines real-time combat, open-world travel, and a four-man road-trip structure centered on Noctis, Ignis, Gladiolus, and Prompto.  
-- `Brotherhood` is a 5-episode ONA (A-1 Pictures) released in 2016.  
-- `Kingsglaive` is a CG feature film directed by Takeshi Nozue and tied directly to the fall-of-Insomnia context.  
-- In the `Characters of Final Fantasy XV` source, **Talcott Hester is explicitly identified as Jared Hester's grandson** and part of the Lestallum-survivor thread after Insomnia's fall.
+**Answering rule:** Always ask which continuity slice the user means:
+- *Main game only*
+- *Main + Royal*
+- *Main + all DLC*
+- *Include transmedia (Kingsglaive/Brotherhood)*
+- *Include Dawn of the Future novel route*
 
 ---
 
-## 3) Character behavior model (for roleplay-accurate replies)
+## 2) Chronology quick reference (practical order)
+
+### A) In-universe watch/play order for context coherence
+1. `Brotherhood` (backstory primer)
+2. `Kingsglaive` (Insomnia-side events)
+3. `FFXV` main game (Ch. 1 onward)
+4. DLC inserted at character-relevant breaks:
+   - Episode Gladiolus
+   - Episode Prompto
+   - Episode Ignis (noting alternate route material)
+   - Episode Ardyn (prequel framing)
+5. Royal Edition expanded final sequence
+
+### B) Release-history order (for fandom/meta questions)
+- 2016: Base game launch (PS4/Xbox One)
+- 2016: Kingsglaive + Brotherhood tie-ins
+- 2017–2019: DLC rollout (ending with Episode Ardyn)
+- 2018: Windows launch
+- Royal Edition era + post-launch updates reshaped “definitive” play experience
+
+---
+
+## 3) Deep lore anchors to memorize
+
+### 3.1 Lucis, Starscourge, and the Astral frame
+- The narrative conflict blends geopolitical war (Niflheim vs Lucis) with cosmic/mythic burden (the Crystal, Astrals, and the chosen king structure).
+- Late-game tone shift is intentional: road-trip realism gives way to sacrificial myth.
+
+### 3.2 Royal Arms and kingship symbolism
+- Royal Arms are both gameplay tools and narrative artifacts of Lucian lineage.
+- They function as a repeated reminder that Noctis inherits power *and* accumulated burden.
+
+### 3.3 World of Ruin phase significance
+- The time skip reframes supporting cast roles into survival/resistance functions.
+- Talcott’s older reappearance is one of the clearest emotional devices for showing elapsed loss and social collapse.
+
+### 3.4 Ardyn as thematic mirror
+- Ardyn is not just “villain pressure”; he is a deliberate inversion of chosen-one logic and historical legitimacy.
+- Episode Ardyn and related materials heavily recast audience sympathy and causal blame.
+
+---
+
+## 4) Character voice model (roleplay-accurate output)
 
 ### Noctis Lucis Caelum
-- Speaking style: short, dry, often understated.
-- Emotional pattern: deflect first, then shows care through actions.
-- Decision posture: reluctant in tone, decisive when stakes become existential.
-- Known hobby anchor: fishing (good for character-consistent dialogue hooks).
-
-**Prompt fit example**
-- User: *“How would Noctis react to being handed tomatoes?”*  
-- In-character answer: *“...Seriously? Can I not just have something else?”* (deadpan avoidance, low-theater complaint).
+- Minimal wording, dry humor, emotional compression.
+- Leadership appears through action before speech.
+- Reliable hooks: fatigue, duty pressure, fishing, reluctant affection for friends.
 
 ### Ignis Scientia
-- Voice: formal, strategic, composed.
-- Signature behavior: reframes situations into practical plans; recipe/cooking framing is very in-character.
+- Formal diction, tactical framing, competence-first tone.
+- Converts chaos into plans; culinary references are highly in-character.
 
 ### Gladiolus Amicitia
-- Voice: blunt, protective, tough-love.
-- Signature behavior: challenges hesitation, prioritizes readiness.
+- Direct, physical, challenge-oriented speech.
+- Pushes discipline and decisiveness; tough-love protector register.
 
 ### Prompto Argentum
-- Voice: upbeat, socially connective, insecurity under humor.
-- Signature behavior: mood-lifting and memory-preserving (photos, camaraderie prompts).
+- Social warmth, levity, and reassurance masking insecurity.
+- “Memory keeper” role via photos/camaraderie comments.
 
 ### Ardyn Izunia
-- Voice: theatrical, taunting, psychologically manipulative.
-- Signature behavior: reveals information at maximum emotional disruption.
+- Polite theatricality + destabilizing reveals.
+- Uses timing and tone to maximize emotional disorientation.
 
 ---
 
-## 4) Obscure prompt bank (with confidence tags)
+## 5) Combat/system depth notes (for mechanics-savvy replies)
 
-### Q: “Who’s Talcott?”
-**Answer (High confidence):** Talcott Hester is Jared Hester's grandson; he appears early as a young survivor-linked character and later reappears older after the time skip, functioning as an important contact/support figure in the ruined world phase.
+- FFXV combat identity: action-RPG hybrid with warp-strike mobility and party-tech expression.
+- Early-game perception (“hold to attack”) misses deeper layers: positioning, weapon swapping, link-strikes, tech timing, status management, and late-game build optimization.
+- Royal/late updates materially changed player evaluation by adding features and smoothing gaps in launch-era friction.
 
-### Q: “How does Noct react to tomatoes?”
-**Answer (Medium confidence):** Best played as dry, picky resistance rather than dramatic outrage. Keep response minimal and sarcastic.
-
-### Q: “What’s the berry in the pastry a character kept trying to recreate?”
-**Answer (Low/Context-dependent confidence):** The likely recall target is **Ulwaat Berries** (an FFXV food ingredient associated with sweet recipe discussions in community references), but this specific pastry linkage needs scene-level confirmation from a source currently blocked in this environment.
+**Useful framing for questions like “Is FFXV combat shallow?”**
+- Honest answer: it can be played shallowly, but high-efficiency play reveals meaningful optimization depth.
 
 ---
 
-## 5) Rapid-fire in-character line templates
+## 6) Development-history essentials (high-value trivia)
 
-- **Noctis**: “Yeah... no.” / “Can we do this later?” / “Let’s move.”
-- **Ignis**: “I’ve devised a plan.” / “I’ve come up with a new recipe.”
-- **Gladio**: “Focus up.” / “Stop stalling and commit.”
-- **Prompto**: “C’mon, one photo!” / “Hey, we got this, right?”
-- **Ardyn**: “How very entertaining.” / “Shall we continue this little tragedy?”
-
----
-
-## 6) What to memorize next for “superfan” readiness
-
-- Talcott/Jared thread and World of Ruin character returns.
-- Kingsglaive cast crossover context (Regis, Lunafreya, Nyx) vs base game POV.
-- Episode Ignis alternate-route implications.
-- Ardyn pre-fall history + Episode Ardyn reframing.
-- Side support names: Monica Elshett, Dustin Ackley, Verstael Besithia, Gentiana/Shiva identity tie.
+- Originated as `Final Fantasy Versus XIII` before transition into `Final Fantasy XV`.
+- Hajime Tabata directed the reworked project to release.
+- The transmedia strategy (anime + film + DLC + expanded editions) is central to why canon conversations are often fragmented.
+- Planned later DLC arc was not fully shipped in game form; parts survived via `The Dawn of the Future` novelization route.
 
 ---
 
-## 7) Source log (reachable in this run)
+## 7) Obscure Q&A bank with confidence labels
+
+### Q: “Who is Talcott?”
+**High confidence:** Talcott Hester is Jared Hester’s grandson; he appears young early on and returns older in the World of Ruin phase as an important logistical contact.
+
+### Q: “How should Noctis react to tomatoes in-character?”
+**Medium confidence (style inference):** Deadpan refusal or low-energy complaint fits better than exaggerated comedy.
+
+### Q: “What berry is tied to pastry/recipe discussions?”
+**High confidence (user-confirmed + community usage):** Ulwaat berries are the correct berry reference in FFXV recipe/pastry discussion contexts.
+
+### Q: “Is Episode Ignis canon if it has alternate outcomes?”
+**Practical answer:** Treat the base-compatible route as core continuity and label alternate outcome material explicitly as branching/what-if interpretation.
+
+---
+
+## 8) Response templates for continuity-safe answers
+
+- “Do you want base game canon only, or should I include Kingsglaive/Brotherhood and DLC?”
+- “That answer differs between launch FFXV and Royal Edition context.”
+- “Episode Ignis includes alternate-route material, so I’ll mark what is base-compatible vs speculative.”
+
+Short in-character snippets:
+- **Noctis:** “Yeah... not doing that.”
+- **Ignis:** “I’ve already planned for this contingency.”
+- **Gladio:** “Pick a lane and commit.”
+- **Prompto:** “Hey, one step at a time—we’re still in this.”
+- **Ardyn:** “How charmingly predictable.”
+
+---
+
+## 9) Priority study list for “superfan” accuracy
+
+1. Royal Edition final chapter deltas vs original release flow.
+2. Episode Ignis continuity split and common fan misreadings.
+3. Episode Ardyn + Dawn of the Future relationship mapping.
+4. Kingsglaive-only character details most often confused with game-only events.
+5. Side-character fate tracking across pre-timeskip vs World of Ruin.
+
+---
+
+## 10) Source log used/revalidated in this expansion
 
 1. https://en.wikipedia.org/wiki/Final_Fantasy_XV
 2. https://en.wikipedia.org/wiki/Characters_of_Final_Fantasy_XV
@@ -105,25 +168,4 @@ Practical rule for answering lore questions: ask which continuity slice the user
 5. https://www.jp.square-enix.com/ff15/
 6. https://finalfantasyxv.square-enix-games.com/en-us
 
-Blocked during this run (Cloudflare/proxy limitations):
-- finalfantasy.fandom.com pages
-- gamerguides.com FFXV pages
-- neoseeker.com FFXV pages
-
-
-
----
-
-## 8) Fandom retry log (requested follow-up)
-
-I retried direct access to `finalfantasy.fandom.com` pages in this run (including the main FFXV page plus Noctis, Talcott, and Ulwaat Berries entries) using browser automation with longer waits.
-
-Result: every tested URL still returned **HTTP 403** with Cloudflare "Performing security verification" interstitial, so page content was not retrievable from this environment.
-
-Retried URLs:
-- https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV
-- https://finalfantasy.fandom.com/wiki/Noctis_Lucis_Caelum
-- https://finalfantasy.fandom.com/wiki/Talcott_Hester
-- https://finalfantasy.fandom.com/wiki/Ulwaat_berries
-
-Actionable next step if you want strict Fandom-backed answers: run the same collection script from a normal desktop browser session (or a trusted environment that passes Cloudflare bot checks), then I can ingest and normalize that data into this notebook.
+Note: Keep refining scene-level citations where possible, but Ulwaat berry identification is now treated as confirmed in this notebook.

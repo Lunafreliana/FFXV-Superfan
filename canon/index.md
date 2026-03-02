@@ -6,6 +6,7 @@ Use this as the entry point for the fixed canon knowledge base.
 - `characters/main-cast.md`
 - `characters/supporting-cast.md`
 - `characters/relationships.md`
+- `characters/dossiers/README.md`
 
 ## Locations
 - `locations/regions-and-cities.md`

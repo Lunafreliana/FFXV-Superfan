@@ -1,43 +1,30 @@
 # Canon Characters: Supporting Cast
 
-## Talcott Hester
-- **Affiliation:** Lucian survivor network; associated with House Amicitia thread via family.
-- **First canonical appearance:** Early main-game Lucis arc.
-- **Relevance to major arcs:** Child-era perspective on collapse; later becomes logistical link after Noctis's return.
-- **Known facts:** Grandson of Jared Hester; traumatized by events surrounding Jared's murder; older Talcott helps reconnect Noctis to survivors.
-- **Source note:** Characters compendium summaries and late-game narrative references.
+Canonical side-character files now live in `canon/characters/side/` (one file per character).
 
-## Jared Hester
-- **Affiliation:** Chamberlain associated with Amicitia family.
-- **First canonical appearance:** Early Lucis chapters.
-- **Relevance to major arcs:** His death is a key trauma event in Talcott's arc and a signal of Niflheim intelligence reach.
-- **Known facts:** Killed after Talcott inadvertently reveals identity/location information.
-- **Source note:** Main-game plot summary references.
+## Core side-character files
+- `canon/characters/side/king-regis-lucis-caelum.md`
+- `canon/characters/side/cor-leonis.md`
+- `canon/characters/side/cindy-aurum.md`
+- `canon/characters/side/cid-sophiar.md`
+- `canon/characters/side/dave-auburnbrie.md`
+- `canon/characters/side/iris-amicitia.md`
+- `canon/characters/side/talcott-hester.md`
+- `canon/characters/side/jared-hester.md`
+- `canon/characters/side/gentiana.md`
+- `canon/characters/side/umbra-and-pryna.md`
+- `canon/characters/side/ravus-nox-fleuret.md`
+- `canon/characters/side/verstael-besithia.md`
+- `canon/characters/side/loqi-tummelt.md`
+- `canon/characters/side/monica-elshett.md`
+- `canon/characters/side/takka.md`
+- `canon/characters/side/wiz-forn.md`
+- `canon/characters/side/dino-ghiranze.md`
+- `canon/characters/side/sania-yeagre.md`
+- `canon/characters/side/navyth-eldercapt.md`
+- `canon/characters/side/coctura-arlund.md`
+- `canon/characters/side/chancellor-ardyn.md`
+- `canon/characters/side/captain-drautos.md`
 
-## Umbra
-- **Affiliation:** Messenger linked to Oracle/astral intermediary system.
-- **First canonical appearance:** Core game communication sequences with Lunafreya.
-- **Relevance to major arcs:** Critical narrative bridge for Noctis-Lunafreya message flow and late-game guidance.
-- **Known facts:** One of the twenty-four Messengers; continues to appear in World of Ruin phase.
-- **Source note:** Character compendium text and chapter summaries.
-
-## Pryna
-- **Affiliation:** Messenger pair with Umbra.
-- **First canonical appearance:** Noctis/Lunafreya communication context.
-- **Relevance to major arcs:** Emotional and symbolic connector; tied to Prompto backstory thread.
-- **Known facts:** Also one of the twenty-four Messengers; connected to key Altissia-era loss context.
-- **Source note:** Character compendium summaries.
-
-## Cindy Aurum
-- **Affiliation:** Hammerhead / Regalia support.
-- **First canonical appearance:** Early road-trip chapters.
-- **Relevance to major arcs:** Maintains and upgrades Regalia, enabling party mobility and continuity.
-- **Known facts:** Mechanic role is central to Regalia travel loop and customization pipeline.
-- **Source note:** Gameplay/travel descriptions and character summaries.
-
-## Verstael Besithia
-- **Affiliation:** Niflheim imperial science / magitek apparatus.
-- **First canonical appearance:** Niflheim thread in main game + expanded materials.
-- **Relevance to major arcs:** Key to daemon/magitek weaponization and Ardyn-era imperial exploitation context.
-- **Known facts:** Frequently referenced in relation to imperial experimentation and weapon systems.
-- **Source note:** Niflheim/Ardyn expanded continuity references.
+## Supplemental aggregate
+- `canon/characters/side/named-npc-clusters.md`

@@ -148,3 +148,18 @@
   - In dossier-safe wording: he re-enters history through Niflheim's imperial-scientific apparatus (Verstael-linked structures), then rises as chancellor.
 - **"Was he always like this?"**
   - No: expanded material frames him as initially healer-oriented before betrayal/contamination/grief invert his ethic.
+
+
+## 19) Part 1 clean ingestion addendum (scope note)
+- `ffxv_part1_clean.txt` in this repo covers CH1-CH5-era game script material and does **not** provide new direct Somnus/Aera/healer-era Ardyn detail.
+- Ardyn-related updates from this source should therefore remain **structural/contextual only** for this pass.
+- **New contextual tie-in:** imperial command scenes (Ravus/Verstael search posture and anti-prince operations) reinforce Ardyn-era Niflheim machinery pressure, but without fresh Ardyn dialogue in this segment.
+- **Confidence:** High for scope limitation; Medium for machinery-context inference.
+
+
+## 20) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** high social intelligence, high ambiguity tolerance, strategic provocateur profile.
+- **Interaction style:** offers plausible help while controlling informational asymmetry.
+- **Relational signature:** destabilizes by reframing certainty rather than immediate force.
+- **Story mechanic in CH1–CH5:** seeds route manipulation and trust erosion through soft-contact encounters before full antagonistic reveal cadence hardens.
+- **Reliability:** High for behavioral pattern in CH1–CH5 dialogue; origin-era motivations still require non-CH1–CH5 sources.

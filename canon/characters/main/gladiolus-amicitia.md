@@ -107,3 +107,19 @@
   - Currently tracked as open research in this repo until a clean source citation is attached.
 - **"Who does he flirt with?"**
   - Current dossier policy is not to lock this to one name without direct source text; tracked as open research.
+
+
+## 16) Part 1 clean ingestion addendum (CH1-CH5)
+- **Shield behavior in action:** physically tackles Noctis into cover during the Ifrit prelude, then re-engages first.
+- **Coaching style:** uses abrasive cadence while teaching basics (defense framing, tempo control, anti-slacking pressure).
+- **Brother dynamic:** openly grieves and protects via Iris-focused urgency once post-Insomnia fallout is confirmed.
+- **Humor profile:** threat-laced joking (especially with Prompto) doubles as cohesion management while exhausted.
+- **Confidence:** High.
+
+
+## 17) CH1–CH5 conversation-inferred personality typing and story mechanics
+- **Temperament inference (tentative):** protector-enforcer profile with high directness and low tolerance for drift.
+- **Stress response:** physical intervention first, lecture second.
+- **Relational signature:** expresses care as pressure, challenge, and readiness checks.
+- **Story mechanic in CH1–CH5:** converts Noctis's symbolic kingship into embodied discipline by constantly tying choices to survival consequences.
+- **Reliability:** High for this chapter window.

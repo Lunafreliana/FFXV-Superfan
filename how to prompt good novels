@@ -1,0 +1,229 @@
+# How to Prompt Good Novels
+
+This guide builds on the ideas in `vhujik` and adds newer prompt-engineering patterns that improve long-form fiction quality.
+
+## Core Principle: Treat novel writing as a pipeline, not a single prompt
+
+Use a repeatable loop:
+1. **Story architecture** (premise, arcs, stakes, theme)
+2. **Chapter blueprinting** (goal/conflict/turn for each chapter)
+3. **Scene drafting** (tight constraints)
+4. **Editorial diagnostics** (rubric-based critique)
+5. **Targeted rewrites** (only weak spans)
+6. **Continuity + voice pass** (facts, tone, motifs)
+
+Single-shot prompts usually drift, flatten voice, and break continuity.
+
+---
+
+## High-Impact Prompt Engineering Solutions
+
+## 1) Hierarchical prompting (macro -> micro)
+Generate top-down artifacts before drafting prose:
+- Book one-sheet (promise, audience, comps)
+- Act map
+- Character dossiers
+- Chapter cards
+- Scene cards
+
+**Why it works:** reduces hallucinated plot turns and keeps pacing intentional.
+
+### Template
+```text
+Create a 3-act blueprint for a [genre] novel.
+Constraints:
+- 90,000 words target
+- Dual arc: external conflict + emotional conflict
+- Each act must end with an irreversible decision
+Return:
+1) Act goals
+2) Midpoint reversal
+3) Climax cost
+4) 10 chapter cards with goal/obstacle/turn
+```
+
+## 2) Retrieval-grounded prompting (story bible RAG)
+Paste or reference a canonical story bible before drafting:
+- World rules
+- Timeline
+- Character facts
+- Forbidden contradictions
+
+Then require a **continuity check** after every draft.
+
+### Template
+```text
+Use this story bible as canonical truth. Do not contradict it.
+After drafting, return a "Continuity Report" with:
+- Facts used
+- Potential contradictions
+- Open threads created
+```
+
+## 3) Rubric-constrained generation
+Give the model a scoring rubric and minimum threshold.
+
+### Template
+```text
+Write Scene 12 and then score it (1-5) on:
+- Voice distinctiveness
+- Tension escalation
+- Subtext quality
+- Sensory specificity
+- POV consistency
+If any score <4, revise once before returning final text.
+```
+
+**Why it works:** forces measurable quality control instead of vague “make it better.”
+
+## 4) Multi-sample + judge selection
+Generate 2-4 variants, then run a separate judging prompt to pick or merge.
+
+### Template
+```text
+Generate 3 versions of the same scene:
+A) lyrical
+B) commercial fast-paced
+C) intimate character voice
+Then act as editor and choose best version for a [target audience] novel,
+explaining tradeoffs in 5 bullets.
+```
+
+## 5) Chain-of-Revision instead of chain-of-thought
+Avoid asking for hidden reasoning. Ask for explicit revision artifacts:
+- Weak lines list
+- Exact replacements
+- Change log
+
+### Template
+```text
+Return:
+1) Draft
+2) 8 line-level weaknesses
+3) Revised draft fixing only those weaknesses
+4) Change log (old -> new)
+```
+
+## 6) Constraint packing for prose quality
+Use compact constraints that are easy to obey:
+- Exposition <= 15%
+- Every paragraph includes a concrete sensory cue
+- Dialogue must include subtext (no explicit motive statements)
+- Max 1 metaphor per paragraph
+- Ban repeated filler phrases
+
+## 7) Long-context memory anchors
+At chapter starts, feed a short anchor block:
+- Chapter objective
+- Emotional state entering scene
+- Non-negotiable facts
+- Voice keywords
+
+This stabilizes tone over long projects.
+
+### Anchor block
+```text
+Memory Anchor:
+- POV: Kael (close third, restrained voice)
+- Carryover facts: left hand injured; oath to Queen; no fire magic
+- Emotional state: ashamed but defiant
+- Chapter goal: secure passage from hostile guild
+- Must preserve motif: ash / debt / iron
+```
+
+## 8) Anti-generic language filters
+Require a post-pass to detect clichés and generic phrasing.
+
+### Template
+```text
+Audit the draft for generic language.
+Return a table with:
+- Cliché/generic phrase
+- Why weak
+- Sharper replacement matching voice
+Then apply the replacements.
+```
+
+## 9) Pacing control via token budgets
+Assign word budgets per beat to avoid bloated scenes.
+
+Example:
+- Setup: 20%
+- Confrontation: 55%
+- Aftermath + hook: 25%
+
+## 10) Character-intent prompting for stronger dialogue
+Before writing dialogue, generate hidden intent maps.
+
+### Template
+```text
+For each speaker provide:
+- Surface objective
+- Hidden fear
+- Forbidden truth (cannot be said directly)
+Write dialogue where each line advances conflict or intimacy.
+```
+
+---
+
+## Practical Workflow (Copy/Paste)
+
+```text
+You are my novel co-writer and developmental editor.
+Task: Draft Chapter [X] of a [genre] novel.
+
+Inputs:
+- Story bible: [paste]
+- Chapter card: [goal, obstacle, turn]
+- POV + voice: [spec]
+- Continuity constraints: [facts that must remain true]
+
+Draft constraints:
+- 1600-2200 words
+- Exposition <= 15%
+- Every scene beat changes stakes
+- Dialogue carries subtext
+- End with a decision hook
+
+After drafting, return in this order:
+1) Chapter draft
+2) Continuity report (contradictions + open threads)
+3) Rubric scores (voice, tension, subtext, sensory detail, POV)
+4) Targeted rewrite of weakest 2 sections only
+5) Final polished draft
+```
+
+---
+
+## Research-Informed Pitfalls to Avoid
+
+- **One giant prompt** for entire novel generation (causes drift and repetition).
+- **Style-only prompting** (“write beautifully”) without scene objective and stakes.
+- **No continuity audits** between chapters.
+- **Full rewrites every pass** instead of surgical edits.
+- **Unbounded metaphor density** (purple prose fatigue).
+
+---
+
+## Quick Start (Minimal High-Value Prompt)
+
+```text
+Write a 1200-word scene for Chapter 6 using this card:
+Goal: [x]
+Obstacle: [y]
+Turn: [z]
+
+Constraints:
+- Close third POV, past tense
+- Exposition <= 12%
+- One concrete sensory detail per paragraph
+- Subtext-heavy dialogue
+- End on irreversible choice
+
+Then provide:
+- 5-point quality rubric
+- Rewrite only the 3 weakest paragraphs
+- Final draft
+```
+
+If you do only one thing: always run **draft -> diagnose -> targeted rewrite**.

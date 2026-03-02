@@ -11,6 +11,7 @@ This folder contains long-form dossiers for primary FFXV characters.
 - [Ardyn Izunia](./ardyn-izunia.md)
 - [Superfan QA Audit](./superfan-qa-audit.md)
 - [Source Intake Log (2026-03-02)](./source-intake-2026-03-02.md)
+- [Part 1 Clean Ingestion Template](./part1-clean-ingestion-template.md)
 
 ## Usage notes
 - Use dossiers when answering advanced lore, roleplay voice, thematic interpretation, and continuity-sensitive questions.

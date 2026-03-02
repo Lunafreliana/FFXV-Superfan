@@ -32,3 +32,24 @@
 - Re-ran filename discovery across repo and `/workspace` using broad glob patterns for `ffxv`, `part`, `1`, and `clean`.
 - Result: no file with matching name pattern was present at scan time.
 - Note: current root-level files are: `final fantasy xv research`, `ffxv ao3 research`, `name`, `novel`, `vhujik`, and `README.md`.
+
+
+## Re-check requested by user (third pass, exact filename)
+- User supplied exact expected filename: `ffxv_part1_clean.txt`.
+- Executed exact-name and fuzzy-name scans in both repo root and `/workspace`.
+- Enumerated root filenames with Python `repr(...)` to catch hidden characters/whitespace variants.
+- Result: no file named `ffxv_part1_clean.txt` (or close variant) was present in this runtime.
+
+### Verification commands (for reproducibility)
+- `find . -maxdepth 2 -type f -print`
+- `rg --files | rg "ffxv_part1_clean|part1|part 1 clean|clean"`
+- `python - <<'PY' ... print(repr(name)) ... PY`
+- `find /workspace -maxdepth 4 -type f -iname '*ffxv*' -o -type f -iname '*part1*clean*'`
+
+### Ready-to-ingest checklist once file appears
+When `ffxv_part1_clean.txt` is visible in this branch/runtime, next pass should do all of the following in one commit:
+1. Extract chapter-by-chapter facts into structured notes under `canon/plot-points/`.
+2. Add dedicated files for **locations**, **items/artifacts**, and **side characters** if any new entities appear.
+3. Patch all six main-character dossiers with newly sourced hobbies/preferences/relationship intensity details.
+4. Expand `superfan-qa-audit.md` with a new “from part1_clean ingestion” section and confidence ratings.
+5. Append a source provenance block with line-anchored quotes from the text file.

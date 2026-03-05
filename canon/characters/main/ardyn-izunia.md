@@ -1,5 +1,6 @@
 # Ardyn Izunia
 > **Structure note:** First section = detailed synthesis. Second section = direct quotes with contribution notes.
+> **Merge note:** This file is the canonical dossier for both **Ardyn Izunia** and **Chancellor Ardyn**.
 ## Analytical Character Dossier (detailed synthesis)
 ### Appearance (prose)
 Ardyn’s physical profile in the provided canon corpus is: light-to-olive skin tone, medium-to-tall build, shoulder-length dark auburn/brown hair with an intentionally unkempt style, and short facial hair (scruffy beard/stubble). He does not wear glasses. Eye color is not explicitly specified in the supplied text dumps; in late-stage sequences, blackened/daemonized eye presentation appears as a transformation marker rather than a normal baseline descriptor.

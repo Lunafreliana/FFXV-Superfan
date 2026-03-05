@@ -28,15 +28,15 @@ His look is consistently “frontline protector”: broad frame, open/ready stan
 ### Relationships (nickname usage, stance, behavior)
 - **R01 Noctis Lucis Caelum**
   - Nickname/address usage: Noct / Gladio.
-  - What Gladiolus thinks: Principal to protect and pressure into readiness.
+  - What Gladiolus thinks: The kid he helped train to fight and the king who must learn to lead, making him the principal to protect and pressure into readiness.
   - How Gladiolus acts: Shields physically; confronts emotionally when needed.
 - **R02 Ignis Scientia**
   - Nickname/address usage: Ignis.
-  - What Gladiolus thinks: Trusted co-anchor in command discipline.
+  - What Gladiolus thinks: The only other one who consistently sees the big picture and what is at stake; a trusted co-anchor in discipline.
   - How Gladiolus acts: Coordinates risk and movement control jointly.
 - **R03 Prompto Argentum**
   - Nickname/address usage: Prompto.
-  - What Gladiolus thinks: Teasing friction embedded within trusted brotherhood.
+  - What Gladiolus thinks: A goofball who is good for a laugh, with teasing friction embedded in trusted brotherhood.
   - How Gladiolus acts: Corrects sharply but protects reliably.
 - **R04 Lunafreya Nox Fleuret**
   - Nickname/address usage: Lunafreya.

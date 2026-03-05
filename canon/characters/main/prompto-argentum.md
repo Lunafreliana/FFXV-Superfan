@@ -29,15 +29,15 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
 ### Relationships (nickname usage, stance, behavior)
 - **R01 Noctis Lucis Caelum**
   - Nickname/address usage: Noct / Noooct.
-  - What Prompto thinks: Core chosen-family bond and personal north star.
+  - What Prompto thinks: Buddy from school he would do anything for; his core chosen-family bond and personal north star.
   - How Prompto acts: Supports, protects, and seeks affirmation while giving it.
 - **R02 Ignis Scientia**
   - Nickname/address usage: Iggy.
-  - What Prompto thinks: Respectful mentor-lean relationship.
+  - What Prompto thinks: Smart guy who is a little too uptight, but still a respected mentor figure.
   - How Prompto acts: Accepts correction and procedural guidance.
 - **R03 Gladiolus Amicitia**
   - Nickname/address usage: Gladio.
-  - What Prompto thinks: Teasing-friction with trust foundation.
+  - What Prompto thinks: Big jock who gets the group out of trouble, with teasing friction on top of trust.
   - How Prompto acts: Bants, then follows through in combat cohesion.
 - **R04 Lunafreya Nox Fleuret**
   - Nickname/address usage: Lunafreya / Luna.

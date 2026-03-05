@@ -27,7 +27,5 @@ The finale resolves the Ardyn conflict and the scourge crisis through sacrificia
   **Why it matters:** Captures personal motive before catastrophic pivot.
 - “The nights are getting longer.”
   **Why it matters:** Signals worsening global condition before endgame.
-- "[collapse]"
-  **Why it matters:** Directly marks time-skip magnitude.
 - “Walk tall, my son.”
   **Why it matters:** Canon line associated with sacrificial end-state fulfillment.

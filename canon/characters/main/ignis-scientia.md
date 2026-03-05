@@ -29,15 +29,15 @@ He is usually seen in fitted, tailored attire consistent with a strategist-retai
 ### Relationships (nickname usage, stance, behavior)
 - **R01 Noctis Lucis Caelum**
   - Nickname/address usage: Noct / Ignis.
-  - What Ignis thinks: Primary principal and emotional center of his duty system.
+  - What Ignis thinks: A dear friend he will protect and the boy who must become a man; also the principal center of his duty system.
   - How Ignis acts: Advises, corrects, and protects through planning-led behavior.
 - **R02 Gladiolus Amicitia**
   - Nickname/address usage: Gladio / Ignis.
-  - What Ignis thinks: Co-protector with complementary style.
+  - What Ignis thinks: Reliable ally who understands what is at stake and shares his sense of duty.
   - How Ignis acts: Shares enforcement burden and risk-control communication.
 - **R03 Prompto Argentum**
   - Nickname/address usage: Prompto / Iggy.
-  - What Ignis thinks: Younger-brother dynamic with respect and correction.
+  - What Ignis thinks: Often treated as expendable comic relief in banter, but secretly valued as company and as a trusted younger-brother figure.
   - How Ignis acts: Guides without patronizing and integrates him operationally.
 - **R04 Lunafreya Nox Fleuret**
   - Nickname/address usage: Lunafreya.

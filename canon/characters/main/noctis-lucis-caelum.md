@@ -57,15 +57,15 @@ Height and weight are not explicitly provided in the supplied text dumps, so thi
 ### Relationships (nickname usage, stance, behavior)
 - **R01 Ignis Scientia**
   - Nickname/address usage: Noct / Ignis.
-  - What Noctis thinks: Sees Ignis as indispensable structural intelligence and daily-function stabilizer.
+  - What Noctis thinks: Sees Ignis as a wise friend who understands him and sees him as he is, while still serving as indispensable structural intelligence.
   - How Noctis acts: Allows correction, leans on planning, follows tactical framing when stakes sharpen.
 - **R02 Gladiolus Amicitia**
   - Nickname/address usage: Noct / Gladio.
-  - What Noctis thinks: Sees Gladio as harsh but loyal pressure source and physical guarantor.
+  - What Noctis thinks: Sees Gladio as the buddy he has the most fun with, and as a loyal pressure source who keeps him ready.
   - How Noctis acts: Clashes under grief, then realigns through duty acceptance and action-based trust repair.
 - **R03 Prompto Argentum**
   - Nickname/address usage: Noct / Prompto / Prompt.
-  - What Noctis thinks: Sees Prompto as emotional oxygen and continuity witness of his human self.
+  - What Noctis thinks: Sees Prompto as his best friend who accepts him for who he is and keeps him connected to his human self.
   - How Noctis acts: Protective and increasingly affirming, especially during identity-trauma contexts.
 - **R04 Lunafreya Nox Fleuret**
   - Nickname/address usage: Noctis / Luna.

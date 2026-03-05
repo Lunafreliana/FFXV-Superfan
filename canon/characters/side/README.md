@@ -20,7 +20,6 @@ One file per side character.
 - `sania-yeagre.md`
 - `navyth-eldercapt.md`
 - `coctura-arlund.md`
-- `chancellor-ardyn.md`
 - `captain-drautos.md`
 Supplementary non-character aggregation:
 - `named-npc-clusters.md`

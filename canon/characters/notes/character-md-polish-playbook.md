@@ -28,11 +28,13 @@ A full migration is **not** just editing the latest section. It includes all of 
 
 ## Target Schema (Required End State)
 1. **Top dossier synthesis** (appearance, biography, personality, voice, relationships, skills, likes/dislikes).
-2. **Single comprehensive scene catalog** grouped by source file and scene blocks.
-3. **Each scene block contains full quoted corpus lines with `L####` references.**
+2. **Single comprehensive scene catalog** grouped by source file and scene blocks, covering **every scene where the character is named, directly appears, or is explicitly referenced** within corpus scope.
+3. **Each scene block contains full quoted corpus lines with `L####` references**, not selective fragments that omit context.
 4. **Each scene block has six structured interpretation prompts** with scene-specific answers.
 5. **If no meaningful new evidence for a prompt in that scene, use `-`.**
 6. No orphaned `E###`/`Q###` sections and no stale references to removed IDs.
+
+7. **Appearance prompt is strictly physical**: include only visible physical descriptors (e.g., body features, age/age cues, hair, eyes, build, clothing if explicitly appearance-relevant). Do **not** use appearance to discuss demeanor, behavior, social staging, or personality.
 
 ---
 
@@ -60,12 +62,14 @@ Before rewriting, inventory the file:
 - Remove standalone `Q###` sections **after** extracting any useful evidence.
 - Replace old references (`See Q###`) with scene-block/L-number references or remove if stale.
 
-### Phase 2) Build evidence catalog from corpus
+### Phase 2) Build evidence catalog from corpus (exhaustive)
 For each source file:
-1. Find all character mentions/appearances.
-2. Merge adjacent lines into coherent scene windows.
-3. Quote full relevant lines under scene blocks with `L####` numbering.
-4. Group blocks under source headings.
+1. Find **all** character mentions/appearances (name variants, titles, aliases).
+2. Build a complete mention index first; do not skip low-drama references.
+3. Merge adjacent lines into coherent scene windows.
+4. Quote full relevant lines under scene blocks with `L####` numbering.
+5. Group blocks under source headings.
+6. Add per-source coverage counts (e.g., `N scene blocks; M matching lines`) to make completeness auditable.
 
 Format:
 
@@ -78,7 +82,8 @@ Format:
 
 ### Phase 3) Deduplicate and relevance prune
 - Remove exact duplicates and near-duplicates.
-- Remove scenes that do not materially inform character understanding.
+- Do **not** remove scenes just because they look minor if they contain an explicit mention; exhaustive coverage has priority.
+- Mark low-signal scenes with `-` in non-evidentiary prompts rather than deleting mention evidence.
 - If a scene is context-critical but low-signal, keep it but mark non-evidentiary prompt answers as `-`.
 
 ### Phase 4) Add six-question scene interpretation
@@ -94,6 +99,7 @@ Rules:
 - Tailor answer text to that specific scene.
 - Avoid copy-paste phrasing across many blocks.
 - Use `-` when no meaningful new evidence exists for that category.
+- **Appearance answer constraint:** only physical look/age/visible-feature evidence; if absent, write `-`.
 
 ### Phase 5) Rebuild top-level synthesis from scene evidence
 Update the opening dossier categories so they summarize repeated, cross-scene patterns:
@@ -115,6 +121,8 @@ Verify:
 - Every scene block has exactly 6 prompt answers.
 - Duplicate answers are minimized.
 - Voice lines discuss language style, not physical sound.
+- Scene catalog includes every explicit in-scope mention (no silent omissions).
+- Appearance lines do not contain personality/behavior language when no physical evidence exists.
 
 ---
 
@@ -158,6 +166,11 @@ PY
 
 # E) Voice drift guardrail
 rg -n 'vocal timbre|physical voice|voice sounds' <character_file>
+# F) Exhaustive mention sanity check against corpus (example pattern; adapt aliases/titles)
+rg -n '(Ardyn|Izunia|Chancellor)' ffxv_*_clean.txt
+
+# G) Appearance leakage heuristic (flag likely non-physical wording in appearance answers)
+rg -n '^- \*\*What can I glean about his physical appearance\?\*\* .*\b(personality|manipulat|control|relationship|skill|voice|speaks|tone|behavior)\b' <character_file>
 ```
 
 ---
@@ -166,8 +179,9 @@ rg -n 'vocal timbre|physical voice|voice sounds' <character_file>
 A migration is complete only when all are true:
 - Legacy `E###`/`Q###` schema is fully retired.
 - Duplicates and low-value clutter are removed.
-- Scene catalog is comprehensive for corpus scope.
+- Scene catalog is comprehensive for corpus scope and includes every explicit mention scene.
 - Every scene has six prompt answers; weak/no-evidence categories use `-`.
+- Appearance answers contain only physical-feature evidence (or `-`).
 - Top-of-file synthesis is aligned with scene evidence.
 - File is readable, auditable, and free from filler language.
 
@@ -183,7 +197,7 @@ Execute a FULL migration, not a partial edit.
 Required outcomes:
 1) Remove all E### entries and references.
 2) Remove standalone Q### sections and references.
-3) Build a unified scene catalog with source-grouped scene blocks and full L-numbered lines.
+3) Build a unified scene catalog with source-grouped scene blocks and full L-numbered lines, covering every explicit mention of the character (including alias/title mentions).
 4) Deduplicate and prune non-character-relevant entries.
 5) Under every scene block, answer six prompts:
    - physical appearance
@@ -194,8 +208,9 @@ Required outcomes:
    - voice (speech style only: diction/grammar/register/repeated phrasing/rhetoric)
 6) If no meaningful evidence for a prompt in that scene, output `-`.
 7) Ensure per-scene answers are scene-specific (no repetitive boilerplate).
-8) Update top-level character categories to reflect repeated scene evidence.
-9) Validate final structure: no E/Q leftovers, no stale refs, every scene has exactly six prompt answers.
+8) Appearance answers must be strictly physical descriptors (features/age/look); if none, output `-`.
+9) Update top-level character categories to reflect repeated scene evidence.
+10) Validate final structure: no E/Q leftovers, no stale refs, every scene has exactly six prompt answers, exhaustive mention coverage, and no appearance leakage into personality/behavior.
 
 Output only the final updated markdown.
 ```

@@ -35,9 +35,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 4
 - Direct quote: "Coctura: I’m only teasing. I have a feeling I know the feline you’ve got in mind. Let me whip something up. Paying customers come first, though, and someone just ordered the last fish on hand. Would you mind catching another one of these while I make their meal?"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 5
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 6
 - Direct quote: "(upon returning to Coctura with another fish)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -53,9 +50,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 10
 - Direct quote: "Coctura’s Cat Food x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 11
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 12
 - Direct quote: "Coctura: My favorite hunters. You couldn’t have come at a better time."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -68,26 +62,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 15
 - Direct quote: "Coctura: The ingredient’s quite rare in Lucis, but I’m hopeful that you can track it down."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 16
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 17
 - Direct quote: "(speaking with Coctura after beginning the “Berried Memories” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 18
 - Direct quote: "Coctura: It’s a fine dessert. Would be a shame if it never had a chance to grace tables."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 19
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 20
 - Direct quote: "(speaking with Coctura again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 21
 - Direct quote: "Coctura: And there’s the special meaning it harbors by marrying Lucian and Tenebraean ingredients."
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 22
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 23
 - Direct quote: "(speaking with Coctura once more)"
@@ -110,9 +95,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 29
 - Direct quote: "Leiden Sweet Potato x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 30
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "(speaking with Coctura)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -125,12 +107,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 34
 - Direct quote: "Coctura: Thought about picking up some ingredients while I was in the area, but now’s not really the time for grocery shopping. If the quakes shake the quay and our ships stop sailing, our restaurant’s sunk. We need to solve this now."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 35
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "(speaking with Coctura)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -140,17 +116,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 39
 - Direct quote: "Oracle Ascension Coin x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 40
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 41
 - Direct quote: "Coctura’s Cat Food"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 42
 - Direct quote: "Food for a cat, cooked by Coctura. Similar to her standard restaurant fare, but with less spice."
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 43
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 44
 - Direct quote: "Noctis: Hey, do you serve anything a cat might like?"
@@ -163,9 +133,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "Coctura: I’m only teasing. I have a feeling I know the feline you’ve got in mind. Let me whip something up. Paying customers come first, though, and someone just ordered the last fish on hand. Would you mind catching another one of these while I make their meal?"
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 48
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 49
 - Direct quote: "(upon returning to Coctura with another fish)"
@@ -182,9 +149,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 53
 - Direct quote: "Coctura’s Cat Food x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "Coctura: My favorite hunters. You couldn’t have come at a better time."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -197,26 +161,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 58
 - Direct quote: "Coctura: The ingredient’s quite rare in Lucis, but I’m hopeful that you can track it down."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 59
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 60
 - Direct quote: "(speaking with Coctura after beginning the “Berried Memories” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "Coctura: It’s a fine dessert. Would be a shame if it never had a chance to grace tables."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 62
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "(speaking with Coctura again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 64
 - Direct quote: "Coctura: And there’s the special meaning it harbors by marrying Lucian and Tenebraean ingredients."
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 65
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 66
 - Direct quote: "(speaking with Coctura once more)"
@@ -239,9 +194,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 72
 - Direct quote: "Leiden Sweet Potato x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 73
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 74
 - Direct quote: "(speaking with Coctura)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -254,12 +206,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 77
 - Direct quote: "Coctura: Thought about picking up some ingredients while I was in the area, but now’s not really the time for grocery shopping. If the quakes shake the quay and our ships stop sailing, our restaurant’s sunk. We need to solve this now."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 78
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "(speaking with Coctura)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -269,17 +215,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 82
 - Direct quote: "Oracle Ascension Coin x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 83
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "Coctura’s Cat Food"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 85
 - Direct quote: "Food for a cat, cooked by Coctura. Similar to her standard restaurant fare, but with less spice."
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 86
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 87
 - Direct quote: "Noctis: Hey, do you serve anything a cat might like?"
@@ -292,9 +232,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 90
 - Direct quote: "Coctura: I’m only teasing. I have a feeling I know the feline you’ve got in mind. Let me whip something up. Paying customers come first, though, and someone just ordered the last fish on hand. Would you mind catching another one of these while I make their meal?"
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 91
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 92
 - Direct quote: "(upon returning to Coctura with another fish)"
@@ -311,9 +248,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 96
 - Direct quote: "Coctura’s Cat Food x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 97
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 98
 - Direct quote: "Coctura: My favorite hunters. You couldn’t have come at a better time."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
@@ -326,26 +260,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 101
 - Direct quote: "Coctura: The ingredient’s quite rare in Lucis, but I’m hopeful that you can track it down."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 102
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 103
 - Direct quote: "(speaking with Coctura after beginning the “Berried Memories” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 104
 - Direct quote: "Coctura: It’s a fine dessert. Would be a shame if it never had a chance to grace tables."
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 105
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 106
 - Direct quote: "(speaking with Coctura again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "Coctura: And there’s the special meaning it harbors by marrying Lucian and Tenebraean ingredients."
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 108
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 109
 - Direct quote: "(speaking with Coctura once more)"
@@ -367,9 +292,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "Leiden Sweet Potato x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Coctura Arlund, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "(speaking with Coctura)"

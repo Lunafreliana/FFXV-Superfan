@@ -1245,5 +1245,3 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
 ### Q260
 > Noctis: It’s us against an army…
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

@@ -23,17 +23,11 @@ Skills listed for this character should map to directly evidenced actions, role 
 Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
-### Quote 1
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 2
 - Direct quote: "[The scene fades in from black to Noctis Lucis Caelum dressed in the Kingly Raiment, “the clothing of the Chosen King” as it’s described; his face illuminated by flames, he wipes sweat from his brow with the back of his sleeve; he’s grunting from the intense heat sweltering around him; after a moment longer, he charges forward to face the demonic-looking Ifrit, who sits upon a throne of bones looking bored; other young men are already attacking the god of fire; as Noctis nears Ifrit, a pillar of flame erupts from the air in front of the fiery entity, enveloping Noctis; the royal protagonist is launched away, landing on his back with sections of his clothing on fire; Noctis’s friend, Prompto Argentum, gets down on his knees beside Noctis, and quickly pats out the flames with his hands]"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 3
 - Direct quote: "[Note: The audio here has Prompto say “Noct! Hang in there, buddy!” at this point]"
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 4
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 5
 - Direct quote: "[An establishing shot of Insomnia is shown; the Wall that has protected the city for generations shimmers across the cityscape; the scene cuts to the throne room of the Citadel; a younger Noctis, Prompto, Ignis and Gladiolus stand before King Regis — Noctis’s father]"
@@ -152,26 +146,14 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 43
 - Direct quote: "Prince Noctis Lucis Caelum sets forth from his homeland with his three-man retinue in tow. His destination: Altissia, capital of Accordo, where he will formalize the union of states through his marriage to Lady Lunafreya of the imperial province of Tenebrae."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 44
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 45
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 46
 - Direct quote: "[After the royal retinue chooses to spend the night in Galdin Quay, footage from “Kingsglaive: Final Fantasy XV” plays, depicting the fall of Insomnia and the death of King Regis]"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "(as Noct awakens the next morning)"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 48
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 49
 - Direct quote: "While waiting for the boats to go out, ill tidings arrive. The headlines say Insomnia has fallen and King Regis is dead, but the four cannot be sure until they see it with their own eyes. In search of truth, they make their way back to the Crown City."
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 50
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 51
 - Direct quote: "Newscaster"
@@ -188,26 +170,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 55
 - Direct quote: "Beneath the Cape Caem Light in the south of Cleigne lies an underground harbor. It has long served the Lucian royalty, and even now, a vessel once owned by King Regis lies at anchor there. Following in his father’s footsteps, Noctis heads for the ship."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 56
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 57
 - Direct quote: "CHAPTER 7 – Party of Three"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "To repair King Regis’s old ship, Noctis and company require that rarest of ores—mythril. With only a vague clue to guide them, they head for empire-held ruins situated in the north of Cleigne."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 59
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 60
 - Direct quote: "Weskham: Of course. You certainly opened up to them, though."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "Camelia: What can I say? I have a soft spot for the young and tragic. They’ve lost Regis, they’ve lost the Crystal… Was it so long ago the last Oracle was taken from them? We’ve seen the empire go mad these ten-odd years."
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 62
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "Noctis: Yeah."
@@ -217,9 +190,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "Noctis: I’ll get it from him somehow."
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "[Noctis comes to laying on his back at the bottom of the Keep’s central shaft, surrounded by debris and the bodies of human imperial troopers; he slowly gets to his feet; as he takes a few steps, Noct comes upon Ravus’s body, unceremoniously left here at the bottom level of Zegnautus Keep; as rumored, the last of the Oracle’s bloodline is indeed deceased, his severed magitek arm still clinging to the haft of King Regis’s glaive; the blade stands impaled in the floor beside Ravus’s corpse; Noctis gazes at Luna’s brother in silent sadness; after a moment, he reaches out toward the haft of his father’s sword; at his touch, Ravus’s severed arm falls to land on the first son of Tenebrae’s chest; Noct pulls his hand back from the weapon, taking a moment to first kneel beside Ravus and look upon his face a final time; finally, Noctis stands, takes grasp of his father’s royal arm, and pulls it free]"
@@ -332,26 +302,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 103
 - Direct quote: "A sword Noctis received from Regis for his sixteenth birthday. It absorbs the elemental powers of defeated foes."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 104
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "Engine Blade II"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 106
 - Direct quote: "A sword Noctis received from Regis for his sixteenth birthday, enhanced by Cid. It absorbs the elemental powers of defeated foes."
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 107
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "Engine Blade III"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 109
 - Direct quote: "A sword Noctis received from Regis for his sixteenth birthday, greatly enhanced by Cid. It absorbs the elemental powers of defeated foes."
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 110
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "(another letter from Ravus to Lunafreya found near his body)"
@@ -560,17 +521,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 179
 - Direct quote: "Dave"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 180
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 181
 - Direct quote: "[The scene fades in from black to Noctis Lucis Caelum dressed in the Kingly Raiment, “the clothing of the Chosen King” as it’s described; his face illuminated by flames, he wipes sweat from his brow with the back of his sleeve; he’s grunting from the intense heat sweltering around him; after a moment longer, he charges forward to face the demonic-looking Ifrit, who sits upon a throne of bones looking bored; other young men are already attacking the god of fire; as Noctis nears Ifrit, a pillar of flame erupts from the air in front of the fiery entity, enveloping Noctis; the royal protagonist is launched away, landing on his back with sections of his clothing on fire; Noctis’s friend, Prompto Argentum, gets down on his knees beside Noctis, and quickly pats out the flames with his hands]"
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 182
 - Direct quote: "[Note: The audio here has Prompto say “Noct! Hang in there, buddy!” at this point]"
-- Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
-### Quote 183
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for King Regis Lucis Caelum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 184
 - Direct quote: "[An establishing shot of Insomnia is shown; the Wall that has protected the city for generations shimmers across the cityscape; the scene cuts to the throne room of the Citadel; a younger Noctis, Prompto, Ignis and Gladiolus stand before King Regis — Noctis’s father]"

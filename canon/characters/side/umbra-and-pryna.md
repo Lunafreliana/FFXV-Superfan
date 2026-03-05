@@ -68,9 +68,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 15
 - Direct quote: "Prompto: I know. You’re not gonna tell me."
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 16
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 17
 - Direct quote: "[The cutscene plays in which Luna reunites with Umbra, Pryna and Gentiana]"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
@@ -140,9 +137,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 39
 - Direct quote: "Messengers’ Amulet x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 40
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 41
 - Direct quote: "(beginning the “Let Sleeping Mountains Lie” quest by traveling to “past” Lucis via Umbra for the first time)"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
@@ -173,17 +167,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 50
 - Direct quote: "The ability to call Umbra is also unavailable.”]"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 51
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 52
 - Direct quote: "Noctis: Let’s roll."
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 53
 - Direct quote: "With all his powers restored, Noctis can once again travel to the past by calling Umbra at dormitories."
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "Stone Prison"
@@ -241,12 +229,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 73
 - Direct quote: "Call Umbra and tour the world at your leisure. You might even find some new treasures buried right under your nose."
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 74
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 75
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 76
 - Direct quote: "(beginning the “Let Sleeping Mountains Lie” quest by traveling to “past” Lucis via Umbra for the first time)"
@@ -365,9 +347,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 114
 - Direct quote: "Prompto: I know. You’re not gonna tell me."
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 115
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 116
 - Direct quote: "[The cutscene plays in which Luna reunites with Umbra, Pryna and Gentiana]"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
@@ -437,9 +416,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 138
 - Direct quote: "Messengers’ Amulet x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 139
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "(beginning the “Let Sleeping Mountains Lie” quest by traveling to “past” Lucis via Umbra for the first time)"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
@@ -470,17 +446,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 149
 - Direct quote: "The ability to call Umbra is also unavailable.”]"
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 150
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 151
 - Direct quote: "Noctis: Let’s roll."
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 152
 - Direct quote: "With all his powers restored, Noctis can once again travel to the past by calling Umbra at dormitories."
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 153
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 154
 - Direct quote: "Stone Prison"
@@ -538,12 +508,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 172
 - Direct quote: "Call Umbra and tour the world at your leisure. You might even find some new treasures buried right under your nose."
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 173
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
-### Quote 174
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Umbra and Pryna, especially role behavior, relationship stance, or timeline placement.
 ### Quote 175
 - Direct quote: "(beginning the “Let Sleeping Mountains Lie” quest by traveling to “past” Lucis via Umbra for the first time)"

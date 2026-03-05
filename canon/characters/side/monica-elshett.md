@@ -23,9 +23,6 @@ Skills listed for this character should map to directly evidenced actions, role 
 Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
-### Quote 1
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 2
 - Direct quote: "(when Noctis and his retinue run into Monica at the Prairie Outpost)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
@@ -44,9 +41,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 7
 - Direct quote: "Monica: Head for the royal tomb. The marshal awaits."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 8
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 9
 - Direct quote: "*optional dialogue*"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
@@ -56,17 +50,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 11
 - Direct quote: "Monica: I’m here on the marshal’s orders. He’s tasked me with keeping an eye on the empire."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 12
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 13
 - Direct quote: "(speaking with Monica once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 14
 - Direct quote: "Monica: If you’re weary from the road, you can rest here."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 15
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 16
 - Direct quote: "(as the royal retinue make for the Tomb of the Wise)"
@@ -92,17 +80,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 23
 - Direct quote: "Ignis: Come to think of it, we did spy a large structure."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 24
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 25
 - Direct quote: "(speaking with Monica once again back at the Prairie Outpost)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 26
 - Direct quote: "Monica: Your Highness. The marshal has apprised me of the plan. We’ve found a back door into the imperial base. I’ll mark the route on your map. The way is secure. You should be able to gain entry relatively easily."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "*optional dialogue*"
@@ -113,29 +95,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 30
 - Direct quote: "Monica: Please see to your preparations and proceed when you are ready. I will join you within."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 31
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 32
 - Direct quote: "(speaking to Monica yet again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 33
 - Direct quote: "Monica: The base is unfinished. If we are to strike, now is the time."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 34
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 35
 - Direct quote: "(speaking with Monica once more]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 36
 - Direct quote: "Monica: Be warned: Commander Loqi has been sighted at the base. Take all care."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 37
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 38
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 39
 - Direct quote: "(meeting up with Monica near the Norduscaean Blockade)"
@@ -175,9 +145,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 51
 - Direct quote: "Gladio: Why don’t you try asking Monica?"
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 52
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 53
 - Direct quote: "(speaking with Monica during the “A Feline Feast” quest)"
@@ -221,9 +188,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 66
 - Direct quote: "Monica’s Cat Food x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 67
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 68
 - Direct quote: "(completing the “A Feline Feast” quest using Monica’s Cat Food)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
@@ -233,20 +197,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 70
 - Direct quote: "Dino: Since we’re on good terms, let me share a little scoop: word on the street is that the crag itself is the key. That, uh, Crown City chick Monica? Yeah, well uh, she’s followin’ up on a lead in Longwythe for me."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 71
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 72
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 73
 - Direct quote: "(after leaving the Crow’s Nest and speaking with Dustin and Monica near Longwythe Peak)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 74
 - Direct quote: "Dustin: The cause of the quakes? Ah, I’m afraid I must direct you to Monica. I’m simply here to look out for Lady Iris and young Talcott. And that’s all I have to say. Apologies for not being of help."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 75
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 76
 - Direct quote: "(completing the “Let Sleeping Mountains Lie” quest by speaking with Dustin and Monica again)"
@@ -257,20 +212,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 78
 - Direct quote: "[The mountain suddenly “awakens” as the Adamantoise begins to move about]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "Monica’s Cat Food"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 81
 - Direct quote: "Food for a cat, cooked by Monica. Its rich, briny aroma is sure to entice epicureans both feline and human."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 82
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 83
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "(when Noctis and his retinue run into Monica at the Prairie Outpost)"
@@ -290,9 +236,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 89
 - Direct quote: "Monica: Head for the royal tomb. The marshal awaits."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 90
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 91
 - Direct quote: "*optional dialogue*"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
@@ -302,17 +245,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 93
 - Direct quote: "Monica: I’m here on the marshal’s orders. He’s tasked me with keeping an eye on the empire."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 94
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 95
 - Direct quote: "(speaking with Monica once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 96
 - Direct quote: "Monica: If you’re weary from the road, you can rest here."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 97
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 98
 - Direct quote: "(as the royal retinue make for the Tomb of the Wise)"
@@ -338,17 +275,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 105
 - Direct quote: "Ignis: Come to think of it, we did spy a large structure."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 106
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "(speaking with Monica once again back at the Prairie Outpost)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "Monica: Your Highness. The marshal has apprised me of the plan. We’ve found a back door into the imperial base. I’ll mark the route on your map. The way is secure. You should be able to gain entry relatively easily."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 109
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 110
 - Direct quote: "*optional dialogue*"
@@ -359,29 +290,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 112
 - Direct quote: "Monica: Please see to your preparations and proceed when you are ready. I will join you within."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 113
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 114
 - Direct quote: "(speaking to Monica yet again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "Monica: The base is unfinished. If we are to strike, now is the time."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "(speaking with Monica once more]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 118
 - Direct quote: "Monica: Be warned: Commander Loqi has been sighted at the base. Take all care."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 119
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 120
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 121
 - Direct quote: "(meeting up with Monica near the Norduscaean Blockade)"
@@ -421,9 +340,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 133
 - Direct quote: "Gladio: Why don’t you try asking Monica?"
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 134
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 135
 - Direct quote: "(speaking with Monica during the “A Feline Feast” quest)"
@@ -467,9 +383,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 148
 - Direct quote: "Monica’s Cat Food x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 149
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 150
 - Direct quote: "(completing the “A Feline Feast” quest using Monica’s Cat Food)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
@@ -479,20 +392,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 152
 - Direct quote: "Dino: Since we’re on good terms, let me share a little scoop: word on the street is that the crag itself is the key. That, uh, Crown City chick Monica? Yeah, well uh, she’s followin’ up on a lead in Longwythe for me."
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 153
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 154
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 155
 - Direct quote: "(after leaving the Crow’s Nest and speaking with Dustin and Monica near Longwythe Peak)"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 156
 - Direct quote: "Dustin: The cause of the quakes? Ah, I’m afraid I must direct you to Monica. I’m simply here to look out for Lady Iris and young Talcott. And that’s all I have to say. Apologies for not being of help."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 157
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 158
 - Direct quote: "(completing the “Let Sleeping Mountains Lie” quest by speaking with Dustin and Monica again)"
@@ -503,15 +407,9 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 160
 - Direct quote: "[The mountain suddenly “awakens” as the Adamantoise begins to move about]"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 161
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 162
 - Direct quote: "Monica’s Cat Food"
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
 ### Quote 163
 - Direct quote: "Food for a cat, cooked by Monica. Its rich, briny aroma is sure to entice epicureans both feline and human."
-- Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.
-### Quote 164
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Monica Elshett, especially role behavior, relationship stance, or timeline placement.

@@ -2,25 +2,25 @@
 ## Analysis Dossier (minimum 200 lines)
 
 ## Appearance
-This dossier now restricts appearance notes to defensible information. Only directly attested physical or presentation details should be treated as canon inferences; unsupported specifics are intentionally left unspecified.
+Cindy is introduced at Hammerhead as a young mechanic approaching the Regalia work area, and the staging emphasizes her confidence in that space. Her presentation is consistently tied to garage work and customer-facing interactions rather than combat or courtly settings.
 
 ## Biography (chronological)
-The chronology for this character should be reconstructed from the quote section below in source order. If a timeline point is ambiguous or scene-dependent, it is treated as uncertain rather than forced into a definitive sequence.
+Cindy first appears when the party reaches Hammerhead with the disabled Regalia. She identifies Noctis, congratulates him on the upcoming wedding, introduces herself as Cid's granddaughter, and helps route the group through the repair process while Cid oversees the restoration. Across later encounters, she remains the recurring point of contact for Regalia upgrades, parts-related tasks, and regional travel support.
 
 ## Personality
-Personality conclusions should be derived from repeated behavior and direct dialogue patterns in the evidence block, not from single isolated lines.
+Her dialogue shows upbeat, proactive hospitality ("Hey there, y’all kept a girl waitin’!"), quick social read of newcomers, and practical focus on getting work done. She balances friendliness with directness, especially when coordinating around Cid's expectations and the party's immediate vehicle needs.
 
 ## Voice
-Voice notes should rely on recurring diction, register, and address style visible in quoted speech.
+Cindy speaks in a warm, colloquial register with regional contractions ("y’all," "Paw-paw") and brisk service-oriented phrasing. Her speech rhythm is informal but task-focused, matching her role as both mechanic and front-facing coordinator at Hammerhead.
 
 ## Relationships
-Relationship characterization should be grounded in explicit interactions and repeated stance indicators from the quotes.
+She is explicitly framed as Cid's granddaughter and works in close day-to-day coordination with him. With Noctis and his companions, she takes a helpful ally role: greeting them, contextualizing local expectations, and guiding repair/travel follow-through tied to the Regalia.
 
 ## Skills and abilities
-Skills listed for this character should map to directly evidenced actions, role labels, or formal duties present in the corpus excerpts.
+The evidence supports her as an experienced auto-service specialist centered on Regalia maintenance logistics, upgrade facilitation, and workshop coordination. Her demonstrated strengths are mechanical support workflow, customer handoff, and operational knowledge of routes/parts tied to road travel.
 
 ## Likes and dislikes
-Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
+Cindy consistently favors practical progress—getting the car in, repaired, and back on the road—and responds positively to cooperative follow-through. She appears to dislike delays and avoidable holdups that interfere with garage work cadence.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
 ### Quote 1
@@ -31,9 +31,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 3
 - Direct quote: "Prompto: Literally next door."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 4
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 5
 - Direct quote: "(once the Chocobros get the car to Hammerhead)"
@@ -113,9 +110,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 30
 - Direct quote: "[The dialogue immediately beneath this will then commence]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 31
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 32
 - Direct quote: "(speaking with Cindy)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
@@ -128,26 +122,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 35
 - Direct quote: "World Map x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "(speaking with Cindy again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 38
 - Direct quote: "Cindy: Rushin’ Paw-paw won’t do you no good."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 39
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "(speaking with Cindy once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 41
 - Direct quote: "Cindy: He’ll take his time, but he’ll get ‘er done."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 42
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 43
 - Direct quote: "(examining an advertisement near some kitchenware in the Mini Mart at Hammerhead)"
@@ -175,9 +160,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 51
 - Direct quote: "Prompto: Broken down and flat broke."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 52
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 53
 - Direct quote: "(speaking with Cindy once again)"
@@ -227,9 +209,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 68
 - Direct quote: "Cindy: Here—this oughta be enough for a place to stay. Just between us, though. Don’t tell, Paw-paw!"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 69
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 70
 - Direct quote: "(speaking with Cindy again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
@@ -242,17 +221,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 73
 - Direct quote: "Cindy: Band o’ bounty hunters, come out from the city. Keep these parts safe—provided the money’s right."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 74
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 75
 - Direct quote: "(speaking with Cindy again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 76
 - Direct quote: "Cindy: Y’all look like a rough-an’-tumble bunch. I reckon you’ll round up those critters lickety split."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 77
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "(speaking with Cindy once more)"
@@ -262,9 +235,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "[Noct makes a “Heh” sound]"
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 81
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 82
 - Direct quote: "(upon locating the first of the reapertails Cindy asked the Chocobros to dispose of)"
@@ -283,9 +253,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 87
 - Direct quote: "Gladiolus: Better not be the “varmint” Cindy was talking about."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 88
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 89
 - Direct quote: "Noctis: Hello?"
@@ -335,9 +302,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 104
 - Direct quote: "Noct: (That’s right—Dad said he left something in the trunk for me.)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 105
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 106
 - Direct quote: "Cindy: She’ll be waiting at the garage."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
@@ -353,17 +317,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 110
 - Direct quote: "Gladio: So, who’s up next behind the wheel?"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 111
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 112
 - Direct quote: "(as the royal retinue nears Hammerhead)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 113
 - Direct quote: "Prompto: It’s rude to keep a girl waiting. You’d better apologi— What is THAT!?"
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 114
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "(beginning the “The Errand Prince” quest upon completing the “The Mutant Marauder” quest when speaking to Cindy once again back at Hammerhead)"
@@ -391,9 +349,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 123
 - Direct quote: "Cindy: Perfect!"
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 124
-- Direct quote: "Earned 50 EXP."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 125
 - Direct quote: "Cindy: Thought you’d say yes, so I already put it in the trunk. There should be a motel on your way to Galdin. If y’all wouldn’t mind giving that to the owner, that’d be swell."
@@ -452,26 +407,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 143
 - Direct quote: "Cindy: Well, here she is! Now y’all won’t need to pay the roads no nevermind. After all, limits were only made to be broken."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 144
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 145
 - Direct quote: "(overhearing a conversation at Hammerhead)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 146
 - Direct quote: "Man (1): I was driving the other night, when one of those things popped out. Managed to get away, but…"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 147
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 148
 - Direct quote: "(while perusing Prompto’s photos and passing the one Cindy took of the Chocobros with the Regalia)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 149
 - Direct quote: "Gladiolus: Damn, this is a really good shot!"
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 150
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 151
 - Direct quote: "(taking the “Hallowed Hill of Hammerhead” tour with Prompto, which can be triggered by camping at Palmaugh Haven)"
@@ -641,17 +587,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 206
 - Direct quote: "Prompto: Noooct! You scared her away!"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 207
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 208
 - Direct quote: "[If an awkward option is selected that causes Cindy to leave]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 209
 - Direct quote: "Prompto: We’ll get it right next time."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 210
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 211
 - Direct quote: "[The Chocobros scale some rock formations along the side of the road, which they follow across a small rock bridge to an outcrop where they find the enormous bird that swooped at them near Hammerhead; it’s asleep]"
@@ -664,9 +604,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 214
 - Direct quote: "Take your arms to Hammerhead and ask Cid to upgrade them."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 215
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 216
 - Direct quote: "Noctis: “Makes sense”? Are you serious? What about any of this makes sense!? The news just told me I’m dead—along with my father and Luna."

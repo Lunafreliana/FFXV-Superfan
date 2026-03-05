@@ -29,12 +29,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 2
 - Direct quote: "[A prompt appears to select either “Go to the Chocobo Post” or “Go to Lestallum first”]"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 3
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 4
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 5
 - Direct quote: "Go to the Chocobo Post"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
@@ -47,20 +41,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 8
 - Direct quote: "Prompto is keen to visit Wiz Chocobo Post in the Malacchi Hills, where the finest chocobos are bred and trained."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 9
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 10
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 11
 - Direct quote: "(arriving at the Wiz Chocobo Post)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 12
 - Direct quote: "Prompto: Now this is what I’m talkin’ about!"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 13
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 14
 - Direct quote: "(when walking near one of the signs at the Wiz Chocobo Post that say “Chocobo Racing”)"
@@ -73,9 +58,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 17
 - Direct quote: "Wiz: The chocobos, huh? I hate to break this to y’all, but we can’t permit our birds to leave the post. Not while Deadeye’s still about. He’s an uncommonly ferocious behemoth that’s taken to prowlin’ these parts of late. His scent makes our birds nervous, an’ to prevent accidents an’ tragedies, we have no choice but to suspend rentals. But hold on, now—ain’t you lads the hunters that’ve been makin’ a mark? You reckon you could handle the likes of Deadeye? If you could bring the beast down, there’d be a reward in it for ya. But knowin’ the danger, I wouldn’t blame ya for sayin’ no."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 18
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 19
 - Direct quote: "(completing the “A Behemoth Undertaking” and “Friends of a Feather” quests)"
@@ -92,17 +74,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 23
 - Direct quote: "Hunt Complete!"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 24
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 25
 - Direct quote: "(examining an advertisement at the Wiz Chocobo Post)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 26
 - Direct quote: "Beautify Your Bird!"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "(when examining Gysahl Greens at the Wiz Chocobo Post)"
@@ -134,17 +110,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 37
 - Direct quote: "Wiz: That’s mighty kind of you, friend. I got my hands full lookin’ after my own little ones. ‘Preciate the help."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 38
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 39
 - Direct quote: "(quest description for “Where the Wild Chocobos Are”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "As well as looking after the domestic chocobos of the Chocobo Post, Wiz keeps an eye on the local wild bird population. Noctis offers to take a photo of a wild chocobo to set Wiz’s mind at ease."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 41
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 42
 - Direct quote: "(completing the “Where the Wild Chocobos Are” quest)"
@@ -182,17 +152,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 53
 - Direct quote: "Noctis: Sure. No problem."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "(speaking with Wiz about the quest after beginning “Bird on the Brink”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 56
 - Direct quote: "Wiz: I watch over them wild chocobos from when they hatch. You can’t help but grow attached to ’em."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 57
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "(speaking with Wiz again)"
@@ -200,26 +164,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 59
 - Direct quote: "Wiz: I reckon the bird might’ve gotten himself injured. We got daemons and wild critters of all kinds ’round here."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 60
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "(speaking with once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 62
 - Direct quote: "Wiz: Or maybe the fella ate somethin’ he weren’t supposed to, and made himself sick."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 63
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 64
 - Direct quote: "(quest description for “Bird on the Brink”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "Wiz hears word of an injured chocobo. If left untended, the struggling creature is bound to fall victim to wild predators. Noctis resolves to find the bird and do what he can to help."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "[Note: The audio here has Prompto say “Uh-huh. A real good thing we found him first.”]"
@@ -254,26 +209,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 77
 - Direct quote: "Noctis: Okay. If we see anything."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 78
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 79
 - Direct quote: "(speaking with Wiz about the quest after beginning “A Feathery Feast”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "Wiz: Fact o’ the matter is, gysahl greens are divisive. There’s folks who love ’em, and there’s folks who hate ’em."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 81
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 82
 - Direct quote: "(quest description for “A Feathery Feast”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 83
 - Direct quote: "Wiz wants to draw more customers to the Chocobo Post so he can spread the chocobo gospel. He enlists Noctis’s help in finding delicious vegetables to turn into a signature dish."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 84
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 85
 - Direct quote: "(upon selecting “Yes”)"
@@ -292,9 +238,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 90
 - Direct quote: "Wiz: Yeah? Well, if y’all say so. Now I’ll get myself in the kitchen and start cookin’. Y’all be sure to give the new dish a try!"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 91
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 92
 - Direct quote: "(beginning the “Chase That Chocobo!” quest)"
@@ -434,17 +377,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 137
 - Direct quote: "Woman: What’s the big idea, closing off our roads?"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 138
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 139
 - Direct quote: "(overhearing another conversation outside the Wiz Chocobo Post)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "Man (1): Hey, the blockade’s—they still there!?"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 141
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "(overhearing yet another conversation outside the Wiz Chocobo Post)"
@@ -485,12 +422,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 154
 - Direct quote: "[A prompt appears to select either “Go to the Chocobo Post” or “Go to Lestallum first”]"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 155
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 156
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 157
 - Direct quote: "Go to the Chocobo Post"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
@@ -503,20 +434,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 160
 - Direct quote: "Prompto is keen to visit Wiz Chocobo Post in the Malacchi Hills, where the finest chocobos are bred and trained."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 161
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 162
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 163
 - Direct quote: "(arriving at the Wiz Chocobo Post)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 164
 - Direct quote: "Prompto: Now this is what I’m talkin’ about!"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 165
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 166
 - Direct quote: "(when walking near one of the signs at the Wiz Chocobo Post that say “Chocobo Racing”)"
@@ -529,9 +451,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 169
 - Direct quote: "Wiz: The chocobos, huh? I hate to break this to y’all, but we can’t permit our birds to leave the post. Not while Deadeye’s still about. He’s an uncommonly ferocious behemoth that’s taken to prowlin’ these parts of late. His scent makes our birds nervous, an’ to prevent accidents an’ tragedies, we have no choice but to suspend rentals. But hold on, now—ain’t you lads the hunters that’ve been makin’ a mark? You reckon you could handle the likes of Deadeye? If you could bring the beast down, there’d be a reward in it for ya. But knowin’ the danger, I wouldn’t blame ya for sayin’ no."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 170
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 171
 - Direct quote: "(completing the “A Behemoth Undertaking” and “Friends of a Feather” quests)"
@@ -548,17 +467,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 175
 - Direct quote: "Hunt Complete!"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 176
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 177
 - Direct quote: "(examining an advertisement at the Wiz Chocobo Post)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 178
 - Direct quote: "Beautify Your Bird!"
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 179
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 180
 - Direct quote: "(when examining Gysahl Greens at the Wiz Chocobo Post)"
@@ -590,17 +503,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 189
 - Direct quote: "Wiz: That’s mighty kind of you, friend. I got my hands full lookin’ after my own little ones. ‘Preciate the help."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 190
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 191
 - Direct quote: "(quest description for “Where the Wild Chocobos Are”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 192
 - Direct quote: "As well as looking after the domestic chocobos of the Chocobo Post, Wiz keeps an eye on the local wild bird population. Noctis offers to take a photo of a wild chocobo to set Wiz’s mind at ease."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 193
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 194
 - Direct quote: "(completing the “Where the Wild Chocobos Are” quest)"
@@ -638,17 +545,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 205
 - Direct quote: "Noctis: Sure. No problem."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 206
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 207
 - Direct quote: "(speaking with Wiz about the quest after beginning “Bird on the Brink”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 208
 - Direct quote: "Wiz: I watch over them wild chocobos from when they hatch. You can’t help but grow attached to ’em."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 209
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 210
 - Direct quote: "(speaking with Wiz again)"
@@ -656,26 +557,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 211
 - Direct quote: "Wiz: I reckon the bird might’ve gotten himself injured. We got daemons and wild critters of all kinds ’round here."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 212
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 213
 - Direct quote: "(speaking with once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 214
 - Direct quote: "Wiz: Or maybe the fella ate somethin’ he weren’t supposed to, and made himself sick."
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 215
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 216
 - Direct quote: "(quest description for “Bird on the Brink”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 217
 - Direct quote: "Wiz hears word of an injured chocobo. If left untended, the struggling creature is bound to fall victim to wild predators. Noctis resolves to find the bird and do what he can to help."
-- Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
-### Quote 218
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Wiz Forn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 219
 - Direct quote: "[Note: The audio here has Prompto say “Uh-huh. A real good thing we found him first.”]"

@@ -65,26 +65,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 14
 - Direct quote: "Navyth: I like your spirit, my boy."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 15
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 16
 - Direct quote: "(speaking to Navyth after beginning the “Fishing Buddies” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 17
 - Direct quote: "Navyth: Take your time, my boy. Nice an’ easy, that’s the name of the game."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 18
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 19
 - Direct quote: "(speaking to Navyth again after beginning the “Fishing Buddies” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 20
 - Direct quote: "Navyth: If you’re talkin’ grillin’, nothin’ beats barramundi. Try it."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 21
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 22
 - Direct quote: "(completing the “Fishing Buddies” quest after catching the crag barramundi and going back to talk to Navyth)"
@@ -131,17 +122,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 36
 - Direct quote: "Navyth: That’s the spirit. You ain’t afraid of a challenge. That attitude’ll take you far."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 37
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 38
 - Direct quote: "(speaking to Navyth after beginning the “Fishing, Naturally” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 39
 - Direct quote: "Navyth: He’s a carnivore. Likes small fish. A minnow’s your best bet for the lure."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 40
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 41
 - Direct quote: "(speaking to Navyth again after beginning the “Fishing, Naturally” quest)"
@@ -149,17 +134,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 42
 - Direct quote: "Navyth: See, you’ve gotta follow his schedule. Fish for somethin’ else while you’re waitin’ for him to get in the mood."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 43
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 44
 - Direct quote: "(speaking to Navyth once again after beginning the “Fishing, Naturally” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 45
 - Direct quote: "Navyth: Remember, it’s morning or evening, or forget about it. He don’t bite durin’ the day."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 46
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "(completing the “Fishing, Naturally” quest after catching the cherrycomb trout and going back to talk to Navyth)"
@@ -182,9 +161,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 53
 - Direct quote: "Bufferfly Edge x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "(beginning the “Navyth’s Challenge” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -203,9 +179,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 60
 - Direct quote: "Navyth: Alright, my boy. You’re on. But don’t wet your pants when he starts fightin’ you."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 61
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 62
 - Direct quote: "(completing the “Navyth’s Challenge” quest after catching a Vesper gar and going back to talk to Navyth)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -220,9 +193,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 66
 - Direct quote: "Invincible Iron Giant x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 67
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 68
 - Direct quote: "(after completing “Navyth’s Challenge” and walking away)"
@@ -257,9 +227,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 78
 - Direct quote: "Tranquility x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "(speaking with Navyth)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -271,12 +238,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 83
 - Direct quote: "Navyth: Wonder if there’s a new fish done set ’em all astir. Whatever it is causin’ these quakes, it’s gotta be a real whopper! Either way, I’m gonna keep on fishin’. And don’t worry: if I get any good bites, you boys’ll be the first to know!"
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 84
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 85
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "(speaking with Navyth)"
@@ -329,26 +290,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 102
 - Direct quote: "Navyth: I like your spirit, my boy."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 103
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 104
 - Direct quote: "(speaking to Navyth after beginning the “Fishing Buddies” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "Navyth: Take your time, my boy. Nice an’ easy, that’s the name of the game."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 106
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "(speaking to Navyth again after beginning the “Fishing Buddies” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "Navyth: If you’re talkin’ grillin’, nothin’ beats barramundi. Try it."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 109
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 110
 - Direct quote: "(completing the “Fishing Buddies” quest after catching the crag barramundi and going back to talk to Navyth)"
@@ -395,17 +347,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 124
 - Direct quote: "Navyth: That’s the spirit. You ain’t afraid of a challenge. That attitude’ll take you far."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 125
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 126
 - Direct quote: "(speaking to Navyth after beginning the “Fishing, Naturally” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 127
 - Direct quote: "Navyth: He’s a carnivore. Likes small fish. A minnow’s your best bet for the lure."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 128
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 129
 - Direct quote: "(speaking to Navyth again after beginning the “Fishing, Naturally” quest)"
@@ -413,17 +359,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 130
 - Direct quote: "Navyth: See, you’ve gotta follow his schedule. Fish for somethin’ else while you’re waitin’ for him to get in the mood."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 131
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 132
 - Direct quote: "(speaking to Navyth once again after beginning the “Fishing, Naturally” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 133
 - Direct quote: "Navyth: Remember, it’s morning or evening, or forget about it. He don’t bite durin’ the day."
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 134
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 135
 - Direct quote: "(completing the “Fishing, Naturally” quest after catching the cherrycomb trout and going back to talk to Navyth)"
@@ -446,9 +386,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 141
 - Direct quote: "Bufferfly Edge x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 142
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 143
 - Direct quote: "(beginning the “Navyth’s Challenge” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -467,9 +404,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 148
 - Direct quote: "Navyth: Alright, my boy. You’re on. But don’t wet your pants when he starts fightin’ you."
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 149
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 150
 - Direct quote: "(completing the “Navyth’s Challenge” quest after catching a Vesper gar and going back to talk to Navyth)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -484,9 +418,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 154
 - Direct quote: "Invincible Iron Giant x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 155
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 156
 - Direct quote: "(after completing “Navyth’s Challenge” and walking away)"
@@ -521,9 +452,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 166
 - Direct quote: "Tranquility x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 167
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 168
 - Direct quote: "(speaking with Navyth)"
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
@@ -535,12 +463,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 171
 - Direct quote: "Navyth: Wonder if there’s a new fish done set ’em all astir. Whatever it is causin’ these quakes, it’s gotta be a real whopper! Either way, I’m gonna keep on fishin’. And don’t worry: if I get any good bites, you boys’ll be the first to know!"
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 172
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
-### Quote 173
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Navyth Eldercapt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 174
 - Direct quote: "(speaking with Navyth)"

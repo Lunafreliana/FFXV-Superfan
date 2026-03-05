@@ -392,9 +392,6 @@ Cindy consistently favors practical progress—getting the car in, repaired, and
 ### Quote 123
 - Direct quote: "Cindy: Perfect!"
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
-### Quote 124
-- Direct quote: "Earned 50 EXP."
-- Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.
 ### Quote 125
 - Direct quote: "Cindy: Thought you’d say yes, so I already put it in the trunk. There should be a motel on your way to Galdin. If y’all wouldn’t mind giving that to the owner, that’d be swell."
 - Why it matters: This line anchors one or more claims in the analysis section for Cindy Aurum, especially role behavior, relationship stance, or timeline placement.

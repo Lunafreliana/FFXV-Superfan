@@ -1,7 +1,5 @@
 # Side Character Files
-
 One file per side character.
-
 - `king-regis-lucis-caelum.md`
 - `cor-leonis.md`
 - `cindy-aurum.md`
@@ -24,6 +22,5 @@ One file per side character.
 - `coctura-arlund.md`
 - `chancellor-ardyn.md`
 - `captain-drautos.md`
-
 Supplementary non-character aggregation:
 - `named-npc-clusters.md`

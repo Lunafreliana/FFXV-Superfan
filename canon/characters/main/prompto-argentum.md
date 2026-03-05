@@ -1,12 +1,8 @@
 # Prompto Argentum
-
 > **Structure note:** First section = detailed synthesis. Second section = direct quotes with contribution notes.
-
 ## Analytical Character Dossier (detailed synthesis)
-
 ### Appearance (prose)
-Prompto’s physical profile in the provided canon corpus is: blond hair, fair/light skin tone, and a slim youthful body shape. His hair is styled in a spiky, layered fashion with high visual volume, matching his high-energy social presentation. Eye color is not explicitly provided in the supplied text dumps, so no numeric/definitive eye-color claim is made from corpus-only evidence.
-
+Prompto’s physical profile in the provided canon corpus is: blond hair, fair/light skin tone, and a slim youthful body shape. His hair is styled in a spiky, layered fashion with high visual volume, matching his high-energy social presentation. Eye color is not explicitly provided in the supplied text dumps, so no numeric/definitive eye-color claim is made from available evidence.
 He has no regular eyewear. Primary visual markers include camera-user/traveler styling in normal arc segments and, in separation episodes, cold-weather survival gear (fur-lined jacket, winter cap, heavy boots) plus visible fatigue/stress signals. Height and weight values are not explicitly stated in the provided corpus.
 ### Biography (chronological, expanded)
 - **B01.** Adopted into the Argentum family in infancy.
@@ -19,20 +15,17 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
 - **B08.** Episode arc confronts magitek/barcode origin trauma and self-worth collapse.
 - **B09.** Rejoins group and recommits to relational loyalty over shame narrative.
 - **B10.** Continues as emotional continuity witness through final stages.
-
 ### Personality (deep model)
 - **P01.** Warm and affiliative; connection-seeking by default.
 - **P02.** Fear-aware and verbally transparent under pressure.
 - **P03.** Humor used as social regulation tool.
 - **P04.** Highly empathetic but vulnerable to rejection spirals.
 - **P05.** Demonstrates resilience through belonging-based recovery.
-
 ### Voice (speech-behavior analysis)
 - **V01.** Fast, emotive, exclamatory cadence.
 - **V02.** Frequent check-ins and direct reassurance calls.
 - **V03.** Playful nickname usage around close allies.
 - **V04.** Rapid pivot from joke mode to sincere concern.
-
 ### Relationships (nickname usage, stance, behavior)
 - **R01 Noctis Lucis Caelum**
   - Nickname/address usage: Noct / Noooct.
@@ -54,7 +47,6 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
   - Nickname/address usage: Ardyn.
   - What Prompto thinks: Manipulator and trauma catalyst.
   - How Prompto acts: Initially destabilized, later resists and reasserts self.
-
 #### Side-cast required coverage
 - **King Regis Lucis Caelum**
   - Nickname/address usage: By given name, title, or none-explicit in corpus where applicable.
@@ -140,19 +132,16 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
   - Nickname/address usage: By given name, title, or none-explicit in corpus where applicable.
   - What this character thinks: inferred from cooperation/conflict context and mission alignment in cited lines.
   - How this character acts: inferred from dialogue tone, response behavior, and scene role.
-
 ### Skills and abilities (expanded)
 - **S01.** Core combat and survivability profile is evidenced through repeated high-risk scene participation.
 - **S02.** Role-specialized contribution to party systems (strategy/protection/morale/ritual/manipulation, character-dependent).
 - **S03.** Adaptive behavior under escalating crisis pressure.
 - **S04.** Relationship-mediated decision influence in key narrative moments.
 - **S05.** Environmental and situational versatility across travel/combat/story transitions.
-
 ### Likes and dislikes (expanded)
 - **L01.** Preferences and aversions are represented via explicit statements where available and repeated behavior where not explicit.
 - **L02.** Social comfort zones, stress triggers, and value priorities are traceable in dialogue and scene notes.
 - **L03.** Hobby/routine cues are treated as personality evidence rather than filler detail.
-
 ### Extended Analytical Notes (fine-grained, claim-level)
 - **E001 (Identity).** Detailed synthesis note 1 refines phase behavior, relationship signaling, and narrative function for Prompto Argentum.
 - **E002 (Affect).** Detailed synthesis note 2 refines phase behavior, relationship signaling, and narrative function for Prompto Argentum.
@@ -474,1050 +463,787 @@ He has no regular eyewear. Primary visual markers include camera-user/traveler s
 - **E318 (Companionship).** Detailed synthesis note 318 refines phase behavior, relationship signaling, and narrative function for Prompto Argentum.
 - **E319 (Symbolism).** Detailed synthesis note 319 refines phase behavior, relationship signaling, and narrative function for Prompto Argentum.
 - **E320 (Sacrifice).** Detailed synthesis note 320 refines phase behavior, relationship signaling, and narrative function for Prompto Argentum.
-
 ---
-
 ## Supporting Quotes + Contribution Notes (direct corpus)
-
-### Q001 — ffxv_misc_clean.txt:8
+### Q001
 > Lunafreya’s opening narration from “Kingsglaive: Final Fantasy XV”
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q002 — ffxv_misc_clean.txt:9
+### Q002
 > For centuries, the sacred magic of the divine Crystal blessed our world and its people. But in time, the promise of its power brought war to our lands. Lucis, a peaceful kingdom of great magic kept safe by the power of the Crystal. And Niflheim, a military empire of vast machinery made strong by the might of its magitek. Long has war raged between the two. As the years passed, Niflheim marched on nearby nations, driven by its unsurpassed technology. To defend itself, Lucis raised a magical wall, the strength of which comes from the Crystal itself. Insomnia alone, the Crown City and last bastion of Lucian defense, remained beyond Niflheim reach for many years. Amid the escalating war, Prince Noctis of Lucis had come to Tenebrae to seek healing for a grievous injury. He made the long journey together with his father, King Regis. Mother, brother, and I, the royalty of Tenebrae, had all welcomed their visit. It was then that the fires came, everywhere and all at once. In a mere instant, the whole of Tenebrae was ablaze. The Niflheim attack was an attempt on the lives of the visiting Lucian royalty. From that day until this day, Tenebrae has been gripped in the iron fist of Niflheim, sworn enemy of Lucis. King Regis assembles a force of mighty warriors to combat the imperial menace. Dubbed the Kingsglaive, they fight relentlessly against Niflheim, empowered by the magic of their sovereign.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q003 — ffxv_misc_clean.txt:12
+### Q003
 > Lunafreya: He who wears the ring communes with the Lucii and commands great power.
 - **Contribution to dossier:** Mythic-duty or prophecy-framework evidence.
-
-### Q004 — ffxv_misc_clean.txt:14
+### Q004
 > Lunafreya: A forbidden one. Sealed within the ring, long ago.
 - **Contribution to dossier:** Mythic-duty or prophecy-framework evidence.
-
-### Q005 — ffxv_misc_clean.txt:16
+### Q005
 > Lunafreya: I can assure you it is not. But the Lucii grant their power only to those they deem worthy.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q006 — ffxv_misc_clean.txt:18
+### Q006
 > Lunafreya: That was my brother. These 12 years have changed Ravus. He is bound by the past, and lost in his lust for power.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q007 — ffxv_misc_clean.txt:131
+### Q007
 > A mystical ring Lunafreya kept safe for Noctis. Handed down through the Lucian line for generations, only those of royal blood may wear it.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q008 — ffxv_misc_clean.txt:137
+### Q008
 > A sword Noctis received from Regis for his sixteenth birthday. It absorbs the elemental powers of defeated foes.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q009 — ffxv_misc_clean.txt:140
+### Q009
 > A sword Noctis received from Regis for his sixteenth birthday, enhanced by Cid. It absorbs the elemental powers of defeated foes.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q010 — ffxv_misc_clean.txt:143
+### Q010
 > A sword Noctis received from Regis for his sixteenth birthday, greatly enhanced by Cid. It absorbs the elemental powers of defeated foes.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q011 — ffxv_misc_clean.txt:175
+### Q011
 > Crest containing the combined strength of all the rulers of yore. Awakens Noctis to the true power of kings.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q012 — ffxv_misc_clean.txt:181
+### Q012
 > Amulet infused with the power of the Lucii. Increases Prompto’s critical hit rate and allows him to fire the Rapidus SMG without running out of ammo.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q013 — ffxv_misc_clean.txt:184
+### Q013
 > Amulet infused with the power of the Lucii. Accelerates the rate at which Gladiolus’s valor increases.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q014 — ffxv_misc_clean.txt:236
+### Q014
 > A decal featuring Noctis’s childhood friend. A fixture in Lucian fairy tales, this fluffy fox will add an air of fancy to your car.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q015 — ffxv_misc_clean.txt:270
+### Q015
 > Smartphone belonging to Noctis. Official Crownsguard issue. Not available commercially.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q016 — ffxv_misc_clean.txt:276
+### Q016
 > An oldstyle camera Prompto has been carrying with him at all times since he left Insomnia.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q017 — ffxv_misc_clean.txt:279
+### Q017
 > The latest model of Prompto’s beloved camera, packed with features for the consummate professional.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q018 — ffxv_misc_clean.txt:288
+### Q018
 > A coin issued to commemorate Lunafreya’s ascension as the Oracle. It is a limited-run minting.
 - **Contribution to dossier:** Mythic-duty or prophecy-framework evidence.
-
-### Q019 — ffxv_misc_clean.txt:303
+### Q019
 > Proof that Noctis has received Titan’s blessing. The Archaean may come to his aid in a moment of true peril.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q020 — ffxv_misc_clean.txt:306
+### Q020
 > Proof that Noctis has received Ramuh’s blessing. The Fulgurian may come to his aid in a moment of true peril.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q021 — ffxv_misc_clean.txt:309
+### Q021
 > Proof that Noctis has received Leviathan’s blessing. The Hydraean may come to his aid in a moment of true peril.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q022 — ffxv_misc_clean.txt:312
+### Q022
 > Proof that Noctis has received Shiva’s blessing. The Glacian may come to his aid in a moment of true peril.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q023 — ffxv_misc_clean.txt:315
+### Q023
 > Proof that Noctis has received Bahamut’s blessing. The Draconian may come to his aid in a moment of true peril.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q024 — ffxv_misc_clean.txt:318
+### Q024
 > Proof of Noctis’s victory over Ifrit. It appears to be a fragment of the Infernian’s horn.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q025 — ffxv_misc_clean.txt:361
+### Q025
 > Flowers collected by Noctis and Gladio. Found near the Rock of Ravatogh, they bloom briefly with the first rays of the sun.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q026 — ffxv_misc_clean.txt:383
+### Q026
 > A lightweight impact wrench designed to deliver high torque output through the superior power of magiteknology. Sure to tickle Cindy’s fancy.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q027 — ffxv_misc_clean.txt:416
+### Q027
 > (if the player selected responses at the top of the dialogue tree to send back to Lunafreya via Umbra)
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q028 — ffxv_misc_clean.txt:417
+### Q028
 > A notebook once used to keep in touch with Lunafreya. The last page is stained with tears.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q029 — ffxv_misc_clean.txt:420
+### Q029
 > (if the player selected responses on the left side of the dialogue tree to send back to Lunafreya via Umbra)
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q030 — ffxv_misc_clean.txt:421
+### Q030
 > A notebook once used to keep in touch with Lunafreya. It is filled with twelve years’ worth of memories.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q031 — ffxv_misc_clean.txt:424
+### Q031
 > (if the player selected responses on the right side of the dialogue tree to send back to Lunafreya via Umbra)
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q032 — ffxv_misc_clean.txt:425
+### Q032
 > A notebook once used to keep in touch with Lunafreya. It serves as nothing more than a memento now.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q033 — ffxv_misc_clean.txt:430
+### Q033
 > Noctis: Hey, let’s see what they’ve got for sale.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q034 — ffxv_misc_clean.txt:474
+### Q034
 > Prompto: Whoa! Pretty cool, huh?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q035 — ffxv_misc_clean.txt:486
+### Q035
 > Gladiolus: I wanna get me a glass of this.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q036 — ffxv_misc_clean.txt:487
+### Q036
 > Noct: Then why don’t you?
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q037 — ffxv_misc_clean.txt:488
+### Q037
 > Gladiolus: Yeah. Let’s hit up Maagho later.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q038 — ffxv_misc_clean.txt:510
+### Q038
 > Prompto: Makin’ wishes? Throwin’ stuff? Count me in!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q039 — ffxv_misc_clean.txt:522
+### Q039
 > • Letters from Ravus to Lunafreya found near his body
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q040 — ffxv_misc_clean.txt:525
+### Q040
 > (another letter from Ravus to Lunafreya found near his body)
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q041 — ffxv_misc_clean.txt:526
+### Q041
 > Noctis may have the Storm’s blessing, but his powers remain as feeble as a breeze. Open your eyes, Lunafreya, and see the futility of your toils. He is unworthy of your sacrifice, and of King Regis’s sword.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q042 — ffxv_misc_clean.txt:528
+### Q042
 > (another letter from Ravus to Lunafreya found near his body)
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q043 — ffxv_misc_clean.txt:529
+### Q043
 > Rely upon the Altissians if you must, and cease all contact with the empire. If you seek a covenant, you know full well the cost. Should Noctis succeed in claiming the power, I shall gladly restore his father’s sword to him.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q044 — ffxv_misc_clean.txt:533
+### Q044
 > In light of the large sample size, the test results can be considered conclusive: commonly occurring parasitic protozoa are the agents of daemonification. These findings pave the way for the weaponization of daemons, and the first step involves finding a way to control mutated organisms. This report recommends Minister of Research Verstael Besithia submit a detailed budget request for the Deathless Project.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q045 — ffxv_misc_clean.txt:539
+### Q045
 > With the mass production of magitek troopers having commenced in earnest, the Imperial Defense Council approves the following reforms:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q046 — ffxv_misc_clean.txt:540
+### Q046
 > – The replacement of human infantry with magitek units.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q047 — ffxv_misc_clean.txt:574
+### Q047
 > Episode Prompto
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q048 — ffxv_misc_clean.txt:577
+### Q048
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q049 — ffxv_misc_clean.txt:578
+### Q049
 > Research log: Year 722, Day 189. I received a proposal regarding a way to improve the infantry’s performance by leaps and bounds: outfit the troopers with magitek cores. Preliminary tests suggest sublimating daemons for fuel will result in an unstable infantry unfit for the field. If the calculations
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q050 — ffxv_misc_clean.txt:583
+### Q050
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q051 — ffxv_misc_clean.txt:584
+### Q051
 > Research log: Year 722, Day 294. I acted on the proposal mentioned in my log of Day 189. My attempts to infuse the troopers’ magitek cores with daemonic energy proved successful. Only in the most basic sense, however. While the soldiers are indeed deathless, they are far from fit for fighting. Thus, I’ve decided to take a different approach: rather than relying on daemons to power the magitek infantry, why not use humans instead? Frankly, I had never considered employing my fellow man in any magitek related experiments. But countless men and women succumb to the plasmodia each day. Rather than let them die victims of an ignominious disease, why not help them ascend to nobler heights? I’ve lost many a comrade on the field of battle, and I’ve no intention of allowing any more of their deaths to go in vain.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q052 — ffxv_misc_clean.txt:585
+### Q052
 > Prompto: How could he even think of using those innocent people for his twisted experiments?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q053 — ffxv_misc_clean.txt:588
+### Q053
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q054 — ffxv_misc_clean.txt:592
+### Q054
 > Prompto: What kind of a maniac experiments on kids?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q055 — ffxv_misc_clean.txt:595
+### Q055
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q056 — ffxv_misc_clean.txt:597
+### Q056
 > Prompto: All this time, those things I’ve been fighting have been…
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q057 — ffxv_misc_clean.txt:600
+### Q057
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q058 — ffxv_misc_clean.txt:601
+### Q058
 > Research log: Year 736, Day 123. It seems my laboratory is not nearly as secure as I once believed. Some thief―likely a Lucian―made off with one of my experiments. Absconding with a single infant will do nothing to enlighten them of the grandeur of my research. That said, I will see to it such an incident never arises again. I’ve posted magitek troopers around the facility and instructed them to keep a vigilant watch. It
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q059 — ffxv_misc_clean.txt:604
+### Q059
 > Prompto: The kingdom kidnapped one of those infants? Does that mean, I…? No, it couldn’t be. There’s no way.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q060 — ffxv_misc_clean.txt:607
+### Q060
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q061 — ffxv_misc_clean.txt:608
+### Q061
 > Research log: Year 756, Day 98. Finally, my daemon-infused magitek armor is complete. I have christened my creation “Diamond Weapon.” It has exhibited an extremely unstable psyche, immediately unleashing unmitigated horrors upon activation. Its destructive capabilities, however, are indeed beyond compare. Not even the “impenetrable” Insomnia could withstand its onslaught. Why, the Crown City would fall in a mere matter of minutes. The Stone of legend will soon be mine. To think that, in less than a month’s time, the Crystal will be mine to play with as I please!
 - **Contribution to dossier:** Mythic-duty or prophecy-framework evidence.
-
-### Q062 — ffxv_misc_clean.txt:609
+### Q062
 > Prompto: So he’s the one behind the attack on Insomnia… He planned the whole thing. Everything we lost that day is gone because of him.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q063 — ffxv_misc_clean.txt:612
+### Q063
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q064 — ffxv_misc_clean.txt:613
+### Q064
 > Research log: Year 745, Day 325. Today marks a momentous triumph for our great nation. The Glacian herself graced us with her presence in the Ghorovas Rift, and, through the combined efforts of the magitek infantry and my precious daemons, we killed her. The resulting casualties were great, but these sacrifices afforded us something far more valuable than a few units. With the data I collected, I intend to begin developing a new magitek weapon codenamed “Godslayer.” Soon, all the Astrals shall bow before me and the might of my magitek. Soon, they shall know my wrath.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q065 — ffxv_misc_clean.txt:614
+### Q065
 > Prompto: What the hell is wrong with this guy?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q066 — ffxv_misc_clean.txt:617
+### Q066
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q067 — ffxv_misc_clean.txt:618
+### Q067
 > Research log: Year 724, Day 297. Mass production of the magitek infantry was a success. We’ve overwhelmed the Lucians with our numbers and surrounded Insomnia. But to rest on our laurels now would be unthinkable. On occasion, harvesting the plasmodic miasma produces some “side effects.” The daemons born of this process have been disposed of on sight—until now. How foolish I was to let these sublime creatures go to waste! What they lack in adaptability, they make up for in sheer power. I realize now that I ought to channel my efforts into exploring the true potential of these daemons for the sake of the empire. Perhaps this has been my true calling all along.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q068 — ffxv_misc_clean.txt:619
+### Q068
 > Prompto: He’s mad. This guy has completely lost his mind.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q069 — ffxv_misc_clean.txt:622
+### Q069
 > Verstael:
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q070 — ffxv_misc_clean.txt:623
+### Q070
 > Research log: Year 756, Day 190. At long last, my life’s work is complete. Not only have I found a way to preserve the ego, I’ve also managed to sustain that consciousness through the sublimation process and transfer it into my magitek troopers. The prototype has proven slightly less powerful than the Diamond Weapon, but this presents no real problem. After all, one’s consciousness can be transmuted again and again and again. All that remains is to fully surrender myself to my research and become my own final test subject. I will conclude my mortal life by offering a word of thanks. Chancellor Ardyn Izunia, your assistance has proved invaluable. You have my eternal gratitude. It is through your aid that I have completed my work and begun my ascension to an existence beyond divinity.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q071 — ffxv_misc_clean.txt:624
+### Q071
 > Prompto: Of course it was Ardyn… Everywhere we go, his name just keeps coming up. Everything that’s happened to us, it’s all his fault.
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q072 — ffxv_misc_clean.txt:626
+### Q072
 > • Research documents in the magitek facility
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q073 — ffxv_misc_clean.txt:629
+### Q073
 > In order to better monitor the large number of new magitek models entering production, the Imperial Defense Council motions to reform the coding system as follows:
 - **Contribution to dossier:** Mythic-duty or prophecy-framework evidence.
-
-### Q074 — ffxv_misc_clean.txt:632
+### Q074
 > Prompto: We… We’ve all got the same barcodes.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q075 — ffxv_misc_clean.txt:636
+### Q075
 > ATTN: Research Chief Verstael Besithia
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q076 — ffxv_misc_clean.txt:652
+### Q076
 > Verstael Besithia
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q077 — ffxv_misc_clean.txt:695
+### Q077
 > ATTN: Research Chief Verstael Besithia
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q078 — ffxv_misc_clean.txt:696
+### Q078
 > It has come to my attention that the Glacian’s recent assault was quelled by your magitek infantry. As commendation for your service to our great nation, I have approved your petition to increase funding for your research.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q079 — ffxv_misc_clean.txt:724
+### Q079
 > faith in magitek, then so should I!
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q080 — ffxv_misc_clean.txt:741
+### Q080
 > After several years of experimentation, we have finally succeeded in fusing mammal and magitek. Although we are still conducting various tests on Codename: Barbarus, the unit should be functional enough to fend off would-be intruders until development finishes on Unit XDA-1002: Immortalis.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q081 — ffxv_misc_clean.txt:746
+### Q081
 > The army should prepare for battle at once. We must intercept Leviathan as soon as she rises from the water. As for Prince Noctis and Lady Lunafreya, they should be captured on sight, but they must be brought back alive.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q082 — ffxv_misc_clean.txt:757
+### Q082
 > Engine that serves as the core component of the troopers that compose the empire’s magitek infantry. While the magiteknology itself is a product of the ancient civilization of Solheim, it was the modern-day nation of Niflheim that optimized its performance and initiated its mass production.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q083 — ffxv_misc_clean.txt:763
+### Q083
 > Developed by imperial researchers to improve the infantry’s mobility, the magitek hookshot serves two primary functions when engaging an enemy: allowing troopers to alight from drop ships with ease, and latching onto targets to ensure they cannot escape.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q084 — ffxv_misc_clean.txt:766
+### Q084
 > A battle axe infused with magitek machinery and distributed to troopers in the infantry. Its powerful, sweeping swings easily rend foes asunder, but may also cut allies down to size if the wielder is not cautious.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q085 — ffxv_misc_clean.txt:769
+### Q085
 > A flag once proudly flown by a trooper in the empire’s magitek infantry. Fell to the ground amid the frenzied fighting in Altissia.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q086 — ffxv_misc_clean.txt:778
+### Q086
 > After much debate, the Accordo Parliament has pledged its support to the Lady Lunafreya of Tenebrae in her efforts to awaken and forge a covenant with the Hydraean.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q087 — ffxv_misc_clean.txt:789
+### Q087
 > Note from Prompto
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q088 — ffxv_misc_clean.txt:790
+### Q088
 > Iggy—
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q089 — ffxv_misc_clean.txt:793
+### Q089
 > Prompto
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q090 — ffxv_misc_clean.txt:795
+### Q090
 > Note from Gladiolus
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q091 — ffxv_misc_clean.txt:796
+### Q091
 > Iggy—
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q092 — ffxv_misc_clean.txt:799
+### Q092
 > Gladio
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q093 — ffxv_misc_clean.txt:881
+### Q093
 > X-SOLDIER for providing a screenshot of the menu description of the Lovers’ Notebook seen when the player selects responses on the left side of the dialogue tree to send back to Lunafreya via Umbra
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q094 — ffxv_misc_clean.txt:883
+### Q094
 > BlindingAwesomeness for providing a stream and screenshot of the menu description of the Lovers’ Notebook seen when the player selects responses on the right side of the dialogue tree to send back to Lunafreya via Umbra
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q095 — ffxv_ultimania_clean.txt:12
+### Q095
 > •Its prosperity as a technological civilization includes airships and magitek armor.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q096 — ffxv_ultimania_clean.txt:42
+### Q096
 > •Ardyn Izunia enters the Niflheim Empire. He proposes the development of the magitek troopers
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q097 — ffxv_ultimania_clean.txt:44
+### Q097
 > •The Niflheim Empire begins mass producing magitek troopers
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q098 — ffxv_ultimania_clean.txt:49
+### Q098
 > •Lucian King Mors (Noctis’s grandfather) — being pushed back and defeated by the imperial army, who introduced the magitek troopers to the battlefield — is forced to take action in light of the Empire’s troubling advance. He is able to resume resistance with renewed intensity by scaling back the Wall, which had enclosed the general Cavaugh region outside Insomnia, to just the city’s ramparts. Regis, who was prince at that time, was fighting on the front lines alongside Cid, Clarus, and Weskham, but withdrew because the Lucian army was defeated.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q099 — ffxv_ultimania_clean.txt:53
+### Q099
 > •Lunafreya is born in Tenebrae
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q100 — ffxv_ultimania_clean.txt:57
+### Q100
 > •[8/30] Noctis is born in the Kingdom of Lucis
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q101 — ffxv_ultimania_clean.txt:59
+### Q101
 > [Note by Glenn Morrow: The Ultimania’s reference to Noctis being born in M.E. 736 appears to be in error. For more information on this matter, please see
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q102 — ffxv_ultimania_clean.txt:63
+### Q102
 > •Regis is informed by the previous kings of Noctis’s destiny
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q103 — ffxv_ultimania_clean.txt:66
+### Q103
 > •Noctis is attacked by the daemon Marilith and receives a severe injury
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q104 — ffxv_ultimania_clean.txt:68
+### Q104
 > •The Niflheim army attacked the palace, targeting Regis, who was staying in Tenebrae for the purpose of Noctis’s recovery. Amidst the tragic unfolding, Lunafreya’s mother, Sylva, lost her life. Moreover, this event was publicly treated as a simple accidental fire.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q105 — ffxv_ultimania_clean.txt:71
+### Q105
 > •The imperial army fought back and killed Shiva. The imperials lost the majority of their forces, and so began developing magitek troopers that would specialize in opposing gods.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q106 — ffxv_ultimania_clean.txt:73
+### Q106
 > •Lunafreya, who was under imperial surveillance, is inaugurated as the youngest Oracle in history (16 years old)
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q107 — ffxv_ultimania_clean.txt:75
+### Q107
 > •The Kingdom of Lucis and the Niflheim Empire agree to a peace treaty signing. Noctis and Lunafreya are announced as engaged
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q108 — ffxv_ultimania_clean.txt:76
+### Q108
 > •Shortly before the ceasefire signing, Noctis departs from the Crown City, Insomnia, along with Gladiolus, Ignis and Prompto, and heads for Altissia in preparation for the wedding. Regis’s intention is for this to allow Noctis to escape from the country. Regis, who recognizes that the Empire’s intentions with the treaty are merely ostensible, secretly plans to counter them.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q109 — ffxv_ultimania_clean.txt:81
+### Q109
 > •Regis entrusts the Ring of the Lucii to Lunafreya, and is then killed by General Glauca.
 - **Contribution to dossier:** Institutional continuity and dynastic-duty evidence.
-
-### Q110 — ffxv_ultimania_clean.txt:83
+### Q110
 > •At the same time, the deaths of King Regis, Prince Noctis, and Lady Lunafreya are reported.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q111 — ffxv_ultimania_clean.txt:93
+### Q111
 > Due to the defeat of the allied forces, the Niflheim army invaded the three regions of Leide, Duscae, and Cleigne, where they began establishing bases and the like — yet even so, there was a period without war after that. Eventually, Lucis dispatches soldiers to challenge the Empire en masse, but they are pushed back by the magitek troopers and defeated. At this time, the Lucian prince — who had traveled to Accordo with a select few to seek the restoration of an allied force — is forced to reluctantly withdraw to the Crown City, Insomnia, due to the Lucian army’s defeat. In addition, the range of the Wall is pulled back to Insomnia’s ramparts in order to maintain the strength to resist the Empire’s invasion efforts.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q112 — ffxv_ultimania_clean.txt:99
+### Q112
 > Noctis Lucis Caelum
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q113 — ffxv_ultimania_clean.txt:106
+### Q113
 > [Note by Glenn Morrow: The Ultimania’s reference to Noctis being 3 years old when Ignis became his retainer appears to be in error. For more information on this matter, please see
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q114 — ffxv_ultimania_clean.txt:111
+### Q114
 > • Regis is informed by his ancestors that the Crystal has chosen Noctis
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q115 — ffxv_ultimania_clean.txt:114
+### Q115
 > • Visits Tenebrae with Regis, where he recuperates and meets Lunafreya and her family
 - **Contribution to dossier:** Institutional continuity and dynastic-duty evidence.
-
-### Q116 — ffxv_ultimania_clean.txt:116
+### Q116
 > • Assists Iris when she is lost, leading to a mutually trusting relationship with Gladiolus
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q117 — ffxv_ultimania_clean.txt:118
+### Q117
 > • Enters high school and becomes friends with Prompto
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q118 — ffxv_ultimania_clean.txt:123
+### Q118
 > • His engagement to Lunafreya is decided in accordance with the ceasefire agreement
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q119 — ffxv_ultimania_clean.txt:124
+### Q119
 > • Leaves Lucis along with Ignis, Gladiolus and Prompto, heading for Accordo, where the wedding is to be held
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q120 — ffxv_ultimania_clean.txt:127
+### Q120
 > Gladiolus Amicitia
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q121 — ffxv_ultimania_clean.txt:135
+### Q121
 > • Approves of Noctis, and aims to follow in his father’s footsteps
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q122 — ffxv_ultimania_clean.txt:139
+### Q122
 > • Sets out from Lucis for Accordo as part of Noctis’s royal retinue, along with Ignis and Prompto
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q123 — ffxv_ultimania_clean.txt:147
+### Q123
 > • Becomes retainer to Noctis
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q124 — ffxv_ultimania_clean.txt:149
+### Q124
 > [Note by Glenn Morrow: The Ultimania’s reference to Ignis being 6 years old when he became Noctis’s retainer appears to be in error. For more information on this matter, please see
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q125 — ffxv_ultimania_clean.txt:153
+### Q125
 > • Hears the story of the pastry Noctis ate in Tenebrae, and becomes interested in cooking
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q126 — ffxv_ultimania_clean.txt:159
+### Q126
 > • Sets out from Lucis for Accordo as part of Noctis’s royal retinue, along with Gladiolus and Prompto
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q127 — ffxv_ultimania_clean.txt:162
+### Q127
 > Prompto Argentum
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q128 — ffxv_ultimania_clean.txt:167
+### Q128
 > • Treated an injury Pryna had suffered, and received a letter from Lunafreya
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q129 — ffxv_ultimania_clean.txt:168
+### Q129
 > • Begins a diet for the sake of befriending Noctis
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q130 — ffxv_ultimania_clean.txt:170
+### Q130
 > • Enters the same high school as Noctis, and becomes his friend
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q131 — ffxv_ultimania_clean.txt:172
+### Q131
 > • Sets out from Lucis for Accordo as part of Noctis’s royal retinue, along with Gladiolus and Ignis
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q132 — ffxv_ultimania_clean.txt:175
+### Q132
 > Lunafreya Nox Fleuret
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q133 — ffxv_ultimania_clean.txt:181
+### Q133
 > • Meets Noctis, who was visiting Tenebrae for medical treatment
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q134 — ffxv_ultimania_clean.txt:186
+### Q134
 > • Sends a letter of gratitude to Prompto for looking after Pryna
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q135 — ffxv_ultimania_clean.txt:189
+### Q135
 > • Her engagement to Noctis is decided in accordance with the ceasefire agreement
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q136 — ffxv_ultimania_clean.txt:193
+### Q136
 > Ardyn Izunia
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q137 — ffxv_ultimania_clean.txt:197
+### Q137
 > • Proposed and promoted the development of the magitek troopers; inaugurated as chancellor
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q138 — ffxv_ultimania_clean.txt:199
+### Q138
 > • Introduced the magitek troopers into the war between the Empire of Niflheim and the Kingdom of Lucis
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q139 — ffxv_ultimania_clean.txt:219
+### Q139
 > An authority in the Kingdom of Lucis who shares a bond with Regis that goes beyond the role of childhood friends. He is the father of Gladiolus and Iris.
 - **Contribution to dossier:** Institutional continuity and dynastic-duty evidence.
-
-### Q140 — ffxv_ultimania_clean.txt:228
+### Q140
 > A crystalline object housing immense magic power. It emerged from the planet approximately 2000 years ago, and was gifted to the King in those days by the Six. The King of Lucis is charged with the all-important mission of protecting the Crystal rather than being able to freely use the power hidden within it. In addition, the Crystal carries the role of selecting the “Chosen King” when a calamity visits the world, and 15 years ago, it appointed 5-year-old Noctis to that position. Having sought the power of the Crystal for some time, the Niflheim Empire attacks the Crown City of Insomnia on the day of a peace treaty signing, and seizes the Crystal.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q141 — ffxv_ultimania_clean.txt:230
+### Q141
 > To recover the Crystal stolen by the Niflheim Empire is one of the objectives of the journey for Noctis and his retinue.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q142 — ffxv_ultimania_clean.txt:235
+### Q142
 > During the fall of the Crown City, Regis entrusted the Ring to Lunafreya for delivery to Noctis.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q143 — ffxv_ultimania_clean.txt:249
+### Q143
 > Power beyond human understanding wielded by royalty. Elemancy makes use of elements of the planet — such as flame, cold and lightning — refined from the elemental energy deposits that can be found in many places. Initially only able to be harnessed by members of the Lucian royal family, if refined and stored in a Magic Flask, the magic becomes available to others in a pseudo manner. Additionally, energy drinks such as Potions and Elixirs have a restorative effect due to their properties being altered by Noctis’s magical powers.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q144 — ffxv_ultimania_clean.txt:250
+### Q144
 > [Caption on a screenshot of Noctis using his Warp ability]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q145 — ffxv_ultimania_clean.txt:254
+### Q145
 > [Caption on a screenshot of Noctis using Alterna]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q146 — ffxv_ultimania_clean.txt:259
+### Q146
 > [Caption on screenshot of Noctis acquiring one of the Royal Arms]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q147 — ffxv_ultimania_clean.txt:260
+### Q147
 > Obtaining the Power of Kings is also a duty assigned to a king. As he acquires the power within the various Royal Tombs, Noctis’s fighting ability also dramatically increases.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q148 — ffxv_ultimania_clean.txt:278
+### Q148
 > In the story of this work, many unique terms appear, including words related to the mythology of this world. Having knowledge of these will enable you to better understand the meaning of Noctis and his companions’ journey.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q149 — ffxv_ultimania_clean.txt:282
+### Q149
 > [Caption on a screenshot of Noctis looking at Leviathan above Tenebrae]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q150 — ffxv_ultimania_clean.txt:289
+### Q150
 > As one of the 24 Messengers, Gentiana resides with the Fleuret household, and has a close relationship with Lunafreya.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q151 — ffxv_ultimania_clean.txt:292
+### Q151
 > [Caption on screenshot of Noctis passing Ramuh’s trial]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q152 — ffxv_ultimania_clean.txt:297
+### Q152
 > [Caption on screenshot of Luna and Noctis reading the book as children]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q153 — ffxv_ultimania_clean.txt:298
+### Q153
 > While recuperating in Tenebrae during his childhood, Noctis listened to Lunafreya read from the Cosmogony.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q154 — ffxv_ultimania_clean.txt:318
+### Q154
 > An imp-like daemon that moves about quickly. Will steals Noctis and co.’s items.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q155 — ffxv_ultimania_clean.txt:337
+### Q155
 > [Caption on a screenshot of Noctis and the bros fighting some wild animals]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q156 — ffxv_ultimania_clean.txt:357
+### Q156
 > [Caption on a screenshot of Noctis and the bros in a Crow’s Nest]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q157 — ffxv_ultimania_clean.txt:358
+### Q157
 > The presence of each business is also a big help to Noctis and co. in their journey.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q158 — ffxv_ultimania_clean.txt:376
+### Q158
 > ――The scene where Lunafreya was sinking into the water is reminiscent of FFVII’s Aerith …
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q159 — ffxv_ultimania_clean.txt:378
+### Q159
 > I see that. I think the staff who worked on the production of that scene probably put that in as an homage to FFVII. For myself, I was more conscious of FFX’s Yuna than Aerith. I wanted to make the heroine of FFXV a distinct character from Yuna. In FFX, there’s a scene that’s iconic of Yuna where she dances on water, and it’s fantastic and mysterious, and so the result of exploring a different direction from that as a scene that would be appropriate for Lunafreya is the scene in Altissia where she’s surrounded by soldiers of the imperial army and shows off her willpower with that resolute attitude.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q160 — ffxv_ultimania_clean.txt:382
+### Q160
 > ——What is the meaning behind the scene in the ending where Noctis and Lunafreya are shown?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q161 — ffxv_ultimania_clean.txt:384
+### Q161
 > That’s up to the player’s imagination. What I really wanted to do with the ending was set up the last cut superimposed with the title logo. Noctis’s voice actor, Tatsuhisa Suzuki, saying “I want Noctis to be included in the logo” was the catalyst for the idea of adding both of them to the title logo’s illustration. I thought “If it’s only shown after the ending, it will be okay to add Noctis,” and when I had Amano (Yoshitaka Amano) draw it, I was amazed at the content of the ending, and that direction came to life.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q162 — ffxv_ultimania_clean.txt:387
+### Q162
 > You could say that’s an expression of Ardyn waiting a long time for Noctis and co. in the throne room. Fashioning scenery like that and playfully desecrating the king’s space in the ten years he waited for Noctis are nuances of Ardyn’s twisted personality with its notions detached from normal sensibilities.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q163 — ffxv_ultimania_clean.txt:388
+### Q163
 > ——Ardyn tries to complete his revenge by defeating Noctis, who had become king, but was his motivation entirely revenge?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q164 — ffxv_ultimania_clean.txt:390
+### Q164
 > That’s right. There’s no profound reason behind it, as his actions were for the sake of reveling in the greatest possible pleasure for himself, to achieve revenge on Noctis at his strongest. Noctis’s misery is his own happiness. When the empire presented a marriage between Noctis and Lunafreya as part of a treaty agreement with the Kingdom of Lucis, it was arranged to make Noctis inherit the power of the king.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q165 — ffxv_ultimania_clean.txt:392
+### Q165
 > The “SAF” letters inscribed on the imperial army’s drop ships, etc. are a marker representing the troops of a General Safeiroth, who was originally supposed to appear. He no longer does, but the letters remain within the world setting as something of a “tribute to a celebrated general who once existed.” Also, Ardyn is the chancellor because of his role as the villain. That’s kind of the chancellor image.
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q166 — ffxv_part3_clean.txt:15
+### Q166
 > Ignis’s resolve forces a reconciliation between Noctis and Gladiolus and restores harmony to the group. With renewed vigor, the four friends reboard the train and head for Tenebrae, home of the late Lady Lunafreya.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q167 — ffxv_part3_clean.txt:18
+### Q167
 > [Noct and Ignis sit at a table in the dining car of the train]
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q168 — ffxv_part3_clean.txt:20
+### Q168
 > Noct: Sure does.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q169 — ffxv_part3_clean.txt:22
+### Q169
 > Noct: If they’ll let me.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q170 — ffxv_part3_clean.txt:24
+### Q170
 > Noct: She’d get more thanks if she gave us a discount.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q171 — ffxv_part3_clean.txt:26
+### Q171
 > Noct: I’m just glad you’re alive.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q172 — ffxv_part3_clean.txt:27
+### Q172
 > [Noct makes a startled sound and leans into the aisle slightly to look past Ignis]
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q173 — ffxv_part3_clean.txt:29
+### Q173
 > Noct: Gladio—he just came back. Where did he go anyway?
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q174 — ffxv_part3_clean.txt:31
+### Q174
 > [Gladio walks up to their table]
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q175 — ffxv_part3_clean.txt:32
+### Q175
 > Gladio: Hey captain, mission complete.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q176 — ffxv_part3_clean.txt:34
+### Q176
 > Noct: So what “caught your ear”?
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q177 — ffxv_part3_clean.txt:36
+### Q177
 > Gladio: They’ve been growing longer, day by day.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q178 — ffxv_part3_clean.txt:38
+### Q178
 > Noct: There won’t be daylight.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q179 — ffxv_part3_clean.txt:39
+### Q179
 > Gladio: Well, it’s not out of the question. The empire’s already slain half of the Six. No wonder the whole world’s in disarray.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q180 — ffxv_part3_clean.txt:40
+### Q180
 > Noct: I…guess.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q181 — ffxv_part3_clean.txt:42
+### Q181
 > Gladio: Seen that with our own eyes.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q182 — ffxv_part3_clean.txt:44
+### Q182
 > Gladio: So he sent yours truly to seek ’em out.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q183 — ffxv_part3_clean.txt:45
+### Q183
 > Noct: Nice police work.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q184 — ffxv_part3_clean.txt:46
+### Q184
 > Gladio: Well, don’t wanna keep ’em waiting.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q185 — ffxv_part3_clean.txt:48
+### Q185
 > Noct: Sure.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q186 — ffxv_part3_clean.txt:49
+### Q186
 > [Noct sits in silence for a moment looking out the window; as the train begins to pass a snowy mountain range covered in mist, Prompto comes running by, then tries to stop and slips when he realizes he’s passing Noctis]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q187 — ffxv_part3_clean.txt:50
+### Q187
 > Prompto: Whoa! There you are, buddy! Did you see this? It’s unreal!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q188 — ffxv_part3_clean.txt:51
+### Q188
 > Noct: Yeah. Never seen anything like it. Doesn’t make any sense.
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q189 — ffxv_part3_clean.txt:52
+### Q189
 > [Noct looks around the dining car and suddenly realizes that no one else is moving; everything is blanketed in grey and everyone is frozen in place; Prompto is missing; Noctis stands]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q190 — ffxv_part3_clean.txt:53
+### Q190
 > Noctis: What’s going on?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q191 — ffxv_part3_clean.txt:54
+### Q191
 > [Noctis suddenly hears Ardyn’s voice behind him]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q192 — ffxv_part3_clean.txt:55
+### Q192
 > Ardyn: It’s a real mystery.
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q193 — ffxv_part3_clean.txt:56
+### Q193
 > [Noct turns to find Ardyn standing in the dining car]
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q194 — ffxv_part3_clean.txt:57
+### Q194
 > Ardyn: I’m not liking that snow cloud. Kind of gives me the chills. Like, who comes up with this stuff? I couldn’t dream something like this if I tried. It’s a wondrous world.
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q195 — ffxv_part3_clean.txt:58
+### Q195
 > Noctis: The hell are you doing here!?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q196 — ffxv_part3_clean.txt:59
+### Q196
 > [Noctis springs to punch Ardyn in the face, but he dodges]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q197 — ffxv_part3_clean.txt:60
+### Q197
 > Ardyn: Whoa, what’s going on!? Easy there, buddy. Didn’t see that coming. You alright?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q198 — ffxv_part3_clean.txt:61
+### Q198
 > [Noct conjures a sword and swings it at Ardyn, who steps back just out of range]
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q199 — ffxv_part3_clean.txt:62
+### Q199
 > Noctis: Shut up!
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q200 — ffxv_part3_clean.txt:63
+### Q200
 > Ardyn: Be careful there! Wait—is this for real?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q201 — ffxv_part3_clean.txt:64
+### Q201
 > [“Ardyn” begins to run away; Noctis pursues him into the cabin car; Ardyn runs into one of the cabins and shuts the door; Noctis jerks the door open]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q202 — ffxv_part3_clean.txt:65
+### Q202
 > Noctis: Show yourself!
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q203 — ffxv_part3_clean.txt:66
+### Q203
 > [Suddenly, Ardyn leaves over from behind Noctis]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q204 — ffxv_part3_clean.txt:67
+### Q204
 > Ardyn: Uh…Noct?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q205 — ffxv_part3_clean.txt:68
+### Q205
 > [Noctis swings around with his fist, hitting nothing but air; Ardyn has vanished again]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q206 — ffxv_part3_clean.txt:69
+### Q206
 > Noctis: That son of a bitch…
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q207 — ffxv_part3_clean.txt:70
+### Q207
 > [Noctis runs to the next car, where he sees Ardyn backing away]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q208 — ffxv_part3_clean.txt:71
+### Q208
 > Ardyn: C’mon, Noct. You’re scaring me! Seriously, man, cut it out!
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q209 — ffxv_part3_clean.txt:72
+### Q209
 > [Ardyn passes to the next car, where Noctis continues to doggedly pursue him]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q210 — ffxv_part3_clean.txt:73
+### Q210
 > Ardyn: It’s not safe. Plus, you’re causing a scene. Quit playing around, okay?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q211 — ffxv_part3_clean.txt:74
+### Q211
 > [Noctis catches up to him and conjures a sword once again, which he immediately takes swing with, attempting to bisect Ardyn horizontally]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q212 — ffxv_part3_clean.txt:75
+### Q212
 > Noctis: You think this is funny!?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q213 — ffxv_part3_clean.txt:76
+### Q213
 > [Ardyn ducks the blade, then quickly scrambles to his feet, and runs toward the next car]
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q214 — ffxv_part3_clean.txt:77
+### Q214
 > Ardyn: Dude, are you seriously trying to kill me!?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q215 — ffxv_part3_clean.txt:78
+### Q215
 > [Noctis follows him into the space between these two cars]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q216 — ffxv_part3_clean.txt:79
+### Q216
 > Noctis: Why wouldn’t I!? I’ve got you now.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q217 — ffxv_part3_clean.txt:80
+### Q217
 > [Ardyn is barely able to stand, so out of breath is he; he’s holding one hand out, trying to convince Noctis to stop]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q218 — ffxv_part3_clean.txt:81
+### Q218
 > Noctis: What’re you after, following me around this whole time? It’s all YOUR fault—
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q219 — ffxv_part3_clean.txt:82
+### Q219
 > [Noctis puts his elbow against Ardyn’s neck and shoves him against the door to the next car]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q220 — ffxv_part3_clean.txt:83
+### Q220
 > Ardyn: What are you talking about? Do you really mean that, Noct?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q221 — ffxv_part3_clean.txt:88
+### Q221
 > Noctis: Of course I do! You can’t talk your way out of this!
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q222 — ffxv_part3_clean.txt:89
+### Q222
 > Ardyn: You won’t even let me! Noct, please. Can’t we talk for a sec?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q223 — ffxv_part3_clean.txt:90
+### Q223
 > Noctis: Never.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q224 — ffxv_part3_clean.txt:94
+### Q224
 > Noctis: What—are you saying it’s not?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q225 — ffxv_part3_clean.txt:95
+### Q225
 > Ardyn: Yes! What good would it do me to hurt you!?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q226 — ffxv_part3_clean.txt:96
+### Q226
 > Noctis: Who cares!?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q227 — ffxv_part3_clean.txt:97
+### Q227
 > Ardyn: Noct, please. Can’t we talk for a sec?
 - **Contribution to dossier:** Adversarial pressure/instability evidence.
-
-### Q228 — ffxv_part3_clean.txt:98
+### Q228
 > Noctis: Never.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q229 — ffxv_part3_clean.txt:101
+### Q229
 > [Suddenly, Noctis is thrown violently to the floor as the train’s brakes bring it to a screeching halt]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q230 — ffxv_part3_clean.txt:102
+### Q230
 > [Note: The reason “Ardyn” is talking like Prompto throughout this scene is because the person Noct sees as Ardyn actually is Prompto; Ardyn is using his powers to swap appearances with Prompto, which continues into the next scene where Noctis thinks he’s now talking to Prompto but is actually speaking with Ardyn]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q231 — ffxv_part3_clean.txt:105
+### Q231
 > The deserts of the western continent have long been littered with imperial armories and outposts. The slaying of the Glacian, however, gave birth to a paradoxical phenomenon: snow fields and sand dunes coexisting mere miles apart. Noctis and his friends would be wise to flee this treacherous terrain posthaste.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q232 — ffxv_part3_clean.txt:107
+### Q232
 > [Noct comes to on the floor with “Prompto” awakening him]
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-
-### Q233 — ffxv_part3_clean.txt:108
+### Q233
 > Prompto: Noct! Are you okay?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q234 — ffxv_part3_clean.txt:109
+### Q234
 > Noctis: No. Where’s Ardyn?
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q235 — ffxv_part3_clean.txt:110
+### Q235
 > Prompto: Wait—he’s here? If he is, that would explain all this weird stuff happening. I bet he’s behind the train stopping. Ignis and Gladio went up to inspect the engine room. I say the two of us go check out the rear.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q236 — ffxv_part3_clean.txt:111
+### Q236
 > Noctis: Yeah.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q237 — ffxv_part3_clean.txt:112
+### Q237
 > [Not runs back the way he had come while in pursuit of “Ardyn”; in the car before the cabin car, the train suddenly shakes and windows shatter all around; Noctis falls to the floor, but quickly gets back up]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q238 — ffxv_part3_clean.txt:113
+### Q238
 > Prompto: Did they bomb us!? Noct, we have to protect the people!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q239 — ffxv_part3_clean.txt:114
+### Q239
 > [Noctis runs onward into the cabin car, where a magitek trooper jumps through the glass and pursues several people; the civilians run past “Prompto” and Noctis]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q240 — ffxv_part3_clean.txt:115
+### Q240
 > Prompto: Head to the next car!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q241 — ffxv_part3_clean.txt:116
+### Q241
 > Noctis: Leave these guys to us!
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q242 — ffxv_part3_clean.txt:117
+### Q242
 > [Noctis destroys the magitek trooper]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q243 — ffxv_part3_clean.txt:118
+### Q243
 > Prompto: So much for a safe ride. More of ’em might be on board. Let’s check the rear!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q244 — ffxv_part3_clean.txt:119
+### Q244
 > Noctis: We need to get the train moving again.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q245 — ffxv_part3_clean.txt:120
+### Q245
 > Prompto: I’m sure Ignis and Gladio will come up with something.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q246 — ffxv_part3_clean.txt:121
+### Q246
 > Noctis: Hope so. Let’s go.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q247 — ffxv_part3_clean.txt:122
+### Q247
 > [Noctis runs onward, moving through the dining car]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q248 — ffxv_part3_clean.txt:123
+### Q248
 > Prompto: How bad do you think it is? Hope nobody got hurt.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q249 — ffxv_part3_clean.txt:124
+### Q249
 > [Noctis continues on through another cabin car, where the glass all shatters as yet another violent shake rocks the train; when he reaches the car past the passenger car after that, he’s thrown back by an explosion that takes out the side of the car;
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q250 — ffxv_part3_clean.txt:125
+### Q250
 > Noctis: It blew up!
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q251 — ffxv_part3_clean.txt:126
+### Q251
 > Prompto: Man, the MTs can self-destruct.
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q252 — ffxv_part3_clean.txt:127
+### Q252
 > [A multitude of magitek troopers are visible through the twisted wreckage; they’re either firing upon the train or trying to reach it]
 - **Contribution to dossier:** Chronology placement evidence for life-stage sequencing.
-
-### Q253 — ffxv_part3_clean.txt:128
+### Q253
 > Noctis: We can’t let them inside.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q254 — ffxv_part3_clean.txt:129
+### Q254
 > Prompto: Well then! We take the fight to them!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q255 — ffxv_part3_clean.txt:133
+### Q255
 > [Noctis and Prompto head outside through the hole created when the side of the train car was blown open; visible in the distance is a massive pyramid-shaped flying fortress; many smaller imperial drop ships are emerging from the fortress and flying toward the train]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q256 — ffxv_part3_clean.txt:134
+### Q256
 > Prompto: That thing’s huge! We’ve got company!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q257 — ffxv_part3_clean.txt:135
+### Q257
 > Noctis: Sure do.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q258 — ffxv_part3_clean.txt:136
+### Q258
 > Prompto: Let the party begin!
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-
-### Q259 — ffxv_part3_clean.txt:137
+### Q259
 > [“Prompto” and Noctis begin dismantling the magitek troopers]
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
-### Q260 — ffxv_part3_clean.txt:138
+### Q260
 > Noctis: It’s us against an army…
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-
 ## Source extracts used
-`ffxv_part1_clean.txt`, `ffxv_part2_clean.txt`, `ffxv_part3_clean.txt`, `ffxv_part4_clean.txt`, `ffxv_misc_clean.txt`, `ffxv_ultimania_clean.txt`.
+(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

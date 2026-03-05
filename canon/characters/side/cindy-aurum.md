@@ -2,25 +2,25 @@
 ## Analysis Dossier (minimum 200 lines)
 
 ## Appearance
-This dossier now restricts appearance notes to defensible information. Only directly attested physical or presentation details should be treated as canon inferences; unsupported specifics are intentionally left unspecified.
+Cindy is introduced at Hammerhead as a young mechanic approaching the Regalia work area, and the staging emphasizes her confidence in that space. Her presentation is consistently tied to garage work and customer-facing interactions rather than combat or courtly settings.
 
 ## Biography (chronological)
-The chronology for this character should be reconstructed from the quote section below in source order. If a timeline point is ambiguous or scene-dependent, it is treated as uncertain rather than forced into a definitive sequence.
+Cindy first appears when the party reaches Hammerhead with the disabled Regalia. She identifies Noctis, congratulates him on the upcoming wedding, introduces herself as Cid's granddaughter, and helps route the group through the repair process while Cid oversees the restoration. Across later encounters, she remains the recurring point of contact for Regalia upgrades, parts-related tasks, and regional travel support.
 
 ## Personality
-Personality conclusions should be derived from repeated behavior and direct dialogue patterns in the evidence block, not from single isolated lines.
+Her dialogue shows upbeat, proactive hospitality ("Hey there, y’all kept a girl waitin’!"), quick social read of newcomers, and practical focus on getting work done. She balances friendliness with directness, especially when coordinating around Cid's expectations and the party's immediate vehicle needs.
 
 ## Voice
-Voice notes should rely on recurring diction, register, and address style visible in quoted speech.
+Cindy speaks in a warm, colloquial register with regional contractions ("y’all," "Paw-paw") and brisk service-oriented phrasing. Her speech rhythm is informal but task-focused, matching her role as both mechanic and front-facing coordinator at Hammerhead.
 
 ## Relationships
-Relationship characterization should be grounded in explicit interactions and repeated stance indicators from the quotes.
+She is explicitly framed as Cid's granddaughter and works in close day-to-day coordination with him. With Noctis and his companions, she takes a helpful ally role: greeting them, contextualizing local expectations, and guiding repair/travel follow-through tied to the Regalia.
 
 ## Skills and abilities
-Skills listed for this character should map to directly evidenced actions, role labels, or formal duties present in the corpus excerpts.
+The evidence supports her as an experienced auto-service specialist centered on Regalia maintenance logistics, upgrade facilitation, and workshop coordination. Her demonstrated strengths are mechanical support workflow, customer handoff, and operational knowledge of routes/parts tied to road travel.
 
 ## Likes and dislikes
-Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
+Cindy consistently favors practical progress—getting the car in, repaired, and back on the road—and responds positively to cooperative follow-through. She appears to dislike delays and avoidable holdups that interfere with garage work cadence.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
 ### Quote 1

@@ -1245,5 +1245,3 @@ He is usually seen in fitted, tailored attire consistent with a strategist-retai
 ### Q260
 > Prompto: How’s that now?
 - **Contribution to dossier:** Voice and speaking-pattern evidence.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

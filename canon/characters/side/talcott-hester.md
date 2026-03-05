@@ -122,20 +122,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 33
 - Direct quote: "Jared: Talcott is ever outgoing, and he readily mingles with the locals."
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 34
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 35
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 36
 - Direct quote: "(speaking to Talcott before departing)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "Talcott: I’m sure the sword’s there. I’m sorry if it isn’t."
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 38
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 39
 - Direct quote: "(speaking to Talcott again)"
@@ -143,29 +134,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 40
 - Direct quote: "Talcott: Everybody here knows the legend, even grown-ups!"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 41
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 42
 - Direct quote: "(speaking to Talcott once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 43
 - Direct quote: "Talcott: Maybe you’ll find some cool treasure."
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 44
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 45
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 46
 - Direct quote: "(discussing Talcott while walking about Lestallum after he tells the Chocobros of the local legend of a sword behind a waterfall)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "Ignis: Certainly not your average little boy."
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 48
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 49
 - Direct quote: "(discussing Talcott further)"
@@ -188,17 +167,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 55
 - Direct quote: "[Note: This dialogue will not play if the player makes the journey to the tomb prior to meeting Jared and Talcott]"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 56
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 57
 - Direct quote: "Gladiolus: Let’s make our way back to Lestallum."
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "Prompto: Yeah, gotta report to Talcott."
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 59
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 60
 - Direct quote: "(as Noctis and his retinue return to the Leville in Lestallum after acquiring the Swords of the Wanderer)"
@@ -296,14 +269,8 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 91
 - Direct quote: "Talcott: Prince Noctis! Hey! Our house is over here! Right this way!"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 92
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 93
 - Direct quote: "Jared Hester"
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 94
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 95
 - Direct quote: "(speaking with Iris at the porch before speaking with Talcott)"
@@ -338,26 +305,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 105
 - Direct quote: "Talcott: I heard the Regalia’s going on the boat with you!"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 106
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "(speaking with Talcott again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "Talcott: You didn’t forget to pack anything, did you?"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 109
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 110
 - Direct quote: "(speaking with Talcott yet again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "Talcott: Have a safe trip, Prince Noctis."
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 112
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 113
 - Direct quote: "(speaking with Talcott once more)"
@@ -385,9 +343,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 121
 - Direct quote: "[Talcott and Iris wave goodbye; Noctis waves back]"
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 122
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 123
 - Direct quote: "Lunafreya: For slowly, but surely, the Light fades from our world. And as it does, the shadows shall loom ever longer until all succumbs to the darkness. Darkness that evokes terror, hatred, and sorrow in the hearts of men. The ashes of Lucis… A dream of peace twisted into a nightmare of death and destruction, claiming innumberable lives and leaving myriad souls to suffer."
@@ -626,12 +581,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 201
 - Direct quote: "Talcott: I suppose you’re right, Your Majesty. Thank you."
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 202
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 203
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 204
 - Direct quote: "(speaking with Talcott)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
@@ -644,20 +593,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 207
 - Direct quote: "Talcott: I started looking in Grandpa’s notebook, and here’s what I found. It said there’s a legend about the mountain, and that’s all he wrote. Oh! But y’know what else? He drew a picture of a turtle. Not only was Grandpa smart, but he was a good drawer."
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 208
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 209
 - Direct quote: "(after leaving the Crow’s Nest and speaking with Dustin and Monica near Longwythe Peak)"
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 210
 - Direct quote: "Dustin: The cause of the quakes? Ah, I’m afraid I must direct you to Monica. I’m simply here to look out for Lady Iris and young Talcott. And that’s all I have to say. Apologies for not being of help."
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 211
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 212
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Talcott Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 213
 - Direct quote: "(speaking with Talcott)"

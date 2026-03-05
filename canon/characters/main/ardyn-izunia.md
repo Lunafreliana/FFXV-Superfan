@@ -1237,5 +1237,3 @@ Primary visual markers are layered aristocratic-dark clothing, hat/accessory-hea
 ### Q260
 > Verstael: Fall to your knees before me!
 - **Contribution to dossier:** Characterization, behavior, or context evidence supporting dossier analysis.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

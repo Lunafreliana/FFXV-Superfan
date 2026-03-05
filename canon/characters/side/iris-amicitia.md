@@ -119,9 +119,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 32
 - Direct quote: "Gladio: Serious? …Well, I suppose Iris is already safe in town. Alright then, you do what you gotta."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 33
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 34
 - Direct quote: "[Gladio’s phone rings and he answers]"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -142,12 +139,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "Iris: Hey!"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 41
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 42
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 43
 - Direct quote: "[Noct and his retinue arrive at the Leville Hotel in Lestallum; while they stand in the lobby, Iris comes down the stairs]"
@@ -221,12 +212,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 66
 - Direct quote: "Iris: Yeah, well, get a good night’s rest."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 67
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 68
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 69
 - Direct quote: "[Iris is waiting for Noct when the lobby he gets up]"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -266,26 +251,14 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 81
 - Direct quote: "Iris: Yes, that’s exactly right. C’mon, I’ll show you around!"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 82
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 83
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "Iris: For our first stop, we’ll check out the marketplace. Follow me, right this way."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 85
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "(along the way)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 87
 - Direct quote: "Iris: It’s even more beautiful out here at night."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 88
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 89
 - Direct quote: "(after following Iris to the marketplace)"
@@ -314,9 +287,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 97
 - Direct quote: "Earned 250 EXP."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 98
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 99
 - Direct quote: "(while following Iris around the marketplace)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -329,17 +299,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 102
 - Direct quote: "Iris: Done! Next, we’re gonna see the power plant."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 103
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 104
 - Direct quote: "(outside the power plant)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "Iris: That’s the power plant, the driving force behind Lestallum’s prosperity. But get this: only women work there. As a matter of fact, women are the ones who do all the work in this town."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 106
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "Noct: Sounds like your kind of place. I can see you doing well here."
@@ -359,23 +323,14 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 112
 - Direct quote: "Earned 2 AP."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 113
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 114
 - Direct quote: "Iris: Alright! Next, we’re going to the outlook!"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 115
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 116
 - Direct quote: "(along the way)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "Iris: I’m a city girl, but I dig the rustic charm."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 118
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 119
 - Direct quote: "(as they pass a restaurant near the main thoroughfare)"
@@ -407,9 +362,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 128
 - Direct quote: "Iris: Y’know, Noct, this almost feels like a date."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 129
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 130
 - Direct quote: "[Noctis waves his hand, as if waving the suggestion away]"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -437,9 +389,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 138
 - Direct quote: "Iris: The others are probably back at the hotel by now. Let’s join them."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 139
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "(back in the courtyard outside the Leville)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -448,12 +397,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "[A prompt appears to select either “Agree with Iris,” “Make light of the subject” or “Change the subject”]"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 143
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 144
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 145
 - Direct quote: "Agree with Iris"
@@ -485,17 +428,8 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 154
 - Direct quote: "Elixir x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 155
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 156
 - Direct quote: "Iris: Anyway, the thing I bought today… It’s for you. But! It’s a surprise, so you’re gonna have to wait."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 157
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 158
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 159
 - Direct quote: "(speaking to Iris before leaving)"
@@ -503,26 +437,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 160
 - Direct quote: "Iris: This sounds dangerous. Will the four of you be alright?"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 161
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 162
 - Direct quote: "(speaking to Iris again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 163
 - Direct quote: "Iris: Be on the lookout for daemons. They like dark places, after all."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 164
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 165
 - Direct quote: "(speaking to Iris once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 166
 - Direct quote: "Iris: If there’s trouble, use Gladdy as a meat shield."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 167
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 168
 - Direct quote: "(while exploring)"
@@ -557,17 +482,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 178
 - Direct quote: "Gladio: He’ll be fine. Don’t worry."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 179
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 180
 - Direct quote: "(speaking with Iris once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 181
 - Direct quote: "Iris: Are you sure you’re okay?"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 182
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 183
 - Direct quote: "Noctis: I couldn’t forget it if I tried. What about it?"
@@ -614,9 +533,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 197
 - Direct quote: "Ignis: Judging by the timing of her visit, she probably set course for the Archaean as soon as she fled the Crown City."
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 198
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 199
 - Direct quote: "[When the Chocobros return to the Leville Hotel in Lestallum, they find Iris waiting for them in the lobby]"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -662,9 +578,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 213
 - Direct quote: "Share this article"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 214
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 215
 - Direct quote: "[Noct and the others meet up with Iris at the Coernix Station in Lestallum, where she awaits them beside the Regalia]"
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
@@ -673,9 +586,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 217
 - Direct quote: "Gladiolus: Thanks."
-- Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
-### Quote 218
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Iris Amicitia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 219
 - Direct quote: "(speaking with Iris)"

@@ -62,9 +62,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 13
 - Direct quote: "provided are correct, though, this could solve all our problems. The Deathless Project marks the advent of a new age. No longer will our soldiers fall on the field of battle. The empire shall rise, and soon, all the world shall bask in our glory!"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
-### Quote 14
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 15
 - Direct quote: "[Ardyn continues taking steps back]"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
@@ -154,9 +151,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 44
 - Direct quote: "Chief of Magitek Research"
-- Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
-### Quote 45
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 46
 - Direct quote: "[Prompto enters the room where he saw Ardyn and Verstael with his weapon raised; only Verstael is here now, his back turned away from Prompto]"
@@ -256,9 +250,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "Aranea: This one’s got a ghost in the machine: Chief Besithia himself. Managed to fuse his soul with the core."
-- Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "M.E. 745-XI-22nd"
@@ -542,9 +533,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 173
 - Direct quote: "provided are correct, though, this could solve all our problems. The Deathless Project marks the advent of a new age. No longer will our soldiers fall on the field of battle. The empire shall rise, and soon, all the world shall bask in our glory!"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
-### Quote 174
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 175
 - Direct quote: "[Ardyn continues taking steps back]"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
@@ -634,9 +622,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 204
 - Direct quote: "Chief of Magitek Research"
-- Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
-### Quote 205
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Verstael Besithia, especially role behavior, relationship stance, or timeline placement.
 ### Quote 206
 - Direct quote: "[Prompto enters the room where he saw Ardyn and Verstael with his weapon raised; only Verstael is here now, his back turned away from Prompto]"

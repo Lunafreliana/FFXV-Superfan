@@ -32,9 +32,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 3
 - Direct quote: "Ardyn: I’m not one to stand on ceremony, but such an occasion calls for an introduction. Please, call me “Ardyn.” Come with me to the car park. That’s where I left my automobile. She’s a dear old thing. Pales next to your Regalia, but she’s never let me down. So we take two vehicles—a convoy of sorts. Shall we?"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 4
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 5
 - Direct quote: "(upon arriving at Ardyn’s car)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -52,12 +49,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 10
 - Direct quote: "[A prompt appears to select either “Take the wheel,” “Ride with Ardyn,” “Leave it to Ignis,” or “Drive Ardyn’s car”]"
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 11
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 12
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 13
 - Direct quote: "Ride with Ardyn"
@@ -83,9 +74,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 20
 - Direct quote: "Ignis earned 1,000 EXP."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 21
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 22
 - Direct quote: "Drive Ardyn’s car"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -101,9 +89,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 26
 - Direct quote: "Earned 1 AP and 100 EXP."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "Ardyn: You drive your car, and I drive mine. With that decided, let us be off."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -112,12 +97,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 30
 - Direct quote: "As the land is rocked by tremors, Noctis is wracked with headaches. The self-styled ‘Man of No Consequence’ advises the would-be King to go and heed the Archaean’s call. Though loath to believe a suspicious stranger, the four friends nevertheless find themselves with no recourse but to follow Ardyn to the Disc of Cauthess, where Titan is said to slumber."
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 31
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 32
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 33
 - Direct quote: "[The scene opens on Ardyn’s car and the Regalia sitting side by side on the road outside Lestallum; Ardyn is in his car, the Chocobros are in the Regalia]"
@@ -146,26 +125,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 41
 - Direct quote: "Noctis: Don’t really have one—he’s nothing more than a creepy old dude to me."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 42
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 43
 - Direct quote: "(continuing to follow Ardyn)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 44
 - Direct quote: "Ignis: Noct, how are the headaches?"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 45
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 46
 - Direct quote: "(continuing to follow Ardyn)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "Gladiolus: So, any havens along the way?"
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 48
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 49
 - Direct quote: "(Ardyn stops at the Cauthess Coernix Station; the Chocobros do likewise)"
@@ -187,9 +157,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "with Ardyn"
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 56
-- Direct quote: "."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 57
 - Direct quote: "Gladiolus: Might as well get the tent up."
@@ -218,20 +185,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 65
 - Direct quote: "Noctis: Er, what?"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "(upon entering the station store if the player chose to rest and tally EXP when Ardyn suggested spending the night)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 68
 - Direct quote: "Ardyn: Good morning to you!"
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 69
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 70
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 71
 - Direct quote: "(when speaking to Ardyn inside the station store)"
@@ -248,26 +206,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 75
 - Direct quote: "Gladiolus: Whoever thought of tapping into the Meteor’s power was a genius."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 76
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 77
 - Direct quote: "(still following Ardyn)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "Ignis: So you know, it’s hot where we’re going. Will the camera fare alright?"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "(while still following Ardyn)"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 81
 - Direct quote: "Prompto: Hey, Iggy. Can your glasses take the heat?"
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 82
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 83
 - Direct quote: "(and still following Ardyn)"
@@ -314,9 +263,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 97
 - Direct quote: "Ardyn: I drop you at the Archaean’s open door, and with that, bid you farewell."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 98
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 99
 - Direct quote: "Ignis: The empire! Now?"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -359,9 +305,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 112
 - Direct quote: "As Cauthess crumbles, the imperial chancellor swoops in to usher the four friends to safety, but their reprieve is only temporary, as Duscae’s skies tell of trouble on the horizon. With the Regalia missing and the roads closed, the four friends find themselves stranded."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 113
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 114
 - Direct quote: "[The screen is black]"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -403,9 +346,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 127
 - Direct quote: "Ardyn: Here’s hoping you find that car of yours."
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 128
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 129
 - Direct quote: "The Regalia and all related features are unavailable until the car is found."
@@ -494,9 +434,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 157
 - Direct quote: "Noctis: Can’t complain as long as he lets us in."
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 158
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 159
 - Direct quote: "[Noct and the others eventually park the Regalia near the Vesperpool and head into the nearby swampland in search of the ruins they heard about; as they come near the ruins, they find Ardyn waiting for them]"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -569,9 +506,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 182
 - Direct quote: "[Ardyn walks a few feet back toward Noct and his friends]"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 183
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 184
 - Direct quote: "[*optional dialogue*]"
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
@@ -580,9 +514,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 186
 - Direct quote: "Ardyn: Alas, the ever-wary military—they’ll not abide visitors left unattended. I must prevail upon you to accept an escort. I’ve seen to everything."
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 187
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 188
 - Direct quote: "(speaking with Ardyn once more)"
@@ -610,9 +541,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 196
 - Direct quote: "Aranea: The emperor and new high commander, for starters. Then there’s that charmer of a chancellor. I really can’t stand that guy."
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 197
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 198
 - Direct quote: "Yureil Plaza, Altissia"
@@ -661,9 +589,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 213
 - Direct quote: "Ardyn: I know the price of the covenant."
-- Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
-### Quote 214
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Chancellor Ardyn, especially role behavior, relationship stance, or timeline placement.
 ### Quote 215
 - Direct quote: "Ignis: I cannot say for sure, but I have my doubts. Ravus wears the sword, yet does not wield it."

@@ -1244,5 +1244,3 @@ His look is consistently “frontline protector”: broad frame, open/ready stan
 ### Q260
 > Noctis: Yeah…there was.
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

@@ -161,17 +161,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 46
 - Direct quote: "Ignis: Ravus Nox Fleuret, first son of Tenebrae…and elder brother to Lady Lunafreya."
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 47
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 48
 - Direct quote: "Ignis: Certainly formidable enough on his own."
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 49
 - Direct quote: "Noctis: If Ravus wants power, I’ll give him a taste."
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 50
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 51
 - Direct quote: "Man: It’s weird. Ravus has a sword, but doesn’t use it."
@@ -251,20 +245,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 76
 - Direct quote: "Gladio: For all his newfound powers, he’s still the chancellor’s lapdog… …holding on to the enemy king’s sword like some badge of honor."
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 77
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "(overhearing a conversation about Ravus)"
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "(overhearing another conversation about Ravus)"
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 81
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 82
 - Direct quote: "(overhearing yet another conversation about Ravus)"
@@ -368,17 +353,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 115
 - Direct quote: "Gladio: Should be, as long as Ravus has it on his person. Just hope the chancellor isn’t awaiting us, too. Still can’t believe House Fleuret has reached the end of its family line."
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "(speaking with an elderly man beside the train)"
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 118
 - Direct quote: "Old Man: The empire has declared Lord Ravus a traitor and sentenced him to death. I believe the attack on the manor was further punishment."
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 119
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 120
 - Direct quote: "Gentiana: O King of Kings, restore Light unto the world."
@@ -416,17 +395,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 131
 - Direct quote: "[Lunafreya turns and shouts back at her brother]"
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 132
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 133
 - Direct quote: "[Noctis comes to laying on his back at the bottom of the Keep’s central shaft, surrounded by debris and the bodies of human imperial troopers; he slowly gets to his feet; as he takes a few steps, Noct comes upon Ravus’s body, unceremoniously left here at the bottom level of Zegnautus Keep; as rumored, the last of the Oracle’s bloodline is indeed deceased, his severed magitek arm still clinging to the haft of King Regis’s glaive; the blade stands impaled in the floor beside Ravus’s corpse; Noctis gazes at Luna’s brother in silent sadness; after a moment, he reaches out toward the haft of his father’s sword; at his touch, Ravus’s severed arm falls to land on the first son of Tenebrae’s chest; Noct pulls his hand back from the weapon, taking a moment to first kneel beside Ravus and look upon his face a final time; finally, Noctis stands, takes grasp of his father’s royal arm, and pulls it free]"
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 134
 - Direct quote: "Sword of the Father x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 135
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 136
 - Direct quote: "(when examining Ravus’s body)"
@@ -448,9 +421,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "Prompto: Or what’s left of him…"
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 143
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 144
 - Direct quote: "(when Ravus’s body has been defeated)"
@@ -548,12 +518,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 175
 - Direct quote: "Gladiolus: Let’s move. If that’s what he did to Ravus, there’s no telling what he’ll do to Noct."
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 176
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 177
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 178
 - Direct quote: "(when making some selections; e.g. a picture of Vyv, Ravus, Sania, Dave or Camelia)"
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
@@ -565,9 +529,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 181
 - Direct quote: "After suffering a humbling defeat at the hands of Ravus, Gladiolus embarks on a journey of self-discovery. His destination: the Tempering Grounds, where he seeks to undertake a trial of body and mind that has heretofore afforded but a sole survivor."
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 182
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 183
 - Direct quote: "(as the battle ends)"
@@ -598,9 +559,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 192
 - Direct quote: "Deputy High Commander Ravus Nox Fleuret"
-- Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
-### Quote 193
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Ravus Nox Fleuret, especially role behavior, relationship stance, or timeline placement.
 ### Quote 194
 - Direct quote: "For centuries, the sacred magic of the divine Crystal blessed our world and its people. But in time, the promise of its power brought war to our lands. Lucis, a peaceful kingdom of great magic kept safe by the power of the Crystal. And Niflheim, a military empire of vast machinery made strong by the might of its magitek. Long has war raged between the two. As the years passed, Niflheim marched on nearby nations, driven by its unsurpassed technology. To defend itself, Lucis raised a magical wall, the strength of which comes from the Crystal itself. Insomnia alone, the Crown City and last bastion of Lucian defense, remained beyond Niflheim reach for many years. Amid the escalating war, Prince Noctis of Lucis had come to Tenebrae to seek healing for a grievous injury. He made the long journey together with his father, King Regis. Mother, brother, and I, the royalty of Tenebrae, had all welcomed their visit. It was then that the fires came, everywhere and all at once. In a mere instant, the whole of Tenebrae was ablaze. The Niflheim attack was an attempt on the lives of the visiting Lucian royalty. From that day until this day, Tenebrae has been gripped in the iron fist of Niflheim, sworn enemy of Lucis. King Regis assembles a force of mighty warriors to combat the imperial menace. Dubbed the Kingsglaive, they fight relentlessly against Niflheim, empowered by the magic of their sovereign."

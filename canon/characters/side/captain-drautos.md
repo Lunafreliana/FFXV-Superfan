@@ -63,7 +63,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 14
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 15
 - Direct quote: "Titus Drautos"
@@ -111,7 +111,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 30
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "Titus Drautos"
@@ -159,7 +159,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 46
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "Titus Drautos"
@@ -207,7 +207,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 62
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "Titus Drautos"
@@ -255,7 +255,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 79
 - Direct quote: "Titus Drautos"
@@ -303,7 +303,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 94
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 95
 - Direct quote: "Titus Drautos"
@@ -351,7 +351,7 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 110
-- Direct quote: "The marshal who commands the Crownsguard. He grew up in an ordinary, humble home in the Crown City, Insomnia, and has accumulated abundant combat experience going back to his youth."
+- Direct quote: "Captain of the Kingdom of Lucis, he commands the Kingsglaive. He has personally given Nyx combat training, and could be said to be a mentor to him."
 - Why it matters: This line anchors one or more claims in the analysis section for Captain Titus Drautos, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "Titus Drautos"

@@ -98,26 +98,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 25
 - Direct quote: "Dave: I’ve been huntin’ for years, but I ain’t never seen dualhorns with blood-red tusks like those."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 26
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 27
 - Direct quote: "(speaking to Dave yet again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "Dave: Wonder if the nights growin’ longer’s got anything to do with ’em showin’ up outta the blue…"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 29
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 30
 - Direct quote: "(speaking to Dave once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "Dave: Well, whatever it is, we oughta take it out before it can spawn any more like it."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 32
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 33
 - Direct quote: "Noctis: Hello?"
@@ -127,9 +118,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 35
 - Direct quote: "Noctis: ‘Kay."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "(speaking with Dave nearby)"
@@ -161,9 +149,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 46
 - Direct quote: "Prompto: What—in case you forgot who you are?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 47
-- Direct quote: "."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 48
 - Direct quote: "Dave: Hunters lead a life of danger, and sometimes these tags are the only thing that makes it back in one piece. It’s our job to deliver ’em to the families of the fallen. As it were, I came out here to do just that. If y’all happen to find any tags lyin’ around out there, could ya do me a favor and send ’em my way?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
@@ -173,17 +158,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 50
 - Direct quote: "Dave: Word is somebody spotted a tag ’round these parts. Try askin’ the local tipster; he’ll point ya in the right direction."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 51
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 52
 - Direct quote: "(speaking with Dave again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 53
 - Direct quote: "Dave: Like I always tell my hunters, “Knowledge is power that’ll save your ass.” Stay informed. Might save your ass someday, too."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "(speaking with Dave again)"
@@ -191,29 +170,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 56
 - Direct quote: "Dave: Never got a chance to properly express my gratitude for the other day. Thanks for bailin’ me outta there."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 57
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "(speaking with Dave once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 59
 - Direct quote: "Dave: Lotta folks think they gotta be tough to be the best hunter, but the best hunters are the ones who know when they ain’t tough enough."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 60
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "Gladiolus: There’s no point in holding onto something that ain’t ours."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 62
 - Direct quote: "Noctis: Yeah, let’s deliver it to Dave."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 63
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 64
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "(completing the “Gone Hunting” quest after returning the tag to Dave)"
@@ -232,9 +199,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 70
 - Direct quote: "Dave: That’s why I tell all my hunters to collect any tag they see—and I expect you boys to go out and do the same."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 71
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 72
 - Direct quote: "(beginning the “Dust to Dust” quest)"
@@ -266,9 +230,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 81
 - Direct quote: "Noctis: This must be it. Let’s take it to Dave."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 82
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 83
 - Direct quote: "(completing the “Dust to Dust” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
@@ -281,17 +242,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 86
 - Direct quote: "• “Y’all done good. Whoever owned that tag’s probably breathin’ a sigh of relief right about now.”"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 87
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 88
 - Direct quote: "(when speaking to Dave between beginning and completing quests, or between completing one and beginning the next)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 89
 - Direct quote: "Dave: Boys. Still huntin’ the good hunt?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 90
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 91
 - Direct quote: "(randomly selected alternate line)"
@@ -299,17 +254,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 92
 - Direct quote: "Dave: Been keepin’ hard at it?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 93
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 94
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 95
 - Direct quote: "Dave: Howdy."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 96
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 97
 - Direct quote: "(randomly selected alternate line)"
@@ -317,17 +266,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 98
 - Direct quote: "Dave: Oh, hey, it’s y’all."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 99
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 100
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 101
 - Direct quote: "Dave: Howdy. Where y’all headed today?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 102
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 103
 - Direct quote: "(randomly selected alternate line)"
@@ -335,17 +278,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 104
 - Direct quote: "Dave: How’s the road been treatin’ ya?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 105
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 106
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "Dave: Y’all are lookin’ well."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 108
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 109
 - Direct quote: "(overhearing a conversation between Hunters back at the Prairie Outpost)"
@@ -371,9 +308,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 116
 - Direct quote: "Man (2): Easier said than done, Dave."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 117
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 118
 - Direct quote: "Head Hunter David Auburnbrie (a.k.a. “Hunter Dave”) was sighted heading into the Malmalam Thicket, despite the woods being strictly off-limits to hunters except in case of emergency. No one has heard from him since."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
@@ -382,9 +316,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 120
 - Direct quote: "A tipster alerts Noctis that Dave has gone missing. He was last seen heading into the Malmalam Thicket in search of another hunter’s dog tag. Worried about their ally, Noctis and his friends venture into the woods."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 121
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 122
 - Direct quote: "(upon locating Dave outside the entrance to the Malmalam Thicket)"
@@ -416,9 +347,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 131
 - Direct quote: "Dave: Is that right? Thanks for lettin’ me know. That’s exactly what I needed to hear. Been beatin’ myself up since I got back to HQ. Felt like I had to go find that tag—so why didn’t I? I was followin’ the rules, just like I should. But if I was doin’ what’s right, then how come it felt so wrong? Reckon I really don’t got what it takes to lead the Hunters quite yet. Least now I know what I’ve been missin’ this whole time, thanks to you boys. Y’all have done more for me than you’ll ever know. May have a long way to go, but I can start by delivering this tag to the people who need it."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 132
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 133
 - Direct quote: "(when making some selections; e.g. a picture of Vyv, Ravus, Sania, Dave or Camelia)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
@@ -430,9 +358,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 136
 - Direct quote: "Cindy: Some sizable seismic activity down south near Longwythe. Dave an’ his boys are on the beat as we speak. It’s the darndest thing. Ain’t never felt so much as a rumble ’round these parts. Got a lotta folks worried. Got me worried, too. Aint’ easy tunin’ up a shakin’ chassis. Anyhoo, hope Dave and y’all can do somethin’."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 137
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 138
 - Direct quote: "(progressing the “Let Sleeping Mountains Lie” quest by speaking with Dave in Longwythe)"
@@ -458,17 +383,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 145
 - Direct quote: "Ezma: I see they weren’t making a mountain out of a molehill. This one might even be too much for the Hunters to surmount. Doesn’t mean it isn’t worth trying, though—and this old girl ain’t about to let her boy Dave have all the fun."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 146
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 147
 - Direct quote: "(speaking with Dave)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 148
 - Direct quote: "[A prompt appears asking “Head out?”; the player can select either “Yes” or “No”]"
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 149
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 150
 - Direct quote: "(speaking with Dave in Longwythe after completing the “Lonely Rumblings in Longwythe” hunt)"
@@ -478,9 +397,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 152
 - Direct quote: "[The scene transitions to the Longwythe Crow’s Nest once more, where the NPCs from before have assembled once again]"
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 153
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 154
 - Direct quote: "(speaking with Dave)"
@@ -572,26 +488,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 183
 - Direct quote: "Dave: I’ve been huntin’ for years, but I ain’t never seen dualhorns with blood-red tusks like those."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 184
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 185
 - Direct quote: "(speaking to Dave yet again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 186
 - Direct quote: "Dave: Wonder if the nights growin’ longer’s got anything to do with ’em showin’ up outta the blue…"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 187
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 188
 - Direct quote: "(speaking to Dave once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 189
 - Direct quote: "Dave: Well, whatever it is, we oughta take it out before it can spawn any more like it."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 190
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 191
 - Direct quote: "Noctis: Hello?"
@@ -601,9 +508,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 193
 - Direct quote: "Noctis: ‘Kay."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 194
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 195
 - Direct quote: "(speaking with Dave nearby)"
@@ -635,9 +539,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 204
 - Direct quote: "Prompto: What—in case you forgot who you are?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 205
-- Direct quote: "."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 206
 - Direct quote: "Dave: Hunters lead a life of danger, and sometimes these tags are the only thing that makes it back in one piece. It’s our job to deliver ’em to the families of the fallen. As it were, I came out here to do just that. If y’all happen to find any tags lyin’ around out there, could ya do me a favor and send ’em my way?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
@@ -647,17 +548,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 208
 - Direct quote: "Dave: Word is somebody spotted a tag ’round these parts. Try askin’ the local tipster; he’ll point ya in the right direction."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 209
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 210
 - Direct quote: "(speaking with Dave again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 211
 - Direct quote: "Dave: Like I always tell my hunters, “Knowledge is power that’ll save your ass.” Stay informed. Might save your ass someday, too."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 212
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 213
 - Direct quote: "(speaking with Dave again)"
@@ -665,17 +560,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 214
 - Direct quote: "Dave: Never got a chance to properly express my gratitude for the other day. Thanks for bailin’ me outta there."
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 215
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 216
 - Direct quote: "(speaking with Dave once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 217
 - Direct quote: "Dave: Lotta folks think they gotta be tough to be the best hunter, but the best hunters are the ones who know when they ain’t tough enough."
-- Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
-### Quote 218
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dave Auburnbrie, especially role behavior, relationship stance, or timeline placement.
 ### Quote 219
 - Direct quote: "Gladiolus: There’s no point in holding onto something that ain’t ours."

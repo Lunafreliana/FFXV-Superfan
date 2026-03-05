@@ -101,9 +101,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 26
 - Direct quote: "Cid: Cor left a message, said he’ll wait for ya in the tombs. They’re to the northwest of here, just a short ways past the outpost. Find that first."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "Man (1): Looked like no hunter I’d ever seen. Was dressed all black, like one of them Crownsguard fellers."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -182,9 +179,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 53
 - Direct quote: "Cor: Keycatrich Trench. We know there to be a crypt deep inside the tunnels."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 54
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 55
 - Direct quote: "(following the battle)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -200,9 +194,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 59
 - Direct quote: "Cor: Hmph. You’re not as sloppy as you look."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 60
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "(following another battle while making for Keycatrich Trench)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -217,9 +208,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "Cor: No, this shouldn’t require much strategy."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "(following a battle on the way to the Trench)"
@@ -260,9 +248,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 79
 - Direct quote: "Cor: Long years ago, we waged a fierce battle here against the empire. It all went to ruin, and after that, the empire moved in like it owned the place."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 80
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 81
 - Direct quote: "Prompto: Er, how do we get through all that?"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -274,9 +259,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "Cor: See your opponents for what they are. Haste is the bane of strategy."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 85
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "(after the next battle)"
@@ -293,17 +275,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 90
 - Direct quote: "Cor: Think you’re up to it? Let’s see what you can do."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 91
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 92
 - Direct quote: "Prompto: Say, Marshal, how ’bout you show us how it’s done?"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 93
 - Direct quote: "Cor: No wimping out. Let’s move."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 94
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 95
 - Direct quote: "(during the battle with the magitek armors)"
@@ -329,17 +305,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 102
 - Direct quote: "Cor: No problem."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 103
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 104
 - Direct quote: "(after the battle with the magitek armors)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "Cor: Impressive. Not bad. You’ve come a long way."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 106
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 107
 - Direct quote: "(upon entering Keycatrich Trench)"
@@ -367,9 +337,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "[Cor leaves]"
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "Noctis: Yeah?"
@@ -413,9 +380,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 130
 - Direct quote: "Cor: Once we’re in, we launch our ambush, pushing out while support pushes in, crushing the enemy from both sides."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 131
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 132
 - Direct quote: "(when entering a battle at the Norduscaean Blockade alongside Cor)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -425,9 +389,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 134
 - Direct quote: "Noctis: You bet."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 135
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 136
 - Direct quote: "(when entering another battle alongside Cor)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -436,9 +397,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 138
 - Direct quote: "Noctis: I’ll get right on that."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 139
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "(when Noct and Cor reach the front gate of the Norduscaean Blockade from inside)"
@@ -469,9 +427,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 149
 - Direct quote: "Cor: No wimping out. Let’s move."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 150
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 151
 - Direct quote: "[After Noctis and the others defeat Loqi]"
@@ -530,9 +485,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 169
 - Direct quote: "Magic Flask x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 170
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 171
 - Direct quote: "(speaking with Cor again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -553,9 +505,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 177
 - Direct quote: "Once rich in resources, this mine fell out of use in recent years, and now serves as little more than a watering hole for wild beasts. According to Cor, however, a royal tomb lies in the quarry’s depths, waiting to be uncovered."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 178
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 179
 - Direct quote: "[Noctis remains on the floor for a moment as they leave before the scene briefly fades to black; when it fades back in, Noct is standing once again; now back on his feet, he makes his way through the next train car, where he realizes he’s not alone; he turns to find Ardyn standing a few feet away]"
@@ -617,9 +566,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 198
 - Direct quote: "Ignis: Even Aranea’s been taught a thing or two."
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 199
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 200
 - Direct quote: "(when selecting a photo of Cor)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
@@ -634,9 +580,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 204
 - Direct quote: "Ardyn: Did I mention? I’m immortal."
-- Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
-### Quote 205
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cor Leonis, especially role behavior, relationship stance, or timeline placement.
 ### Quote 206
 - Direct quote: "[Gladio sits in a field near the Talepar Rest Area with his legs crossed after taking out a voretooth pack; his cell phone begins to ring; he answers]"

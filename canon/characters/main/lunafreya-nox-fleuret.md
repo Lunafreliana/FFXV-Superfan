@@ -1238,5 +1238,3 @@ She has no regular eyewear. Primary visual markers include Oracle regalia, compo
 ### Q260
 > Noctis: Better lay low…
 - **Contribution to dossier:** Main-cast relational dynamics evidence with Noctis as axis figure.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

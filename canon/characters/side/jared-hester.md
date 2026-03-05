@@ -53,9 +53,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 10
 - Direct quote: "Jared: It seems your patience was rewarded. Enjoy your walk, and please take care."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 11
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 12
 - Direct quote: "Earned 2 AP."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
@@ -92,26 +89,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 23
 - Direct quote: "Jared: I shall pray for your safety and success."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 24
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 25
 - Direct quote: "(speaking to Jared again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 26
 - Direct quote: "Jared: Talcott is ever outgoing, and he readily mingles with the locals."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "(speaking to Jared once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 29
 - Direct quote: "Jared: Do take care out there."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 30
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "Gladio: Looks like the legend checks out."
@@ -128,17 +116,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 35
 - Direct quote: "[Note: This dialogue will not play if the player makes the journey to the tomb prior to meeting Jared and Talcott]"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "Ignis: Your story came to a happy end."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 38
 - Direct quote: "Jared: Well, well!"
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 39
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "*optional dialogue*"
@@ -166,9 +148,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 48
 - Direct quote: "[Note: The audio here has Jared make a “Hmm” sound before he says this line]"
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 49
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 50
 - Direct quote: "[The scene transitions to their hotel room upstairs]"
@@ -206,9 +185,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 61
 - Direct quote: "Iris: All thanks to Jared."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 62
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "Ignis: Taking matters into hand?"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
@@ -218,14 +194,8 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 65
 - Direct quote: "Prompto: And for Talcott, too."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "Fort Vaullerey casts an imposing shadow over the Lucian countryside, making it an ideal target for Noctis and company as they seek to avenge Jared’s death."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 68
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 69
 - Direct quote: "[*optional dialogue*]"
@@ -260,9 +230,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 79
 - Direct quote: "Iris: Normally, Jared’s notebook has the answer, but it came up blank this time—except for a weird legend about Longwythe. Something about the mountain “awakening” every few centuries and making the earth shake by its rousing. That’s the best I’ve got."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 80
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 81
 - Direct quote: "[The scene transitions to a hotel room upstairs; an old man and a young boy are also with them there]"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
@@ -292,9 +259,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 90
 - Direct quote: "Jared: It seems your patience was rewarded. Enjoy your walk, and please take care."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 91
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 92
 - Direct quote: "Earned 2 AP."
@@ -332,26 +296,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 103
 - Direct quote: "Jared: I shall pray for your safety and success."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 104
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "(speaking to Jared again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 106
 - Direct quote: "Jared: Talcott is ever outgoing, and he readily mingles with the locals."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 107
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "(speaking to Jared once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 109
 - Direct quote: "Jared: Do take care out there."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 110
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "Gladio: Looks like the legend checks out."
@@ -368,17 +323,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 115
 - Direct quote: "[Note: This dialogue will not play if the player makes the journey to the tomb prior to meeting Jared and Talcott]"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "Ignis: Your story came to a happy end."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 118
 - Direct quote: "Jared: Well, well!"
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 119
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 120
 - Direct quote: "*optional dialogue*"
@@ -406,9 +355,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 128
 - Direct quote: "[Note: The audio here has Jared make a “Hmm” sound before he says this line]"
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 129
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 130
 - Direct quote: "[The scene transitions to their hotel room upstairs]"
@@ -446,9 +392,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 141
 - Direct quote: "Iris: All thanks to Jared."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 142
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 143
 - Direct quote: "Ignis: Taking matters into hand?"
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
@@ -458,14 +401,8 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 145
 - Direct quote: "Prompto: And for Talcott, too."
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 146
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 147
 - Direct quote: "Fort Vaullerey casts an imposing shadow over the Lucian countryside, making it an ideal target for Noctis and company as they seek to avenge Jared’s death."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 148
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 149
 - Direct quote: "[*optional dialogue*]"
@@ -499,7 +436,4 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
 ### Quote 159
 - Direct quote: "Iris: Normally, Jared’s notebook has the answer, but it came up blank this time—except for a weird legend about Longwythe. Something about the mountain “awakening” every few centuries and making the earth shake by its rousing. That’s the best I’ve got."
-- Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.
-### Quote 160
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Jared Hester, especially role behavior, relationship stance, or timeline placement.

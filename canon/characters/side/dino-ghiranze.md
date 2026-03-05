@@ -44,9 +44,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 7
 - Direct quote: "Dino; Marked where you need to go on your map. All you gotta do is find me some rough gemstones—like this one. Do this, and your ship’ll come in. Don’t, and the papers’ll run you outta town. Capisce?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 8
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 9
 - Direct quote: "Ignis: Wait. We mustn’t rub him the wrong way."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
@@ -59,32 +56,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 12
 - Direct quote: "Dino: Marked where you need to go on your map. All you gotta do is find me some rough gemstones—like this one. Do this, and your ship’ll come in. Don’t, and the papers’ll run you outta town. Capisce?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 13
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 14
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 15
 - Direct quote: "(speaking with Dino again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 16
 - Direct quote: "Dino: I’ll make sure you got a boat to ride, alright?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 17
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 18
 - Direct quote: "(speaking with Dino once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 19
 - Direct quote: "Dino: So what’s the scoop on this little road trip anyway? Some kind of secret bachelor gig?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 20
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 21
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 22
 - Direct quote: "[They sneak around to the other side of the zu and locate the garnet stone Dino sent them to find; on their way back out, however, they cause the bird to wake up; it unfurls its wings and takes flight]"
@@ -101,9 +83,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 26
 - Direct quote: "Garnet Bracelet x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "(when speaking to Dino again about passage aboard a ship)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
@@ -115,9 +94,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "Gladio: Well, must be pretty connected if he can pull some strings around an imperial embargo."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 32
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 33
 - Direct quote: "(when speaking to Dino once more)"
@@ -133,9 +109,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "Dino: Already!? The ship won’t arrive ’til tomorrow! How ’bout you find a place to spend the night?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 38
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 39
 - Direct quote: "Noctis: Hello?"
@@ -188,17 +161,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 55
 - Direct quote: "Dino: ‘Cause I need your help! You fetch me some ore, I trade you one of my pieces. Just like last time—badabing, badaboom!"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 56
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 57
 - Direct quote: "(speaking with Dino after beginning the “The Aspiring Artisan” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "Dino: You know where to go, don’t ya? I’ll be waitin’!"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 59
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 60
 - Direct quote: "(speaking with Dino again)"
@@ -206,26 +173,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 61
 - Direct quote: "Dino: What a relief all those rumors about you gettin’ iced weren’t true. Otherwise who would I have to fetch gems for me?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 62
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "(speaking with Dino once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 64
 - Direct quote: "Dino: Youse guys must be beat after all that runnin’ around. Why don’t ya get a massage before you go?"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 65
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 66
 - Direct quote: "(quest description for “The Aspiring Artisan”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "Noctis receives an unexpected call from Dino, the reporter-slash-jeweler posted in Galdin. He suggests the prince drop by for a friendly chat, but the four friends suspect Dino has more than mere “mingling” in mind."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 68
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 69
 - Direct quote: "(completing the “The Aspiring Artisan” quest)"
@@ -269,17 +227,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 82
 - Direct quote: "[Note: The audio here has Dino say “Whaho, touché!”]"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 83
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "(speaking with Dino after beginning the “A Stone-Studded Stunner” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 85
 - Direct quote: "Dino: Believe me: if I could go on my own, I would."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 86
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 87
 - Direct quote: "(speaking with Dino again)"
@@ -287,26 +239,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 88
 - Direct quote: "Dino: I already told you everything I know. The rest is up to you."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 89
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 90
 - Direct quote: "(speaking with Dino once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 91
 - Direct quote: "Dino: I tell ya, this raw stones are always in the darndest of places."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 92
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 93
 - Direct quote: "(quest description for “A Stone-Studded Stunner”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 94
 - Direct quote: "Dino again seeks Noctis’s assistance in acquiring raw stones for use in a new piece. The prince agrees to help the aspiring jeweler by locating the ore he needs."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 95
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 96
 - Direct quote: "(completing the “A Stone-Studded Stunner” quest)"
@@ -347,17 +290,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 108
 - Direct quote: "Dino: I already told you where to go. What’re you waiting for? Go on!"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 109
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 110
 - Direct quote: "(speaking with Dino again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "Dino: I try asking the Hunters for help, and they shoot me down. Guess my stone hunts are too hard for them to handle."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 112
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 113
 - Direct quote: "(speaking with Dino once more)"
@@ -365,17 +302,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 114
 - Direct quote: "Dino: Gotta say, having you around puts my mind at ease. Royalty like you know what these rough gems are really worth!"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 115
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 116
 - Direct quote: "(quest description for “Reliable Royalty”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "Dino asks the Hunters for help securing stones, but they refuse his request. In his desperation, the journalist-cum-jeweler instead implores his trustworthy “pal” Prince Noctis for assistance."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 118
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 119
 - Direct quote: "(completing the “Reliable Royalty” quest)"
@@ -410,17 +341,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 129
 - Direct quote: "Dino: Yeah, well, read my mind all you like, but I don’t got a lot to share. None of my associates had much luck looking into the place, so if you can’t do it, just fuhgeddaboudit."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 130
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 131
 - Direct quote: "(speaking with Dino after beginning the “No Pain, No Gem” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 132
 - Direct quote: "Dino: Look, I appreciate youse guys helpin’, but don’t do nothin’ stupid. Capisce?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 133
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 134
 - Direct quote: "(speaking with Dino again)"
@@ -428,17 +353,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 135
 - Direct quote: "Dino: Y’see, I’m a man with a dream. I ain’t satisfied makin’ some garage sale trinkets."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 136
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 137
 - Direct quote: "(speaking with Dino once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 138
 - Direct quote: "Dino: My apologies about the lack of information. All I can say for sure is that the place is dangerous."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 139
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "(after beginning the “No Pain, No Gem” quest and walking away)"
@@ -455,17 +374,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 144
 - Direct quote: "Hoping to hone his craft, Dino needs another raw gem for use in a new piece. Unfortunately, the stone he seeks can only be found in a danger-laden location, and Noctis once more finds himself taking up the search."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 145
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 146
 - Direct quote: "(upon entering the vicinity of the ruby stone)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 147
 - Direct quote: "Gladiolus: This is the spot. Time to find that stone Dino asked for."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 148
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 149
 - Direct quote: "(completing the “No Pain, No Gem” quest)"
@@ -506,17 +419,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 161
 - Direct quote: "Dino: C’mon, show me some love! If I get my hands on this stuff, I’ll be unstoppable. I ain’t just talkin’ Galdin here. I’m talkin’ global Dino domination! I’m gonna be rollin’ in so much gil, the Hunters’ll be askin’ me to help search for stones! So what I’m tryin’ to say is, this could be a turning point for your pal Dino—hence, “real important.” Unfortunately, this soon-to-be ex-reporter ain’t got much of a scoop. So, don’t beat yourselves up if you come back empty-handed. But hey, here’s hopin’ against hope you come through. Good luck out there, pal!"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 162
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 163
 - Direct quote: "(speaking with Dino after beginning the “A Treasure Beyond Measure” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 164
 - Direct quote: "Dino: I don’t wanna send youse guys to your doom, but if you wanna do me one last favor, I ain’t gonna say no."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 165
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 166
 - Direct quote: "(speaking with Dino again)"
@@ -524,17 +431,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 167
 - Direct quote: "Dino: I guess I ain’t opposed to livin’ out my days as a reporter, but if you can help me get the goods, I’ll be a changed man."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 168
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 169
 - Direct quote: "(speaking with Dino once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 170
 - Direct quote: "Dino: If I gotta give up, so be it. But like they say, it ain’t over ’til the fat lady sings."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 171
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 172
 - Direct quote: "(quest description for “A Treasure Beyond Measure”)"
@@ -550,9 +451,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 176
 - Direct quote: "Gladio: I’m sure our boss Dino would appreciate your enthusiasm."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 177
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 178
 - Direct quote: "(upon locating the emerald stone)"
@@ -602,9 +500,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 193
 - Direct quote: "Vyv: There’s a reporter there, name’s Dino. Good beat reporter, knows the right folk. Can’t take a picture to save his life."
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 194
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 195
 - Direct quote: "(progressing the “Let Sleeping Mountains Lie” quest by speaking with Dave in Longwythe)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
@@ -620,12 +515,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 199
 - Direct quote: "Vyv: My buddy Dino’s been searching for a scoop. Sounds pretty dangerous… Think of how many copies we’ll sell! And apparently there are some old legends about Longwythe. “Past Myths Back to Haunt the Present?” People’ll eat it up!"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 200
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 201
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 202
 - Direct quote: "(speaking with Dino)"
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
@@ -637,12 +526,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 205
 - Direct quote: "Dino: Since we’re on good terms, let me share a little scoop: word on the street is that the crag itself is the key. That, uh, Crown City chick Monica? Yeah, well uh, she’s followin’ up on a lead in Longwythe for me."
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 206
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 207
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 208
 - Direct quote: "(speaking with Dino)"
@@ -673,9 +556,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 217
 - Direct quote: "Dino; Marked where you need to go on your map. All you gotta do is find me some rough gemstones—like this one. Do this, and your ship’ll come in. Don’t, and the papers’ll run you outta town. Capisce?"
-- Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
-### Quote 218
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Dino Ghiranze, especially role behavior, relationship stance, or timeline placement.
 ### Quote 219
 - Direct quote: "Ignis: Wait. We mustn’t rub him the wrong way."

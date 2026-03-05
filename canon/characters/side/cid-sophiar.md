@@ -74,17 +74,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 17
 - Direct quote: "Man (2): All Cid needs now is a good grandons-in-law."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 18
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 19
 - Direct quote: "must be what Paw-paw meant when he said he was gonna “teach them boys a lesson.” Told me he oughta have y’all take care of some ornery varmints that’ve been causin’ a ruckus ’round here. I’d be happy to pay y’all for your services if you’re up for the challenge. How ’bout it?"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 20
 - Direct quote: "Ignis: All according to Cid’s plan. I say we play along and teach him not to underestimate us."
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 21
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 22
 - Direct quote: "Noctis: …”Like a father to her”?"
@@ -119,12 +113,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 32
 - Direct quote: "Take your arms to Hammerhead and ask Cid to upgrade them."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 33
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 34
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 35
 - Direct quote: "(speaking with Cid in the garage at Hammerhead)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -149,17 +137,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 42
 - Direct quote: "[Cid gets up and walks outside]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 43
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 44
 - Direct quote: "(when following Cid out of the garage)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 45
 - Direct quote: "Cid: Cor left a message, said he’ll wait for ya in the tombs. They’re to the northwest of here, just a short ways past the outpost. Find that first."
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 46
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 47
 - Direct quote: "*optional dialogue*"
@@ -194,9 +176,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 57
 - Direct quote: "Cid: Look, I got diddly-squat to do, what with Cindy takin’ care of the garage. If you can find the parts, I can do the work for ya."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 58
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 59
 - Direct quote: "(progressing the “Cid Sophiar, Master Mechanic” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -209,26 +188,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 62
 - Direct quote: "Cid: Received with thanks. Y’all jus’ leave the rest to me."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 63
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 64
 - Direct quote: "(when handing Cid a Niflheimian weapon to be upgraded; e.g. the Auto Crossbow, Circular Saw or Noiseblaster)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "Cid: Whoa, Niff-make this time? Is there nothin’ you lot won’t pick up? Anyhoo, show me the parts, an’ I’ll show you serious firepower."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 66
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "(when speaking to Cid again while he’s waiting for you to find the upgrade parts for Niflheimian weapons, or when selecting not to hand him the parts after they have been acquired)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 68
 - Direct quote: "Cid: Lemme tell ya, imperial hardware is a right pain to take apart. Ain’t no mystery I can’t unravel, though."
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 69
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 70
 - Direct quote: "Noctis: Why are you asking us?"
@@ -248,17 +218,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 75
 - Direct quote: "Takka: Cid’s, uh… He’s worried about you boys, y’know."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 76
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 77
 - Direct quote: "(quest description for “Scenic Delivery”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "Cid has instructed Takka to put Noctis to work, and put the prince to work he does. Noctis must retrieve the requested ingredient from Galdin and deliver it to Takka."
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 79
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "Takka: Oh-ho. Y’all went an’ got what I asked for."
@@ -274,9 +238,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "Takka: If anythin’ bad happens, Cid’ll be madder than a shaved possum. So y’all take care."
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 85
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "(completing the “A Better Engine Blade III” quest)"
@@ -362,9 +323,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 113
 - Direct quote: "Iris: The power plant? Oh, so you got your hands on some mythril! In that case, I’ll go deliver it to Cid. You’ll probably want to freshen up first anyway. Come and meet me in Caem when you’re ready!"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 114
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "(upon selecting “Yes”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -395,9 +353,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 124
 - Direct quote: "Cid: Even if they can’t solve your problems, you can’t hide what’s goin’ on from ’em. It hurts like hell. Remember—those ain’t your bodyguards, they’re your brothers. Trust in ’em. Always."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 125
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 126
 - Direct quote: "[/*optional dialogue*]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -406,12 +361,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 128
 - Direct quote: "Cid: Waitin’ for an invitation? Get your asses on board!"
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 129
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 130
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 131
 - Direct quote: "(Noct and his retinue make their way to Altissia by boat, with Cid driving)"
@@ -611,12 +560,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 196
 - Direct quote: "[A prompt to choose either “Ask Ignis” or “Leave it to Cid” appears]"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 197
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 198
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 199
 - Direct quote: "Leave it to Cid"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -635,12 +578,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 204
 - Direct quote: "Cid reimburses himself 3,000 gil from the party’s funds."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 205
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 206
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 207
 - Direct quote: "(speaking to Cid at the harbor)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
@@ -650,26 +587,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 209
 - Direct quote: "Cid: Managed to stay fed all these years. Not gonna starve to death now. An’ ol’ Wes’ll see that I don’t go thirsty either."
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 210
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 211
 - Direct quote: "(speaking with Cid again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 212
 - Direct quote: "Cid: Why’re you dawdlin’ here? Go on, git!"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 213
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 214
 - Direct quote: "(speaking with Cid once again)"
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 215
 - Direct quote: "Cid: What/ Already done your business?"
-- Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
-### Quote 216
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Cid Sophiar, especially role behavior, relationship stance, or timeline placement.
 ### Quote 217
 - Direct quote: "(and speaking with Cid once more)"

@@ -21,7 +21,6 @@ Canonical side-character files now live in `canon/characters/side/` (one file pe
 - `canon/characters/side/sania-yeagre.md`
 - `canon/characters/side/navyth-eldercapt.md`
 - `canon/characters/side/coctura-arlund.md`
-- `canon/characters/side/chancellor-ardyn.md` (alias -> see `canon/characters/main/ardyn-izunia.md`)
 - `canon/characters/side/captain-drautos.md`
 ## Supplemental aggregate
 - `canon/characters/side/named-npc-clusters.md`

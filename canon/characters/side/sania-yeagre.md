@@ -23,17 +23,11 @@ Skills listed for this character should map to directly evidenced actions, role 
 Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
-### Quote 1
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 2
 - Direct quote: "(encountering Sania outside the Balouve Mines)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 3
 - Direct quote: "Sania: Curiosity may bring you to the door—but no further."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 4
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 5
 - Direct quote: "(speaking with Sania again)"
@@ -41,20 +35,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 6
 - Direct quote: "Sania: It would be a downright shame to go all that way, only to find yourself locked out of the last door."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 7
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 8
 - Direct quote: "(speaking with Sania once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 9
 - Direct quote: "Sania: Believe me—opportunity doesn’t knock when the door is locked. Be sure to bring the key in with you."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 10
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 11
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 12
 - Direct quote: "(approaching Sania Yeagre at the Alstor Coernix Station)"
@@ -101,17 +86,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 26
 - Direct quote: "Sania: Ah, and if you’re thinking any old frog will do? Wrong! You’re not getting off that easily. Only the red frog native to Alstor suits my needs. You’ll need to get knee and elbow deep down at the Slough. With that, I’ll get back to my work. Remember, it’s red frogs. And make sure they’re fresh!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 27
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 28
 - Direct quote: "(speaking with Sania after beginning the “The Professor’s Protégé” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 29
 - Direct quote: "Sania: You’re combat-trained, I’d wager. I can tell by looking at your efficient musculature."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 30
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 31
 - Direct quote: "(speaking with Sania again)"
@@ -119,26 +98,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 32
 - Direct quote: "Sania: You’ll find red frogs at the Alstor Slough. Bring me live specimens as quick as you can."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 33
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 34
 - Direct quote: "(quest description for “The Professor’s Protégé”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 35
 - Direct quote: "Gladiolus catches sight of an acquaintance of his, a lively lady by the name of Sania, and suggests that the friends speak to her. No doubt she will have important knowledge to impart upon Noctis."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "Prompto: All the bounce’s gone outta me."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 38
 - Direct quote: "Ignis: Let’s present the haul to Sania."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 39
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "(completing the “The Professor’s Protégé” quest)"
@@ -197,17 +167,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 58
 - Direct quote: "Sania: Now, it just so happens I already have in mind what I need you to fetch me this time. Off you go now!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 59
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 60
 - Direct quote: "(when speaking to Sania between beginning and completing quests)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 61
 - Direct quote: "Sania: Never enough hours in a day, or enough hands to help out."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 62
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "(randomly selected alternate line)"
@@ -215,17 +179,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 64
 - Direct quote: "Sania: Don’t go losing your hard-found specimens. Make a beeline for me as soon as you nab ’em."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 65
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 66
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 67
 - Direct quote: "Sania: My research is stalled until you procure my specimens. In layman’s terms: move it, move it!"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 68
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 69
 - Direct quote: "(randomly selected alternate line)"
@@ -233,26 +191,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 70
 - Direct quote: "Sania: Out in the wilds, it’s survival of the fittest. Don’t die, now."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 71
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 72
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 73
 - Direct quote: "Sania: With our efforts combined, we might cast light on the world’s darkest mysteries! Isn’t it exciting?"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 74
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 75
 - Direct quote: "(quest description “The Professor’s Protégé – Yellow Frogs”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 76
 - Direct quote: "The red frogs have stoked the fires of Sania’s curiosity. In order to further her research, she next sends Noctis to catch yellow frogs at the southern area of Duscae."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 77
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 78
 - Direct quote: "(completing the “The Professor’s Protégé – Yellow Frogs”)"
@@ -269,17 +218,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 82
 - Direct quote: "• “Ooh, this specimen is absolutely perfect. Nary a flaw. You deserve a prize!”"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 83
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 84
 - Direct quote: "(speaking with Sania while none of her quests are active or currently available)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 85
 - Direct quote: "Sania: Oh. Come to observe fauna, have you?"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 86
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 87
 - Direct quote: "(randomly selected alternate line)"
@@ -287,17 +230,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 88
 - Direct quote: "Sania: Oh! It’s you lot!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 89
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 90
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 91
 - Direct quote: "Sania: You came to see me? Aww, how sweet!"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 92
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 93
 - Direct quote: "(randomly selected alternate line)"
@@ -305,17 +242,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 94
 - Direct quote: "Sania: How are you?"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 95
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 96
 - Direct quote: "(randomly selected alternate line)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 97
 - Direct quote: "Sania: What brings you to these parts?"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 98
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 99
 - Direct quote: "(beginning the “The Professor’s Protégé – Gigantoad” quest)"
@@ -323,17 +254,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 100
 - Direct quote: "Sania: Ooh, you couldn’t have come at a better time. Here’s your next assignment. Make sure you hand it in like a good student!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 101
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 102
 - Direct quote: "(quest description for “The Professor’s Protégé – Gigantoad”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 103
 - Direct quote: "Sania’s research into frogs is proceeding apace, but to truly unravel the creature’s secrets, she also needs to study their bigger, dangerous cousins: gigantoads. Noctis must slay the creature, harvest its oil, and bring it back to the professor."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 104
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 105
 - Direct quote: "(upon acquiring the Slimy Oil after killing a gigantoad)"
@@ -356,26 +281,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 111
 - Direct quote: "Sania: Back so soon? You’re getting quicker at this. Good! Science waits for no man."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 112
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 113
 - Direct quote: "(beginning the “The Professor’s Protégé – Wyvern” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 114
 - Direct quote: "Sania: Hey there. So, by now you must’ve gotten used to the fieldwork. I think it’s time you graduated from frogs. It’ll mean more work, of course, but then you’ll be exposed to more modes of life. Well worth the effort, I think."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 115
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 116
 - Direct quote: "(quest description for “The Professor’s Protégé – Wyvern”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "In order to have the full picture, a scientist must approach a problem from multiple perspectives. To this end, Sania has her sights set on the wild wyvern, a creature known to prey upon even the enormous gigantoad. A wing from one of the aerial predators will serve her purposes admirably."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 118
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 119
 - Direct quote: "(upon acquiring the Wyvern Wing after killing a wyvern)"
@@ -407,17 +323,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 128
 - Direct quote: "Sania: You really have a knack for being at the right place, at the right time. Here’s what I need. Hop to it, now!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 129
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 130
 - Direct quote: "(quest description for “The Professor’s Protégé – Myrlwood Firefly”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 131
 - Direct quote: "In order to continue her frog research, Sania needs an injection of capital, and an article on rare fauna should fetch a high price. The Myrlwood firefly is a suitable subject, and Noctis can aid Sania’s fundraising by catching live specimens."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 132
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 133
 - Direct quote: "(completing the “The Professor’s Protégé – Myrlwood Firefly” quest)"
@@ -434,17 +344,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 137
 - Direct quote: "Sania: Ooh, you couldn’t have come at a better time. Here’s your next assignment. Make sure you hand it in like a good student!"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 138
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 139
 - Direct quote: "(quest description for “The Professor’s Protégé – Griffon”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "An ancient tome is said to contain an account of frogs that lived in the time before time. To raise the funds needed to purchase this rare volume, Sania tasks Noctis with hunting the majestic griffon and acquiring its precious feather."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 141
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "(completing the “The Professor’s Protégé – Griffon” quest)"
@@ -479,17 +383,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 152
 - Direct quote: "Sania: Loads of things. But what’s captured my interest right now is the legendary rainbow frog. There’s nary a reliable eyewitness account, and the only clue I have as to their habitat is “water.” That’s it. Useless, I know. But that’s where we are without the data to narrow down the search. Be that as it may, I can’t bring myself to give up on the critters. Even if they’re more elusive than a pot of gold at the end of the rainbow, I have my pride as the foremost authority on frogs. And so I leave the search to you! Not much info to work with, though, so you’ll just have to play it by ear."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 153
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 154
 - Direct quote: "(quest description for “The Professor’s Protégé – The Frogs of Legend”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 155
 - Direct quote: "The ancient tome Sania purchased yielded intriguing, if scant, information on the legendary rainbow frog. If she could but find some live specimens to study, her name would go down in natural history. As ever unable to refuse the professor, Noctis sets out to find his most elusive targets yet."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 156
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 157
 - Direct quote: "(completing the “The Professor’s Protégé – The Frogs of Legend” quest)"
@@ -530,29 +428,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 169
 - Direct quote: "Ribbon x 1"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 170
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 171
 - Direct quote: "(speaking with Sania after completing her final quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 172
 - Direct quote: "Sania: Not right now! Important research."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 173
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 174
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 175
 - Direct quote: "(when making some selections; e.g. a picture of Vyv, Ravus, Sania, Dave or Camelia)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 176
 - Direct quote: "Prompto: Huh. Well…not the one I would’ve picked, but it’s your call."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 177
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 178
 - Direct quote: "(speaking with Sania)"
@@ -565,12 +451,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 181
 - Direct quote: "Sania: As it were, I was going through some old biology docs, and I stumbled upon something that might pique your interest. Longwythe Peak! Ooh, baby, this is monumental. I’ve gotta check it out up close!"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 182
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 183
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 184
 - Direct quote: "(speaking with Sania)"
@@ -599,17 +479,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 192
 - Direct quote: "observed across Lucis are by no means a recent"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 193
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 194
 - Direct quote: "(encountering Sania outside the Balouve Mines)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 195
 - Direct quote: "Sania: Curiosity may bring you to the door—but no further."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 196
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 197
 - Direct quote: "(speaking with Sania again)"
@@ -617,20 +491,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 198
 - Direct quote: "Sania: It would be a downright shame to go all that way, only to find yourself locked out of the last door."
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 199
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 200
 - Direct quote: "(speaking with Sania once more)"
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 201
 - Direct quote: "Sania: Believe me—opportunity doesn’t knock when the door is locked. Be sure to bring the key in with you."
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 202
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 203
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 204
 - Direct quote: "(approaching Sania Yeagre at the Alstor Coernix Station)"
@@ -676,9 +541,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 218
 - Direct quote: "Sania: Ah, and if you’re thinking any old frog will do? Wrong! You’re not getting off that easily. Only the red frog native to Alstor suits my needs. You’ll need to get knee and elbow deep down at the Slough. With that, I’ll get back to my work. Remember, it’s red frogs. And make sure they’re fresh!"
-- Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
-### Quote 219
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Sania Yeagre, especially role behavior, relationship stance, or timeline placement.
 ### Quote 220
 - Direct quote: "(speaking with Sania after beginning the “The Professor’s Protégé” quest)"

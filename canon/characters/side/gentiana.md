@@ -23,9 +23,6 @@ Skills listed for this character should map to directly evidenced actions, role 
 Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
-### Quote 1
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 2
 - Direct quote: "[The cutscene plays in which Luna reunites with Umbra, Pryna and Gentiana]"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
@@ -92,9 +89,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 23
 - Direct quote: "Gentiana: Within the Walls of Water, the Oracle awaits… …the coming of the king. Do not delay."
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 24
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 25
 - Direct quote: "(while traveling to the runestones)"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
@@ -112,9 +106,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 30
 - Direct quote: "Ignis: If the strain of the rites is as Gentiana suggested, I fear she’s far worse off than we are."
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 31
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 32
 - Direct quote: "Prompto: How come that lady’s helping you out anyway?"
@@ -242,9 +233,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 73
 - Direct quote: "Gladiolus: What was it this time?"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 74
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 75
 - Direct quote: "[As Noct reaches out to touch the second runestone and is engulfed in lightning, he hears Gentiana’s voice once more]"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
@@ -280,9 +268,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "Messengers’ Amulet x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 87
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 88
 - Direct quote: "(leaving the Leville after the encounter with Gentiana)"
@@ -322,9 +307,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 100
 - Direct quote: "Old Woman: It’s rather strange. Lady Gentiana has not graced us with her presence as of late. Perhaps she has no reason to stay now that the Blood of the Oracle is no more. Like her, others will eventually leave, and the land of Tenebrae will be lost to memory."
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 101
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 102
 - Direct quote: "Ardyn: A coldness that can only be hers."
@@ -452,29 +434,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 143
 - Direct quote: "[Luna smiles at her; Gentiana smiles back and a single tear streaks down Gentiana’s cheek; the scene transitions back to Shiva and Noctis]"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 144
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 145
 - Direct quote: "The Hexatheon and Their Divine Host"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 146
 - Direct quote: "It is said that, in the beginning, the Six fought side by side with mankind. Even so, the deities themselves seldom appeared before mortals, and instead sent loyal servants to convey their divine will to the Oracle. These servants are known as the Messengers, and they number twenty-four."
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 147
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 148
 - Direct quote: "Carbuncle Sticker Set"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 149
 - Direct quote: "A custom decal set featuring everyone’s favorite Messenger. Guaranteed to make your car 150% more adorable!"
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 150
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 151
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 152
 - Direct quote: "Messengers’ Amulet"
@@ -542,9 +512,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 173
 - Direct quote: "Trials given to mortals by the gods: revelations"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 174
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 175
 - Direct quote: "[The cutscene plays in which Luna reunites with Umbra, Pryna and Gentiana]"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
@@ -611,9 +578,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 196
 - Direct quote: "Gentiana: Within the Walls of Water, the Oracle awaits… …the coming of the king. Do not delay."
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 197
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 198
 - Direct quote: "(while traveling to the runestones)"
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
@@ -631,9 +595,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 203
 - Direct quote: "Ignis: If the strain of the rites is as Gentiana suggested, I fear she’s far worse off than we are."
-- Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
-### Quote 204
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Gentiana, especially role behavior, relationship stance, or timeline placement.
 ### Quote 205
 - Direct quote: "Prompto: How come that lady’s helping you out anyway?"

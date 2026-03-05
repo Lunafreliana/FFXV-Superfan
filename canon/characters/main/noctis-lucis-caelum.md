@@ -1297,5 +1297,3 @@ Height and weight are not explicitly provided in the supplied text dumps, so thi
 ### Q260
 > Noctis: Uh, yeah?
 - **Contribution to dossier:** Contributes contextual evidence for characterization, chronology, or relational behavior.
-## Source extracts used
-(source label removed), (source label removed), (source label removed), (source label removed), (source label removed), (source label removed).

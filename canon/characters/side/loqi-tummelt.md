@@ -29,9 +29,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 2
 - Direct quote: "Monica: Be warned: Commander Loqi has been sighted at the base. Take all care."
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 3
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 4
 - Direct quote: "[An imperial drop ship suddenly flies in; the imperial officer aboard addresses Noct and the others]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
@@ -43,9 +40,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 7
 - Direct quote: "Prompto: Say, Marshal, how ’bout you show us how it’s done?"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 8
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 9
 - Direct quote: "[After Noctis and the others defeat Loqi]"
@@ -83,17 +77,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 20
 - Direct quote: "Loqi: Impossible!"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 21
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 22
 - Direct quote: "[The scene opens on a white-cloaked figure standing atop a wooden tower between the main thoroughfare and the outlook in Lestallum; the camera moves in on the figure’s face; it’s Noctis; pigeons fly around him; Noctis looks downward and spots Commander Loqi Tummelt of the Niflheim Empire walking at ground level flanked by two magitek troopers]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 23
 - Direct quote: "Noctis: Gotcha."
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 24
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 25
 - Direct quote: "[Noct and Prompto head from the parking lot area up to the road by way of the parking ramp; there, they spot Loqi again]"
@@ -130,9 +118,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 36
 - Direct quote: "Several days earlier…"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 37
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 38
 - Direct quote: "[When Noctis and Prompto draw near the power plant, they can see Holly confronting Commander Loqi and numerous magitek troopers]"
@@ -191,9 +176,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 56
 - Direct quote: "Noct: And for now, we go after Loqi’s men ourselves."
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 57
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 58
 - Direct quote: "Noct: So we got this on lock?"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
@@ -245,12 +227,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 74
 - Direct quote: "Loqi: I thought you might show up. Get him!"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 75
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 76
-- Direct quote: "[collapse]"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 77
 - Direct quote: "[Loqi speaks to his detail again as they make their way together]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
@@ -289,9 +265,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 89
 - Direct quote: "Noct: I can’t let him get away!"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 90
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 91
 - Direct quote: "[Noct point-warps to the top of the building to his left, climbs up, and then sneaks up on Loqi in the alleyway on the other side; as Noctis attempts to grab him, however, Loqi performs a spinning evasion maneuver and faces Noct]"
@@ -434,17 +407,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 137
 - Direct quote: "[Loqi’s magitek armor explodes, seemingly finally killing him; the scene fades to black]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 138
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 139
 - Direct quote: "(speaking with Monica once more]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 140
 - Direct quote: "Monica: Be warned: Commander Loqi has been sighted at the base. Take all care."
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 141
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "[An imperial drop ship suddenly flies in; the imperial officer aboard addresses Noct and the others]"
@@ -457,9 +424,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 145
 - Direct quote: "Prompto: Say, Marshal, how ’bout you show us how it’s done?"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 146
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 147
 - Direct quote: "[After Noctis and the others defeat Loqi]"
@@ -497,17 +461,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 158
 - Direct quote: "Loqi: Impossible!"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 159
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 160
 - Direct quote: "[The scene opens on a white-cloaked figure standing atop a wooden tower between the main thoroughfare and the outlook in Lestallum; the camera moves in on the figure’s face; it’s Noctis; pigeons fly around him; Noctis looks downward and spots Commander Loqi Tummelt of the Niflheim Empire walking at ground level flanked by two magitek troopers]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 161
 - Direct quote: "Noctis: Gotcha."
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 162
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 163
 - Direct quote: "[Noct and Prompto head from the parking lot area up to the road by way of the parking ramp; there, they spot Loqi again]"
@@ -544,9 +502,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 174
 - Direct quote: "Several days earlier…"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 175
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 176
 - Direct quote: "[When Noctis and Prompto draw near the power plant, they can see Holly confronting Commander Loqi and numerous magitek troopers]"
@@ -605,9 +560,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 194
 - Direct quote: "Noct: And for now, we go after Loqi’s men ourselves."
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 195
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 196
 - Direct quote: "Noct: So we got this on lock?"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
@@ -658,12 +610,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 212
 - Direct quote: "Loqi: I thought you might show up. Get him!"
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 213
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
-### Quote 214
-- Direct quote: "[collapse]"
 - Why it matters: This line anchors one or more claims in the analysis section for Loqi Tummelt, especially role behavior, relationship stance, or timeline placement.
 ### Quote 215
 - Direct quote: "[Loqi speaks to his detail again as they make their way together]"

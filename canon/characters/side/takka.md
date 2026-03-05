@@ -23,9 +23,6 @@ Skills listed for this character should map to directly evidenced actions, role 
 Preference claims should be limited to explicit statements, repeated routines, or clear contextual cues.
 
 ## Supporting quotes + citation explanation (minimum 200 lines)
-### Quote 1
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 2
 - Direct quote: "(coming near and examining the advertisement on the front window of Takka’s Pit Stop)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
@@ -41,17 +38,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 6
 - Direct quote: "Our spicy jambalaya’ll have you jumpin’ for joy"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 7
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 8
 - Direct quote: "(overhearing a conversation in Takka’s Pit Stop)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 9
 - Direct quote: "Man (1): Fifty gil says that there’s a city car in the garage."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 10
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 11
 - Direct quote: "(overhearing a conversation in Takka’s Pit Stop)"
@@ -59,26 +50,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 12
 - Direct quote: "Woman (1): So Lady Lunafreya would be a Lucian?"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 13
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 14
 - Direct quote: "(overhearing a conversation in Takka’s Pit Stop)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 15
 - Direct quote: "Man (1): After his son’s accident, I never imagined the old man’d keep the place runnin’."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 16
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 17
 - Direct quote: "(overhearing a conversation in Takka’s Pit Stop)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 18
 - Direct quote: "Woman: Some folks come all the way here chocoboback?"
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 19
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 20
 - Direct quote: "(speaking with Takka and selecting “Talk”)"
@@ -119,17 +101,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 32
 - Direct quote: "Takka: So y’all gotta learn about the wider world. If y’all can’t find the stuff I need, it ain’t no big deal. But…it’d surely help me out if you could."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 33
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 34
 - Direct quote: "(speaking with Takka about the quest after beginning “Scenic Delivery”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 35
 - Direct quote: "Takka: Cid’s, uh… He’s worried about you boys, y’know."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 36
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 37
 - Direct quote: "(speaking with Takka about the quest after beginning “Scenic Delivery”)"
@@ -137,17 +113,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 38
 - Direct quote: "Takka: I’ll cook you up somethin’ good. That’ll make you feel better."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 39
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 40
 - Direct quote: "(quest description for “Scenic Delivery”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 41
 - Direct quote: "Cid has instructed Takka to put Noctis to work, and put the prince to work he does. Noctis must retrieve the requested ingredient from Galdin and deliver it to Takka."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 42
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 43
 - Direct quote: "(acquiring the Lucian Tomato that Takka requested)"
@@ -185,17 +155,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 54
 - Direct quote: "Takka: Nope, this one’s gonna take some effort. I’m sendin’ y’all straight to the source this time. In other words, it’s huntin’ time. The stuff I want y’all to collect, I’m fixin’ to use in a new dish. Hope you can help me out."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 55
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 56
 - Direct quote: "(speaking with Takka about the quest after beginning “Hunters and Gatherers”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 57
 - Direct quote: "Takka: I got the new recipe all set, right here in my noggin. Just need the ingredients."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 58
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 59
 - Direct quote: "(speaking with Takka about the quest after beginning “Hunters and Gatherers”)"
@@ -203,17 +167,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 60
 - Direct quote: "Takka: If anythin’ bad happens, Cid’ll be madder than a shaved possum. So y’all take care."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 61
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 62
 - Direct quote: "(quest description for “Hunters and Gatherers”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 63
 - Direct quote: "Takka has an idea for a new dish, but is missing the key ingredient. Noctis must hunt down a daggerquill and bring Takka its meat."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 64
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 65
 - Direct quote: "(completing the “Hunters and Gatherers” quest)"
@@ -254,17 +212,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 77
 - Direct quote: "Takka: Knew I could count on y’all. Good huntin’!"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 78
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 79
 - Direct quote: "(speaking with Takka about the quest after beginning “Emergency Delivery”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 80
 - Direct quote: "Takka: Well, I got careless an’ ran out ‘fore I even noticed."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 81
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 82
 - Direct quote: "(again speaking with Takka about the quest after beginning “Emergency Delivery”)"
@@ -272,17 +224,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 83
 - Direct quote: "Takka: Sometimes it’s faster to ask a hunter to bring it direct, than trek to the shops in town."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 84
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 85
 - Direct quote: "(once again speaking with Takka about the quest after beginning “Emergency Delivery”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 86
 - Direct quote: "Takka: Fact is, I know I can count on you boys."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 87
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 88
 - Direct quote: "(after beginning the “Emergency Delivery” quest and walking away)"
@@ -298,9 +244,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 92
 - Direct quote: "Takka has run out of a key ingredient. Unless something is done, he won’t be able to serve his diner’s meat specials. Noctis and his friends go off to hunt for the meat Takka needs."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 93
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 94
 - Direct quote: "(completing the “Emergency Delivery” quest)"
@@ -341,17 +284,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 106
 - Direct quote: "Takka: That’s ’cause you ain’t never had ’em cooked right. I simmer ’em long an’ slow. Leastways, when I have ’em. I’d be real grateful if y’all would help."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 107
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 108
 - Direct quote: "(speaking with Takka about the quest after beginning “Everyone Loves Beans”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 109
 - Direct quote: "It ain’t easy, tryin’ to please everyone."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 110
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 111
 - Direct quote: "(again speaking with Takka about the quest after beginning “Everyone Loves Beans”)"
@@ -359,26 +296,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 112
 - Direct quote: "Takka: What about greens? You hate them, too?"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 113
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 114
 - Direct quote: "(once more speaking with Takka about the quest after beginning “Everyone Loves Beans”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 115
 - Direct quote: "Takka: Hmm… You say ya hate beans, son, but I reckon a batch of mine’ll change your mind."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 116
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 117
 - Direct quote: "(quest description for “Everyone Loves Beans”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 118
 - Direct quote: "Takka is running low on ingredients again. Noctis agrees to drive away the beasts that are blocking the supply route, and deliver the beans to Takka’s Pit Stop."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 119
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 120
 - Direct quote: "(completing the “Everyone Loves Beans” quest)"
@@ -431,26 +359,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 136
 - Direct quote: "Takka: Much obliged t’ya."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 137
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 138
 - Direct quote: "(speaking with Takka about the quest after beginning “Lestallum’s Finest”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 139
 - Direct quote: "Takka: Lestallum ain’t exactly a stone’s throw away."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 140
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 141
 - Direct quote: "(again speaking with Takka about the quest after beginning “Lestallum’s Finest”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 142
 - Direct quote: "Takka: If y’all bring back enough of the stuff, I oughta be set for quite some time."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 143
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 144
 - Direct quote: "Gladiolus: The man just assumes we’ll do his errands for him."
@@ -466,9 +385,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 148
 - Direct quote: "An important ingredient is available only in the thriving market town of Lestallum. Takka is too busy to make the trip, so he requests Noctis to go in his stead."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 149
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 150
 - Direct quote: "(completing the “Lestallum’s Finest” quest)"
@@ -503,9 +419,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 160
 - Direct quote: "Prompto: But not Takka. Maybe they’re for a new dish?"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 161
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 162
 - Direct quote: "(beginning the “A Meat Most Magnificent” quest)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
@@ -536,26 +449,17 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 171
 - Direct quote: "Takka: Thanks, son."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 172
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 173
 - Direct quote: "(speaking with Takka about the quest after beginning “A Meat Most Magnificent”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 174
 - Direct quote: "Takka: Always wanted to try whippin’ up a dish with this."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 175
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 176
 - Direct quote: "(quest description for “A Meat Most Magnificent”)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 177
 - Direct quote: "As usual, Takka is looking for new ingredients, but the beast he wants hunted is quite the fearsome foe. Noctis and his friends agree to slay the massive catoblepas and bring back its meat."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 178
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 179
 - Direct quote: "(completing the “A Meat Most Magnificent” quest)"
@@ -602,9 +506,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 193
 - Direct quote: "The final battle will commence once you leave Hammerhead."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 194
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 195
 - Direct quote: "(speaking with Takka)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
@@ -617,9 +518,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 198
 - Direct quote: "Takka: Can’t even boil a pot of water without worryin’ it’s gonna spill all over the place! Only got a splash of stock left in the fridge. Like to run dry if these quakes don’t quiet down soon."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 199
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 200
 - Direct quote: "Ignis: Tiny and short-lived, besides. Some mountains aren’t meant to be climbed, though with time, we might conquer it."
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
@@ -629,17 +527,11 @@ Preference claims should be limited to explicit statements, repeated routines, o
 ### Quote 202
 - Direct quote: "[Note: Should the player actually kill the Adamantoise during this quest, as seen in"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 203
-- Direct quote: ""
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 204
 - Direct quote: "(beginning the “Lonely Rumblings in Longwythe” hunt by speaking with Takka and asking to join the hunt)"
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 205
 - Direct quote: "The adamantoise will duck into its shell if you flee from battle. If you wish to rejoin the hunt, you will have to start from the beginning."
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 206
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 207
 - Direct quote: "(speaking with Takka)"
@@ -649,9 +541,6 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 209
 - Direct quote: "Oracle Ascension Coin x 1"
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 210
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 211
 - Direct quote: "(advertisement on the front window of Takka’s Pit Stop)"
@@ -679,7 +568,4 @@ Preference claims should be limited to explicit statements, repeated routines, o
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
 ### Quote 219
 - Direct quote: "Study on the Nature of Photophilic Particles"
-- Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
-### Quote 220
-- Direct quote: ""
 - Why it matters: This line anchors one or more claims in the analysis section for Takka, especially role behavior, relationship stance, or timeline placement.
